@@ -1,0 +1,39 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Physical Match Examination
+
+Introduction
+
+If objects are subjected to a force that causes them to be broken, cut or torn, a distinctive fractured surface and/or edge is ordinarily formed. A scientific examination of the broken, cut or torn pieces can be conducted in order to determine whether or not they once formed part of the same object. This is known as a physical match examination and can be performed on various materials such as plastic, metal, tape, fabric, glass and paint.
+Examination
+
+The fractured surfaces or cut/torn edges are examined using an appropriate level of magnification to determine if corresponding features exist. Surface features that cross the physical match may also be observed.
+
+If there is insufficient detail between the fractured surfaces or cut/torn edges of the pieces being fit together, then a physical match cannot be determined. To determine whether or not the pieces can be excluded as having originated from the same source, a microscopic and chemical analysis can be performed.
+Interpretation
+
+If the known and questioned items share sufficient corresponding random characteristics and there are no contraindicating features observed, the examiner will conclude that a physical match has been identified which indicates that the items were once part of a single object. It is extremely unlikely that another broken, cut or torn object of the same type could also be, at random, physically matched to these pieces, however it cannot be proven to be impossible.
+
+This conclusion is based on objective observations made by an examiner who has received specific training to be able to recognise incidental surface features and corresponding features on fracture surfaces that are of significance.
+
+An opinion that is expressed as a conclusion of a physical match is the highest degree of confidence expressed by trace evidence exam­iners in physical comparisons.
+Limitations
+
+It is not possible to:
+
+    set a numerical or statistical threshold to define what might be a sufficient number/type of corresponding features.
+    determine with absolute certainty that a physical match between two items is due to them having once formed part of the same object
+
+The interpretations and conclusions in the report take into consideration these scientific limitations.
+Physical Match Glossary
+
+Fracture/Cut/Tear: the separation of an object into two or more pieces under the action of stress.
+
+Fracture edges and surfaces: These are the edges along the fracture and the surfaces facing each other when the fracture is reconstructed.
+
+Physical Match: Two or more items that share sufficient corresponding random characteristics that indicate that the items were once part of a single object.
+Techniques/Instrumentation Glossary
+
+Stereoscopic Microscopy : A stereo microscope is used to view the item at various levels of magnification. A typical stereo microscope will range from 4 times magnification up to 100 times magnification.
+
+Scanning Electron Microscopy (SEM) : The SEM produces a magnified image based on the interaction of an electron beam with the sample’s surface. Magnifications in the range of 100 times are routinely used with the SEM, though the SEM may be operated at much higher and lower magnification depending on the features being examined.

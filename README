@@ -1,0 +1,18 @@
+1. Environment setup
+
+    conda create -n rasa-cfs python=3.8
+    mkdir rasa-cfs
+    cd rasa-cfs
+    pip install rasa
+    pip install bs4
+    pip install openai
+    pip install jsonlines
+    rasa init 
+
+2. OpenAI API environment variable setup
+
+    export OPENAI_API_KEY='sk-...'
+
+3. Run Action Server
+
+    rasa run actions

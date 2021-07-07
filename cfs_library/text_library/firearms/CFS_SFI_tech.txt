@@ -1,0 +1,57 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Suspicious Firearms Index
+
+Introduction
+
+The Suspicious Firearms Index ( SFI ) initiative is a streamlined process that provides police agencies with investigative information regarding whether a seized/recovered firearm is linked to a shooting occurrence through the upload of test fired ammunition components to the Canadian Integrated Ballistics Identification Network ( CIBIN ) database. Those images could also be compared to the National Integrated Ballistic Information Network ( NIBIN ) database in the United States of America (U.S.A.) where information indicates that the firearm may have originated or passed through the U.S.A. Submissions under this initiative consist of either a commercial firearm or agency generated test fired ammunition components.
+
+Note: A full examination of the firearm will not be conducted ( e.g. , classification of the firearm as per the Criminal Code of Canada) in cases processed under the SFI initiative.
+Submission Guidelines
+
+Cases submitted under the SFI initiative must meet the following requirements:
+
+    Investigation indicates the firearm may have been stolen, used in a criminal offence, recovered in relation to a criminal investigation, modified in a manner associated with criminal activity ( e.g. , defaced serial number, cut down), or associated with individuals who have a criminal history.
+    The firearm(s) has been commercially manufactured. No improvised firearms (including homemade firearms and drilled out starters pistols/revolvers), pellet or flare guns will be accepted.
+    The submission date of the firearm(s) is within one year of the seizure date. Exceptions may be evaluated on a case-by-case basis.
+    The firearm seizure date is known and indicated on the case submission.
+    If a NIBIN search is requested, the case submission must include the reason for the search ( e.g. , firearm was stolen from somewhere in the U.S.A. ​) and the specific state(s) the agency would like searched.
+    These requirements also apply to cases involving the submission of agency-generated test fires.
+
+Circumstances not normally considered suspicious (not exhaustive):
+
+    Guns recovered as part of an amnesty
+    “Found firearms” recovered under non‐suspicious circumstances
+    Canadian Border Services Agency or Ministry of Natural Resources and Forestry seizures
+    Suicide/attempted suicide
+
+Additional requirements for firearms and agency generated-test fires are outlined below:
+
+Firearms
+
+    Do not submit ammunition.
+    Comparison to specific cases may also be requested when submitting firearms under the SFI initiative.
+
+Test fires
+
+    The make, model, calibre and serial number of the firearm (when known) must be included on the case submission. This information should be included in the item description when test fires from multiple firearms are submitted. If any of the above identifiers are not known, please list as “Unknown”.
+    Pristine ammunition (e.g. no cycled ammunition) is used.
+    The same brand of ammunition is used to generate each set of test fires.
+    When possible, ammunition loaded with copper jacketed bullets and brass primers (absent of letters and primer sealant on the primer) are preferred.
+    Three cartridge/shotshell cases and three bullets, if applicable must be submitted per firearm.
+    If a bullet recovery system is not available, please submit the firearm.
+    Multi-barrelled firearms – submit 3 test fires from each barrel and label accordingly
+    Revolvers require six test fires (3 lead bullets and 3 copper jacketed bullets)
+    Exception: Three lead bullets required for revolvers of the following calibres:
+        .22 Short/Long/Long Rifle
+        .32 S&W/S&W Long
+        .38 S&W
+
+Examination
+
+Prior to any attempt to test fire a submitted firearm, a mechanical evaluation is conducted to determine if the item is mechanically able and safe to fire.  Test fired ammunition components are microscopically compared to identify the best marked item(s) for upload to the CIBIN database. Some bullets are not acquired onto the CIBIN database, however, the IBIS Unit at CFS will retain test fired bullets of this type for possible future manual comparisons. Test fired ammunition components are transferred to the IBIS Unit and stored in accordance with the IBIS retention periods.
+Reporting
+
+For items submitted under the ‘ SFI ’ initiative, a standard letter will be issued to advise the submitter of the outcome of the examination.  Where linkages to other cases are developed, a Case Linkage report or Firearms Investigative Aid Notification letter is issued to notify the agencies involved.
+
+For cases examined under the ‘ SFI ​’ initiative where a specific cross-reference was requested, the results of the cross-reference will be reported. The report will inform the client that items were examined under the ‘ SFI ​’ initiative and an IBIS notification letter will not be issued.

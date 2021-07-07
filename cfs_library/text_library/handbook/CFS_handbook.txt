@@ -1,0 +1,1215 @@
+Centre of Forensic Sciences
+Handbook of Forensic Evidence for the Investigator
+Introduction
+
+This handbook provides an overview of the collection and packaging requirements for items being submitted to the Centre of Forensic Sciences ( CFS ), Sault Ste. Marie ( SSM ) and Toronto ( TOR ) locations.
+Contact Information
+Centre Receiving Office ( CRO )
+647-329-1350
+
+    case submissions and returns, proper packaging
+    supplies
+
+Biology
+647-329-1540
+Sexual Assault Scientific Advisor
+CFS.biology.sexualassault@ontario.ca
+647-329-1603
+High Volume Crime Scientific Advisor
+CFS.biology.highvolume@ontario.ca
+647-329-1601
+Major Crime Scientific Advisor
+CFS.biology.majorcrime@ontario.ca
+647-329-1602
+DNA Databank Hits Team
+CFS.NDDB.hits@ontario.ca
+647-329-1604
+
+Chemistry
+
+( e.g. , fire debris, gun shot residue, hairs and fibres, paint and glass, suspicious liquids or powders)
+Chemistry Scientific Advisor
+CFSChemistry.ScientificAdvisor@ontario.ca
+647-329-1500
+Physical Sciences
+647-329-1690
+
+Documents, firearms and toolmarks
+Physical Sciences Scientific Advisor
+Physical.Sciences@ontario.ca
+Toxicology
+647-329-1400
+
+General toxicology
+Toxicology Criminal Coordinator
+Toxcrim@ontario.ca
+647-329-1400
+Toxicology Coroner Coordinator
+CFSToxicologyCoronerCoordinator@ontario.ca
+647-329-1400
+Letters of Opinion
+CFS.lop.submissions@ontario.ca
+647-329-1430
+
+Organizational Development ( OD )
+Forensic science education services
+CFS.LectureRequests@ontario.ca
+The Ontario Forensic Pathology Service ( OFPS )
+416-314-4040
+CFS Sault Ste. Marie (SSM) Laboratory
+705-945-6550
+Fax 705-945-6569
+
+    SSM serves the districts of Sudbury, Algoma, Thunder Bay, Rainy River, Kenora, Temiskaming, Nipissing, North Bay and Cochrane.
+    Services offered at SSM include Biology and Toxicology. SSM does not provide services in Documents, Chemistry, Firearms or Toolmarks. All investigative agencies in Northern Ontario can access these services at TOR .
+    Additionally, all samples for the Biology High Volume Service should be directed to TOR .
+    Centre Receiving Office
+        705-945-6553
+    Fax
+        705-945-6569
+
+For submissions to the Toronto Laboratory, address/deliver to:
+The Centre of Forensic Sciences Toronto
+Centre Receiving Office
+25 Morton Shulman Avenue
+Toronto, ON
+M3M 0B1
+
+For submissions to the SSM Laboratory, address/deliver to:
+CFS Sault Ste. Marie Laboratory
+Centre Receiving Office
+70 Foster Dr. Suite 500
+Sault Ste. Marie, ON
+P6A 6V3
+
+For long term storage of post-mortem samples, identification of tissues, address to:
+The Ontario Forensic Pathology Service
+Forensic Services and Coroner’s Complex
+25 Morton Shulman Avenue
+Toronto, ON
+M3M 0B1
+General information
+Documentation
+
+The online web-submission system is used to submit evidence for all case types, including Letters of Opinion ( LOP ), for Toxicology interpretation. Clients are required to register in the system . The web system requires all evidence to undergo a pre-submission review prior to submission to the lab. The client will receive notification of which item(s) are approved along with packaging labels. Follow instructions on organizing approved evidence into packaging groups. No paperwork is required as all the information required is on the packaging labels which must be submitted with the item(s) for analysis.
+
+To submit case-related items to the TOR or SSM laboratories, all relevant parts of the web-submission system must be completed including:
+
+    the offense type, date, time, scene(s) of the incident
+    the first and last names, dates of birth and/or age of all persons in the case ( e.g. complainant/victim, deceased, accused, suspect, person of interest)
+    the name of relevant investigators, including the submitter, chief investigator, report recipient, evidence recipient, fire marshal, pathologist and coroner, as required
+    any related agency incident numbers, existing CFS case number or project name, as applicable
+    a brief description/synopsis of the events leading up to, during and subsequent to the occurrence including:
+        explanation as to how items are related to the occurrence
+        any pre-consultations with CFS staff regarding the case and/or items
+        list any court dates or any other reasons that may warrant an expedited examination in the synopsis
+    any urgent or priority case must be pre-authorized by a manager
+    a list of each item that is being submitted for testing
+    attach Coroner’s Warrants, Sexual Assault Evidence Kit ( SAEK ) Forensic Evidence Forms, Gun Shot Residue ( GSR ) Kit Questionnaires, signed DRE fact sheet and other relevant paperwork through the web-submission system when submitting items
+    Include all other information requested throughout this handbook
+
+A new submission is required every time evidence is submitted or re-submitted for analysis.
+Collection and Packaging of Evidence Items
+
+Note : Always apply Universal Biohazard Safety Precautions when handling all evidence, especially if there is a possibility of body fluids on items. If additional information is known, this can be included in the synopsis of the submission ( e.g. Hep -C positive).
+
+In addition, the CFS requires that evidence submissions that may contain, or have been exposed to carfentanil, and/or other potent opioids, be identified in the submission synopsis and on the packaging.  All submitters must use the following process to identify items that may have been exposed to potent opioid drugs:
+
+    Type POSSIBLE OPIOID HAZARD IDENTIFIED at the beginning of the synopsis.
+    Identify the exhibit(s), including vehicles, which may have been exposed, by adding POSSIBLE OPIOID HAZARD at the end of the item description.
+    Label the packaging and outer container with POSSIBLE OPIOID HAZARD .
+    For vehicles, place a sign on the outside of the vehicle stating POSSIBLE OPIOID HAZARD . Ensure the sign is large and clearly visible to the examiner.
+
+The following precautions are necessary to maintain the integrity of the evidence and ensure safety:
+
+    Always wear gloves and protective clothing when handling and packaging evidential samples and change the gloves/protective clothing when contaminated and when handling items from different sources.
+    When using disposable utensils ( e.g. razor blades) to collect evidence, use a new utensil for each sample collected.
+    Use water or alcohol to wipe scissors or forceps between the collection of different samples to prevent contamination. It is preferable to decontaminate such re-useable tools with a 1% bleach solution.
+    Keep comparison samples ( i.e. known) separate from questioned samples.
+    Items from different locations ( i.e. scenes) or individuals must be packaged separately.
+    Clearly note if any item(s) need to be protected for fingerprinting or safe handling.
+    Small items such as paint chips (except for physical match) or hairs/fibres should be packaged using the druggist’s fold and then placed in a properly sealed envelope.
+    Label each item ( i.e. the proximal container) that is submitted and include what the item is, its source ( i.e. who/where did it come from) where, and the time it was collected, when possible.
+    All containers shipped or mailed to the CFS must follow the on-line instructions and have at least one of the pre-approved packaging labels visible on the outer packaging.
+    Shipping containers used to send evidence must be properly packaged to avoid any damage and/or deleterious effects during transit. For more information about packaging and special delivery services, refer to the service courier’s website or call the section’s scientific advisor.
+    Containers that have evidence must be “properly sealed” to ensure continuity and to protect the contents from loss, cross-transfer, or contamination.
+        A container is “properly sealed” only if its contents cannot readily escape and only if entering the container results in obvious damage to the container and/or seal.
+    Boxes, envelopes and other containers must be sealed by firmly applying tamper evident tape across each potential opening ( e.g. top and bottom of box) of a container and initialling the tape.
+        Tamper-evident tape, which is tape that provides an indication that a container has been tampered with, should be used to ensure that a container is properly sealed.
+    A minimum of one uniquely initialled numbered CFS seal, or other numbered seal, is required on a container to uniquely identify the container for continuity purposes. If the seal is also used to ensure that a container is properly sealed, it should be placed in a way that when entering the container results in obvious damage to the seal.
+        Stickers, labels, non-evidence tape and portions of seals are not considered to be continuity seals.
+        Property bags are sufficient as long as the items contained within are properly secured.
+    If possible, avoid applying seals over pertinent information on items ( e.g. date and time of collection of samples on small hospital tubes). Note any such information in the synopsis.
+    List all seal numbers.
+    Air-dry items that are wet and/or stained with wet blood or other body fluids to prevent decomposition, except when requesting an examination for volatile ignitable liquids ( e.g. accelerants).
+        Items that are especially difficult to dry completely, such as leather and suede, must be packaged in paper and not plastic.
+    Samples of bodily fluids and/or body organs should be kept refrigerated until submission. Secured cooler boxes with ice packs should be used to submit biologicals to CFS .
+    Items soiled with wet biological fluids that cannot be adequately air-dried ( e.g. used condoms), should be submitted to the CFS inside a secured cooler box with ice packs.
+        Such samples should be kept frozen if being held in long term storage prior to submission.
+    Do not reuse any CFS containers/packaging for new cases due to potential cross-contamination of items.
+
+Druggist’s Fold for Collecting Trace Samples
+Figure 1: Druggist’s fold for collecting trace samples
+
+    With the material in a position just right of centre in the middle of the paper, fold the paper upwards in half.
+    Keeping the entire sample to the right, fold the paper half way over.
+    Shake the sample into the left corner of the pocket that is formed, and then fold the paper back in half.
+    Fold the top down and place the packaged sample in an envelope.
+    Make sure the envelope is properly taped so small items do not fall out of the corners during transit or any movement.
+
+Diagram of Druggist's fold
+Adhesive tape
+
+    Submit the object on which the tape is attached.
+    If that is not possible, mount the tape on a clean, non-porous surface ( e.g. a plastic sheet such as thick transparency film; avoid using plastic page protectors) and package in a thick plastic bag.
+    Do not try to separate the tape.
+    Protect tape ends for possible physical match and for potential sampling for "handler" DNA – consult with Scientific Advisor for assistance.
+    If fingerprinting is required, the examination sequence is usually to DNA , returned for fingerprinting and then resubmitted for physical match and comparison.
+    Note the fingerprinting techniques used in the synopsis.
+
+Comparison samples
+
+    Suspect tapes or roll of tape that are similar in colour, width and texture.
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Ammunition
+
+Cases that may involve calibre determination, distance determination, the identification and comparison of fired ammunition to suspect firearms, the identification of the possible make and/or model of a firearm and the determination of linkages to other occurrences.
+
+Ammunition is not routinely accepted for the purpose of identifying a possible “handler” (see Handler DNA ). However, swabs of spent cartridge cases may be accepted for this purpose (see Cartridge cases ) and bullets and bullet fragments from the scene may be accepted to test for the presence of blood.
+
+Fingerprinting and DNA analysis must be completed prior to the submission of ammunition to the Firearms and Toolmarks Unit.
+Unfired
+
+    For cases involving only unfired ammunition, there must be a prohibition order against the suspect/accused to be accepted.
+    If a firearm is being submitted, only submit a representative sample of ammunition ( e.g. , ½ capacity of the magazine).
+        Indicate whether more ammunition is available.
+    Unfired cartridges removed from the chamber and other unfired ammunition should be packaged in separate containers.
+    Do not remove unfired ammunition from detachable magazines, submit the magazine.
+    Do not re-insert cartridges into a magazine if they have already been removed.
+    Firearms and unfired ammunition should be packaged in separated containers unless the items will be picked up upon completion of examination ( e.g. , Toronto Police courier).
+    Note: Unfired ammunition should not be submitted in Suspicious Firearms Index (SFI) cases.
+
+Fired
+
+From a body:
+
+    Bullets and bullet fragments should be retrieved, if possible, by gloved hand or with plastic forceps to prevent alteration or damage.
+    Shotgun pellets should be retrieved by gloved hand or with plastic forceps, if possible. Submit a representative sample of the pellets ( i.e. maximum of 10), selecting the most intact and undamaged for submission.
+    If a bullet is embedded in bone and cannot be readily removed, remove that portion of bone and submit, keep under refrigerated conditions.
+    Remove any trace evidence ( e.g. , clothing fibres) from the projectile prior to rinsing.
+    Blood should be removed from ammunition and ammunition components ( i.e. bullets, wadding and pellets) as soon as is practicable, by rinsing with water and air drying completely prior to packaging.
+    Do not mark the bullet, mark the container.
+    Package items individually in a specimen jar, envelope, plastic box or bag.
+        Do not use glass containers.
+    Mark the container as bio-hazardous.
+
+From the scene:
+
+    If embedded, cut out the area containing the bullet.
+    Avoid altering or damaging ammunition during recovery, if possible.
+        Do not recover bullets with any type of metal tool.
+    If DNA analysis is not required, blood should be removed from bullets and cartridge cases as soon as is practicable, by rinsing with water and air drying completely prior to packaging.
+    Do not mark any part of the cartridge case or the bullet, mark the container.
+    Submit all bullet fragments found at the scene.
+    Package items individually in a specimen jar, envelope, plastic box or bag.
+        Do not use glass containers.
+    If applicable, mark the container as bio-hazardous.
+
+Comparison samples
+
+    Suspect firearm.
+    If relevant, DNA samples(s) from person(s) involved – see DNA SAMPLES – For Comparison Purposes .
+
+Rapid Assessment for IBIS Selection Examination (RAISE) Cases
+
+RAISE cases are those where the only requirement of the submission is to determine whether or not a shooting incident is linked to a previous shooting or suspect firearm.
+
+Submissions are restricted to cases where:
+
+    Only fired ammunition has been recovered from the shooting scene, no firearm has been recovered.
+    The occurrence is not a homicide.
+    There is no requirement to know the calibre or the type of firearm that discharged the fired ammunition or the number of firearms involved.
+    The ammunition components are associated to a shooting occurrence/investigation.
+
+Cases received that meet the RAISE acceptance criteria will be treated as RAISE cases unless otherwise specified by the submitter.
+
+Follow the collection and packaging guidelines outlined under Ammunition .
+Biology DNA High Volume Service
+
+Refer to the DNA High Volume Service Guide for requirements on evidence collection and submission.
+
+For any exceptions, contact the High Volume Crime Team Scientific Advisor via telephone or email.
+Blood collection kits ( BCKs )
+
+    Blood Collection Kits are used to collect blood samples for alcohol and/or drug-impaired driving investigations.
+    Ensure both tubes are individually and properly sealed, by placing the seal over the top of the container and down each side.
+    Add the required information to the seals.
+    List each blood tube as a separate item with the corresponding seal number when completing a web submission.
+    Place the tubes in protective bubble pack back in the kit box and add the subject’s name in the space provided on the front of the box.
+    Place the completed kit inside the self-sealing evidence bag provided and seal.
+    Keep the samples refrigerated.
+    Approved container kits are available the CFS supplies order form . A Certificate of a Qualified Medical Practitioner/Certificate of a Qualified Technician (Blood Samples, s. 320.32(1)) and instructions for using Blood Collection Kits area also available.
+
+Figure 2: Blood collection kit
+Sample of a blood collection kit available from the Centre for Forensic Sciences.
+Bloodstains
+
+Testing of items for the presence of blood prior to submission using commercially available kits can compromise DNA analysis as it may result in the removal of DNA , destruction of DNA , inhibition of DNA analysis and contamination with other sources of DNA during the testing process. Do not test items prior to submission with Hemastix®, or blood enhancing chemicals such as Luminol, BlueStar®, LMG , etc. , without prior consultation with a Biology Scientific Advisor .
+
+For submissions to the Biology DNA High Volume Service program, bloodstains must be swabbed (see below for swabbing instructions).
+
+For all other case types (refer to DNA Violent Crime Service Guide ).
+
+    Collect the whole item bearing the stain, if feasible and applicable.
+    Air-dry prior to submission, including clothing and fabrics.
+    Package the items individually in paper bags and submit.
+    Items, such as knives, should be packaged in a manner that limits their movement and prevents it from going through the container and presenting a potential health and safety risk. Minimizing the movement of such items also minimizes the loss of any adhering blood or other trace materials.
+
+Note : If it is not feasible, or applicable, to submit the actual item, then a sample(s) of the relevant stain(s) should be collected as follows:
+
+    take an overall photograph of the item to show the location of the stain
+    take a close-up photograph of the stain and include a scale in all photographs
+    collect the stain or stained area from the item as detailed below (see the following instructions for wet/dry stains on non-absorbent surface vs wet/dry stains on an absorbent surface)
+
+Wet/dry stains on a non-absorbent surface
+
+    Use a dry swab to collect a wet stain and a water-moistened swab to collect a dry stain. For small, faint and/or dilute stains, concentrate the stain on the tip of the swab.
+    Each stain should be swabbed separately, do not combine separate stains onto one swab (in situations where the collection of multiple stains per swab is warranted, such as when stains are limited in size and are proximal to one another, consult with a Biology Scientific Advisor prior to sampling).
+    All swabs should be packaged separately and must be air-dried prior to submission.
+
+Wet/dry stains on an absorbent surface
+
+    If wet, allow stains to air-dry.
+    Use a disposable razor blade/scalpel to excise the dry or dried stain. If a disposable razor/scalpel is not available, ensure that the implement being used ( e.g. scissors) has been decontaminated prior to use (with, for example, a 1% bleach solution).
+    Each stain should be collected and packaged separately.
+    If stains cannot be immediately air-dried, they should be stored frozen, air-dry prior to packaging and submission.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Body tissues/post mortem samples (other than lung)
+
+    Submit in a clean, leak proof container.
+    Do not store the tissue in any kind of fixative, such as formalin.
+    Tissue specimens requiring DNA analysis must be stored frozen pending submission.
+        Samples for toxicological analysis must be kept refrigerated.
+    When identification of tissue type is required, contact the Forensic Pathology Unit of the Office of the Chief Coroner at 416-314-4040.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Bones/teeth
+
+    Submit appropriate items to CFS for DNA analysis purposes only.
+    For other analyses, such as identification of type or species, contact the Forensic Pathology Unit of the Office of the Chief Coroner at 416-314-4040.
+
+Comparison samples
+
+    In the event that the bones/teeth are submitted as “unidentified remains”, see Reference/personal effect samples .
+
+Building materials (plaster, concrete, insulation etc.)
+Questioned samples
+
+    Submit the entire item ( i.e. tools or clothing), if possible.
+    See Clothing - for trace analysis or Tools for collection and packaging information.
+    Place any loose particles in rigid containers ( i.e. plastic jars) with tightly-fitting lids.
+    Try not to crush these materials.
+
+Comparison samples
+
+    Obtain representative samples, approximately 50 grams, from the damaged areas of the safe, wall, etc.
+    Package samples in leak-proof containers.
+    Handle and package comparison samples separately from questioned samples.
+
+Cartridge cases (for DNA analysis)
+
+Refer to Handler DNA . Cartridge cases have very low success rates in terms of DNA analysis and are not routinely accepted for analysis. However, where multiple cartridge cases from the same weapon are recovered, a single combined swab of all of them may be submitted. In all instances involving requests for DNA analysis on recovered cartridge cases, please contact the Biology Section in advance.
+Chemical, biological, radiological, and nuclear ( CBRN ) materials
+
+    CFS does not accept samples that are chemical, biological, radiological, or nuclear hazards.
+    Suspicious powders or liquids that may present radiological, biological or chemical warfare agent hazards must be screened prior to submission by a competent Hazmat or Emergency Response team such as OPP UCRT 905-857-5582.
+    See also Suspicious Liquids or Powders .
+    Please contact the Chemistry Scientific Advisor if you have any questions.
+
+Chewing gum
+
+    Collect with gloved hands or with forceps.
+    Package in a re-sealable plastic bag or plastic container.
+    Keep the samples frozen pending submission.
+    If the sample is to be submitted to the Biology DNA High Volume Service , the gum itself will not be accepted, therefore, the surface must be swabbed and only the swab is to be submitted
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Cigarette butts
+
+    Collect with gloved hands or with forceps.
+    Air-dry the samples prior to submission.
+    Package in a re-sealable plastic bag, plastic container or properly sealed envelope. If packaged in plastic, it is advisable to keep the samples frozen pending submission.
+    For numerous cigarette butts collected together from one location ( e.g. ashtray at scene), consult with the Biology Section prior to submission.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes.
+
+Clothing – for analysis of blood, saliva, semen and DNA analysis
+
+Testing of items for the presence of blood prior to submission using commercially available kits can compromise DNA analysis as it may result in the removal of DNA , destruction of DNA , inhibition of DNA analysis and contamination with other sources of DNA during the testing process. Do not test items prior to submission with Hemastix®, or blood enhancing chemicals such as Luminol, BlueStar®, LMG , etc., without prior consultation with a Biology Scientific Advisor .
+
+For submissions to the Biology DNA High Volume Service refer to the DNA High Volume Service Guide for requirements on clothing evidence collection and submission.
+
+For submissions to the Biology DNA Violent Crime Service, refer to the Violent Crime Service Guide for information regarding item acceptance and submission requirements.
+
+For all other Violent Crime Service cases:
+
+DNA Violent Crime Service Guide for information regarding item acceptance and submission requirements.
+
+    air-dry if wet or bloodstained
+    package each item individually using paper
+    list the source of the clothing
+    items that have been washed or laundered should be discussed with the Biology Section prior to submission
+
+DNA Violent Crime Service Guide for information regarding item acceptance and submission requirements.
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Clothing – for damage analysis
+
+    Submit the item containing the damage.
+    Air-dry the item if wet or bloodstained.
+    Leave all cuts, tears, holes and seam separations as found.
+    Do not hang to dry.
+    Lay the item on a flat surface for drying.
+    Package each item individually in a paper bag.
+    List the source of the clothing.
+
+Comparison samples
+
+    Instrument(s) that may have inflicted the damage, keep clothing away from the vicinity of an instrument.
+    Package instruments separately from clothing.
+    See Weapons for packaging information.
+
+Clothing – for gunshot residue analysis, see “GSR – on clothing”
+Clothing – for trace analysis ( e.g. glass, paint, hairs and fibres)
+
+Examination and/or photographing of items prior to submission can compromise trace analysis as it can result in the loss of trace material and/or contamination.
+
+    Examination and/or photographing of items prior to submission can compromise trace analysis as it can result in the loss of trace material and/or contamination.
+    Air-dry wet or bloodstained items on/over two layers of clean sheets of paper to catch any loose, falling particles.
+    Fold and submit the top sheet of paper with the clothing.
+    Do not shake the item and do not remove particles from clothing.
+    Handle each article of clothing on a clean piece of paper.
+    Fold and submit the paper with the clothing.
+    Package each item individually using paper bags. Label each item.
+    In hit-and-run cases, submit all of the clothing belonging to the victim as well as any other possessions ( e.g. purses and backpacks).
+    Retain and submit the original packaging, if applicable.
+    List the source of the clothing.
+    See also Glass , Paint , Hairs and Fibres .
+
+Clothing – for analysis of lachrymators and ignitable liquids
+
+    Do not air-dry the clothes.
+    Suspect’s clothing should have been packaged within 24 hours of the occurrence.
+        If more than 24 hours has elapsed between the occurrence and packaging of the clothing, a Chemistry Section scientist or manager should be consulted to determine whether or not the item is suitable for submission.
+    Depending on the size of the item, submit in glass Mason jars with metal lids and rings ( Figure 3 ), or in specialty nylon bags ( Figure 4 ).
+    Glass Mason jars and lids should be washed in hot water without soap ( i.e. in dishwasher) after purchase and then stored with the lids in place.
+    Do not fill Mason jars more than ¾ full.
+    Leave air space in the nylon bags.
+    Nylon bags should be closed by twisting the bag opening, folding it over and tying or taping closed – swan neck seal ( Figure 4 ).
+    Handle and package clothing separately from scene debris and any liquid samples.
+    List the source of the clothing.
+    Victim clothing with biological fluid or tissue should be refrigerated if possible.
+
+Comparison samples
+
+    An empty Mason jar ( Figure 3 ) and lid from the same group of jars used in the packaging of clothing samples.
+
+Condoms
+
+    Collect with gloved hand or forceps.
+    Package in a clean, leak proof specimen container.
+    Must be kept frozen pending submission.
+    Submit promptly upon removal from freezer storage.
+    Lubricant from a condom can also be examined for comparison to items from the sexual assault evidence kit.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+    Condom wrappers or unopened condoms for comparison of lubricants. Condom wrappers can be placed in individual plastic bags
+
+Controlled substances
+
+    CFS will not accept items for analysis for the following scenarios and clients are asked to contact Health Canada Drug Analysis Service Lab at 416-973-1453.
+    suspected drugs/controlled substances and drug paraphernalia in death investigations
+    suspected drugs/controlled substances in criminal investigations ( e.g. sexual assault)
+    Please contact the Chemistry Scientific Advisor if you have any questions.
+
+Counterfeit bank notes
+
+    Contact the RCMP in Ottawa for more information at 613-993-0664.
+
+DNA High Volume Service
+
+For submission to the DNA High Volume Service refer to the DNA High Volume Service Guide and the DNA High Volume Service Protocol for requirements on evidence collection and submission.
+
+For any exceptions contact the Biology Section , High Volume Crime Team Scientific Advisor via telephone or e-mail.
+DNA Samples – for comparison purposes
+Blood samples collected by finger-prick
+
+    Always wear gloves.
+    Wipe the donor’s fingertip with alcohol and prick the fingertip with a sterile lancet.
+    Have the donor spot the blood drops onto sterile gauze, cotton paper or FTA® paper.
+    Create a blood stain approximately 2 centimeters diameter, if possible.
+    Air-dry the item and submit.
+
+Pulled hairs
+
+    At least 10-15 pulled scalp or pubic hairs with root sheaths.
+    Package the hair into a folded paper ( Figure 1 ) and place in a securely sealed envelope.
+
+Oral/buccal swab
+
+    Have the donor rinse his/her mouth twice with water.
+    Swab the inside of the cheek by rubbing up and down 10 times with a sterile swab.
+    Air-dry the swab prior to submission.
+    It is recommended to take two buccal swabs (however, only one swab needs to be submitted).
+
+Atypical samples
+
+    When it is not possible to obtain a comparison sample directly from an individual in question, certain items may be suitable for use either as a reference sample or a discard sample. Such items should be those which contain a sufficient amount of DNA for analysis with an expectation that the only source of DNA detected will be attributable to the individual who used or discarded the item (see examples of Reference/personal effect/Discard samples).
+
+Reference/personal effect samples
+
+    submit items such as: toothbrushes, hairbrushes, razors or other personal or intimate items believed to belong to a particular individual
+    consult with the Biology Section if in doubt or for assistance
+
+Discard samples
+
+    submit used items such as: cigarette butts, chewing gum, drinking containers, eating utensils, etc., seen to be used by one specific individual
+
+DNA samples – for comparison purposes
+
+For all DNA samples submitted for comparison, clearly indicate whether the DNA sample is a warrant, consent, familial, discard or personal effects sample.
+Protocol for all DNA Warrant and DNA Consent Samples:
+
+For all DNA Warrant samples or Consent samples taken from accused individuals, suspects, persons of interest or from individuals for the purpose of elimination:
+
+    DO NOT INCLUDE the name of the donor in the synopsis or description beside the exhibit # and seal #, when listed; instead the sample must be given a ‘code’, such as:
+        CDW (comparison DNA warrant sample) – e.g. ‘CDW-1’
+        CC (consent comparison sample) – e.g. ‘CC-1’
+        ELS (elimination sample) – e.g. ‘ELS-1’.
+    The name of the donor of the comparison sample should NOT appear within the description provided for the exhibit/sample. However, it should be included on the sample packaging ( e.g. FTA card).
+    The record of the donor’s name and the associated item identifier or ‘code’ must remain with the submitting agency. This protocol has been designed to ensure compliance with DNA destruction requirements outlined in the Criminal Code .
+    Duplicate samples from the same individual (such as duplicate buccal swabs), should be assigned the same code, if submitted.
+
+Note: The above ‘coding’ protocol does NOT APPLY to comparison samples from individuals listed as ‘Complainants’ or deceased individuals, nor does it apply to discard samples.
+DNA samples – obtained by warrant
+Blood
+
+    must be collected by a police officer or other individual who has been trained in the collection of DNA warrant samples
+    use the DNA warrant blood sample collection kits, available through the CFS website
+    please refer to guidelines provided within the DNA Warrant Collection Kits.
+
+Note: Warrant sample collection kits for buccal swabs and head hairs have been discontinued. However, CFS continues to provide guidance if these samples need to be collected.  Refer to the DNA Warrant Letter in the Biology Section.
+DNA samples – obtained by consent
+Blood
+
+    Always wear gloves.
+    Wipe the donor’s fingertip with alcohol and allow the finger to air dry.
+    Prick the fingertip with a sterile lancet.
+    Apply the blood onto sterile gauze, cotton paper or FTA paper.
+    Create a continuous blood stain approximately 2 centimeters diameter, if possible.
+    Air-dry the item and submit (please note: some collection kits may not require the sample to be air dried before packaging).
+
+Oral/Buccal Swabs
+
+    Have the donor rinse his/her mouth twice with water.
+    Swab the inside of the cheek by rubbing up and down 10 times with a sterile swab.
+    Air-dry the swab prior to submission.
+    It is recommended to take two buccal swabs. However, only one swab needs to be submitted.
+
+Familial Samples
+
+    In the event that the above samples are not available, some familial samples can be used for comparison purposes.
+    Consult with the Biology Section depending on the type of case (see contact numbers for Major Crime, Sexual Assault and High Volume Scientific Advisors).
+
+Personal effect samples
+
+    Submit items such as: toothbrushes, hairbrushes, razors or other personal or intimate items believed to have been used solely by a particular individual;
+    Consult with the Biology Section if in doubt or for assistance.
+
+Discard Samples
+
+    Submit used items such as cigarette butts, chewing gum, drinking containers, eating utensils, etc. , seen to be used by one specific individual.
+
+Personal Effect Samples
+
+    Submit items such as: toothbrushes, hairbrushes, razors or other personal or intimate items believed to belong to a particular individual.
+    Consult with the Biology Section if in doubt or for assistance.
+
+Dye-pack dye (MAAQ)
+
+    If the item is an activated dye-pack device, submit in plastic bag or paper bag Do not package an activated dye-pack device together with any other items.
+    Clothing and other items ( e.g. gloves, money bags, fabric cut-outs from car seats) should be submitted in paper bags. Swabbing may not recover a sufficient amount of material for analysis.
+    Banknotes can be submitted in paper envelopes.
+
+Drug and alcohol analysis
+
+    Biological samples including blood, serum, plasma, urine, liver and stomach contents can be submitted for drug analysis.
+    Non-biological samples may include food, liquid, syringes, glassware. CFS will not accept items for analysis for the following scenarios and clients are asked to contact Health Canada Drug Analysis Service Lab at 416-973-1453.
+        Suspected drugs/controlled substances and drug paraphernalia in death investigations
+        Suspected drugs/controlled substances in criminal investigations ( e.g. sexual assault)
+
+Please contact the Chemistry Scientific Advisor if you have any questions
+Envelope flaps and stamps
+
+    Do not fingerprint prior to submission to CFS.
+    sSubmit still affixed to the item in question i.e. do not attempt to open flaps or otherwise remove stamps in any way (such as steaming).
+    2x2 centimeter cut-out of envelope flaps are accepted for the Biology High Volume Service Program .
+    Indicate if the item needs to be protected for fingerprinting.
+    Package in a re-sealable bag or in another envelope.
+    Use tape when sealing the outer container; do not moisten it with your own saliva.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Explosives
+
+    Before submitting any explosives-related items, contact the Chemistry Section to review the submission and to ensure that an explosives examiner will be present to discuss the submission when you arrive.
+    Should any components have the potential to yield body fluids/ DNA consider contacting a Biology Scientific Advisor .
+    These items must be delivered in person during regular working hours.
+        Do not submit in evidence submission lockers.
+    Submit all items in clean, transparent containers that can be sealed, such as Mason jars, nylon bags, glass vials, plastic bags and plastic containers.
+        For liquid items, Mason jars ( Figure 3 ) are recommended.
+    Submit photographs of the scene if available.
+    For most intact explosives, a few grams is suitable, however, for very sensitive explosives only smaller amounts will be accepted and care must be taken when handling and transporting them.
+    Submit labelled wrappers if available and any other pertinent information found at the scene.
+    For post-blast debris, collect the remains of all parts of the suspected device and debris ( e.g. metal, glass, wood, etc.) from the seat of the explosion and the surrounding area.
+    Package debris from different areas in separate containers.
+    Intact explosives will be destroyed six months following the analysis unless picked up by the submitter.
+    Post-blast debris will be shipped back to the submitter unless other instructions are received.
+
+Fibres
+
+    Submit the entire item bearing the fibres, if possible.
+    Air-dry wet or bloodstained items on/over two layers of clean sheets of paper to catch any loose, falling particles.
+    Fold and submit the top sheet of paper with the clothing.
+    Items for fibre examination must be packaged individually using  paper only.
+    Do not use plastic.
+    Weapons with fibres present should be packaged to minimize loss.
+    See Weapons .
+    If it is not practical to submit the entire item, the fibres or fabric can be removed and submitted as described below.
+        Fibres can be collected using clear cellulose tape; do not use fingerprinting tape or frosted/opaque tape.
+        Tapes should be placed sticky side down on clear plastic sheets and submitted in envelopes, tapings from different items must be packaged separately.
+        Embedded fibres can be collected using forceps and placed onto cellulose tape, as above, or they can be placed in a folded paper ( Figure 1 ) and sealed in an envelope.
+        When collecting fabric samples, remove them carefully and package in a folded paper ( Figure 1 ) and seal in an envelope.
+        Label each sample as to its specific source and/or location.
+
+Comparison samples
+
+    Submit the entire item that may have transferred fibres ( e.g. clothing, rug, blanket).
+    If the entire comparison item cannot be submitted, cut out an area large enough to provide a representative sample of the item.
+    Always keep items to be examined completely separate from all comparison samples so as to prevent contamination of evidence items.
+
+Fingernail clippings and scrapings
+
+    Fingernail clippings are generally preferred but samples can be collected as either clippings or by scraping the under-surfaces of the nails.
+    Collect and package the samples (clippings or scrapings) into a piece of folded paper ( Figure 1 ).  Only take one sample for each hand.
+    Package and submit samples from the left and right hands in separate envelopes.
+    Ensure the envelopes are properly secured ( i.e. all edges should be taped) to prevent clippings from falling out.
+
+Clippings
+
+    Single use nail clippers should be used.
+    Sample each hand separately by cutting each nail as close to the fingertip as possible without cutting the nail bed.
+    Collect all the clippings from one hand together.
+    Repeat for the other hand.
+
+Scrapings
+
+    Sample each hand separately.
+    Use the rounded end of a fingernail scraper to scrape out the area under each nail.
+    Use one fingernail scraper per hand and include the scrapers with each set of scrapings.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA Samples – for comparison purposes .
+
+Fingerprinting
+
+    Contact the appropriate police identification unit.
+
+Fire debris
+
+    Submit only in glass Mason jars with metal lids and rings ( Figure 3 ), or in specialty nylon bags ( Figure 4 ).
+    Glass Mason jars and lids should be washed in hot water without soap ( i.e. in dishwasher) after purchase and then stored with the lids in place, away from all potential sources of ignitable liquid.
+    Jars should not be more than ¾ full.
+    Package the jars carefully to prevent breakage in transit ( i.e. wrap in paper, poly-net, bubble wrap, etc.).
+    If necessary, for added protection against loss and/or entry of volatile ignitable liquid vapours, each Mason jar may be placed into a clean, unused nylon bag, which is then swan-neck sealed and taped closed.
+    If alcohols, solvents or lacquer thinners are suspected, only use glass Mason jars ( Figure 3 ).
+    Leave air space in the nylon bags and use the swan neck seal to close by twisting the bag opening, folding it over and taping it shut ( Figure 4 ).
+    Food, vegetation and soil must be refrigerated immediately.
+        Submit in appropriately labeled Mason jars ( Figure 3 ).
+    Clothing - see Clothing – for analysis of volatile ignitable liquids .
+    Scene debris, clothing, and liquid samples must all be packaged separately.
+    Fuel containers found at the scene should be closed with their screw top/stopper if present, and packaged in a swan-neck sealed nylon bag ( Figure 4 ).
+    When large quantities of liquid remain in a container at the scene, submit a sample of the liquid in a vial or on an absorbent:
+        Vial
+            submit in glass vials with foil-covered lid liners
+            Mason jars may be used, but should then be double-bagged in nylon bags
+            submit no more than 20 milliliters
+        Absorbent
+            use a substrate ( e.g. paper towel) to absorb a sample of the liquid
+            place the soaked substrate in a Mason jar ( Figure 3 ) and submit
+
+Comparison samples
+
+    An empty Mason jar and lid from the same group of jars used in the packaging of the case samples.
+    Samples of materials remote from the area of burning for comparison to suspected fire debris ( e.g. wood, carpeting, tiles, etc.).
+    Containers, liquids, rags in possession of, or available to a suspect.
+    Samples of all materials used to collect evidence samples ( e.g. paper towels, swabs).
+
+Glass Mason jar with fire debris
+Figure 3: Glass Mason jar with fire debris
+Specialty bag with swan neck seal.
+Figure 4: Specialty nylon bag with swan neck seal.
+Firearm discharge residue – distance determination
+On clothing
+
+    Only the primary target surface will be accepted ( i.e. the top layer of clothing).
+    Include a description of how the clothing was worn at the time of the shooting.
+    Do not cut through or near a bullet hole when removing the victim’s clothing.
+    Air dry wet or bloodstained clothing.
+    Protect the bullet entrance area by placing clean paper over the affected area and place clean cardboard behind it to prevent bending
+    Put each article of clothing in a separate container.
+    Avoid unnecessary handling and contact with any area containing discharge residues.
+    Distance determinations will only be conducted where the suspect firearm and a sample of the same ammunition used in the shooting occurrence are available and submitted. If either of these is not available, contact the Physical Sciences Section , Firearms and Toolmarks Unit prior to submission.
+
+On tissue
+
+    Photographs of the wound and surrounding area should be submitted rather than the wound itself.
+    1:1 scaled photographs should be taken of the wound and surrounding area, at 90 degrees. These photographs can be saved to a CD or similar digital media and submitted to the CFS .
+    The wound should continue to be excised and stored by the investigating agency under refrigerated conditions.
+    If photos are not sufficient, a request will be made to submit the wound.
+    Distance determinations will only be conducted where the suspect firearm and a sample of the same ammunition used in the shooting occurrence are available and submitted;If either of these is not available, contact the Physical Sciences Section , Firearms and Toolmarks Unit prior to submission.Submit the autopsy report, if available.
+
+Comparison samples
+
+    suspect firearm
+    a sample of the same ammunition used in the shooting occurrence
+
+Firearms
+Forensic cases
+
+Cases that may involve the identification and comparison of fired ammunition to suspect firearms, the examination of modified firearms, non-functioning firearms, firearms with a safety concern, distance determinations, serial number restoration, accidental discharge examinations and trigger pull testing.
+
+Note : Unaltered commercial firearms submitted for the purpose of classification are no longer being accepted unless:
+
+    they involve safety concerns regarding their operation.
+
+Air guns will be accepted for the purpose of classification if it has been used in the commission of an offence or there is a prohibition order against the accused.
+
+Fingerprinting and DNA analysis, if relevant must be completed prior to the submission of firearms to the Firearms and Toolmarks Unit.  See also Weapons if DNA is relevant.
+
+Suicide cases are not normally accepted for firearms examination.
+
+    If trace evidence ( e.g. blood, hair) may be present on the firearm, wrap with paper or plastic to prevent loss.
+    Remove any cartridges or cartridge cases from the chamber and package separately.
+    Remove cartridges from a revolver, note and number the position of the fired cartridge cases and unfired cartridges.
+    Remove the magazine from the firearm.
+    Do not disassemble the firearm. If the firearm is already disassembled, make a note in the synopsis and do not attempt to reassemble.
+    Do not submit a loaded firearm without prior consultation with the Physical Sciences Section , Firearms and Toolmarks Unit.
+    Do not clean the firearm.
+    Do not attempt to insert items into the firearm or magazine.
+    Package the firearm in a rigid box/container for shipment and try to prevent movement of item.
+    Firearms and unfired ammunition should be packaged in separate containers unless the items will be picked up upon completion of examination ( e.g. Toronto Police courier).
+    Firearms found in water should be submitted to the CFS in the same water as when found. If this is not possible, they should be dried completely and coated with gun specific lubricant and notify the CFS and submit promptly. The same applies to firearms found in snow.
+    Firearms not in the same condition as at the time of the occurrence are not suitable for trigger pull safety tests.
+    Target surfaces will not be accepted for trajectory analysis where the projectile impact sites have been permanently damaged/altered by the investigating agency.
+    Note the make, model, type, calibre/gauge and serial number of the firearm.
+    Ensure the occurrence date, as well as the firearm seizure date is listed.
+    Serial number restoration should be conducted following analysis by the Firearms and Toolmarks Unit.
+    If applicable, mark the container as bio-hazardous.
+
+Comparison samples
+
+    Representative sample of the type of ammunition that could have been fired in the weapon ( e.g. ½ the capacity of the magazine).
+    Indicate whether more ammunition is available.
+    Bullets and cartridge cases recovered at a shooting scene or from victims of a shooting.
+    Comparison to specific shooting occurrence(s) can be requested.
+    Comparison to the USA ’s IBIS database, NIBIN , can be requested if there is evidence that the  firearm was used in or has been stolen from the USA .
+    Contact the Physical Sciences Section, Firearms and Toolmarks for more information.
+
+Suspicious Firearms Index (SFI) Cases
+
+SFI cases are those that involve only the determination of whether a seized firearm has been used in a previous shooting incident.
+
+    Submissions are restricted to commercial firearms where investigation indicates the firearm may have been stolen, used in a criminal offence, found in relation to a criminal investigation or associated to individuals with a criminal history only:
+        No homemade firearms, drilled out starter pistols/revolvers, flare guns, or air/pellet guns will be accepted.
+    Firearm must be completely assembled.
+    Firearm must be in firing condition or may be easily restored to firing condition.
+    Classification of the firearm will not be conducted by the CFS .
+    No ammunition will be accepted.
+    Occurrence date and firearm seizure date must be clearly noted.
+    Include the make, model, type, calibre/gauge and serial number.
+    Follow the collection and packaging guidelines as outlined above for Forensic Cases .
+    Agencies generating their own test fires should contact the IBIS Unit prior to submission to ensure proper guidelines are being followed.
+    Unit prior to submission to ensure proper guidelines are being followed.
+
+Comparison samples
+
+    Comparison to specific shooting occurrence(s) can be requested.
+    Comparison to the USA ’s IBIS database, NIBIN , can be requested if there is evidence that the  firearm was used in or has been stolen from the USA .
+    Contact the Physical Sciences Section, Firearms and Toolmarks for more information.
+
+Food
+Food for chemical analysis
+
+    In cases where the suspected cause of poisoning is food to which drugs or chemicals have been added, submit the product in its original container, as soon as possible.
+    Submit foodstuff in glass Mason jars when the presence of volatile liquids is suspected ( Figure 3 ).
+    Keep samples refrigerated or frozen and submit as soon as possible.
+    Cases of poisoning involving spoiled food should be directed to the laboratory services branch of the Ontario Ministry of Health and Long-term Care at 416-235-5716.
+
+Food for DNA Analysis
+
+    Collect with gloved hands or with forceps.
+    Package in a re-sealable plastic bag or plastic container.
+    Keep the samples frozen.
+    Consult with a representative of the Biology Section prior to sampling or submission.
+
+For submissions to the Biology DNA High Volume Service refer to the DNA High Volume Service Guide requirements on food evidence collection and submission.
+Comparison samples
+
+    Possible source(s) of the poison/chemical. Information/photo from the label of the container of the comparison material if the container is not being submitted.
+    A sample of the unadulterated food product.
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+    Package comparison samples separately from questioned samples.
+
+Gases
+
+    The CFS is able to identify a wide range of vapours and gaseous materials in air samples, but is not able to measure the natural components of air, such as oxygen and nitrogen, or to measure the concentration of materials such as methane, hydrogen sulfide, carbon dioxide, etc. in a sample. If testing of this type is required, a private air-testing laboratory should be contacted.
+    Vacuum gas sampling bottles may be used to gather and submit samples to CFS .
+    If vacuum gas sampling bottles are not available, a Mason jar ( Figure 3 ) can be filled with water and poured out in the area where the gas/vapour is suspected and capped immediately at the location.
+    The jar should be sealed and submitted to the CFS as soon as possible.
+    Glass Mason jars and lids should be washed in hot water without soap ( e.g. in dishwasher) after purchase and then stored with the lids in place.
+
+Comparison samples
+
+    An empty Mason jar and lid from the same group of jars used in the packaging of the case samples.
+
+Glass
+On clothing and footwear
+
+    Collect and submit items to be examined for glass particles ( e.g. clothing and footwear of a suspect) as soon as possible.
+    A suspect should stand on two layers of large, clean sheets of paper when removing his/her outer clothing, to catch any loose, falling particles.
+    Fold and submit the top sheet of paper with the clothing.
+    Submit the outer clothing of a suspect, as well as shoes and other items such as hats, gloves, etc.
+    Air-dry the items if they are wet or bloodstained over clean paper.
+    Package each article of clothing individually using paper bags.
+    Do not remove glass particles from items unless the item cannot be submitted.
+    Tools etc., used to break glass may be submitted as well ( e.g. if they can be linked to a suspect).
+
+Loose Particles
+
+    Loose glass particles from items or suspects should be packaged in rigid containers such as plastic jars (paper envelopes are not recommended);A suspect’s hair may be combed over a piece of clean paper using a clean, fine-toothed comb;Fold the paper and submit along with the comb (do this prior to the removal of any clothing).
+
+Comparison samples
+
+    Collect several full-thickness pieces of glass from each source of broken glass ( e.g. from each broken window of a vehicle), package and label separately.
+    Broken glass should be collected from the window frame (avoid picking up glass from the ground).
+    Broken glass should be packaged in rigid containers such as plastic jars (paper envelopes are not recommended);For laminated glass ( e.g. car windshields), submit samples of glass from both sides of the laminate and label them indicating which side was facing inside the vehicle and which side was facing out of the vehicle.
+    Always handle and package comparison samples separately from questioned items.
+    If possible, have one person collect and package the comparison sample and another individual collect and package questioned items.
+
+Other Glass Examinations
+
+    In cases where a physical match may be possible, submit all available broken glass and protect fracture edges ( e.g. by wrapping in soft tissue).
+    In cases where the question is whether a window was broken from inside or outside, secure any glass remaining in the frame with tape and mark the sides of the glass as inside or outside. Submit all the glass from the scene, if possible with the frame.In cases where the question is how the glass broke ( e.g. blunt force impact, projectile impact, by heat/fire), submit all available broken glass and mark inside/outside.
+
+Gunshot residue (GSR)
+GSR – on hands and face
+
+    Samples must be collected within eight hours of the incident.
+    Only GSR kits supplied by CFS will be accepted. See the supplies order form .
+    Samples must be collected by an officer trained in the use of the kits.
+    The questionnaire in the kit must be filled out and submitted with the kit.
+    Do not fingerprint the suspect or allow them to wash their hands prior to the collection of the samples.
+    Samples from victims of a shooting are not accepted.
+    Samples are not accepted from a suspect if they had a firearm on their person at the time of apprehension.
+    List each box of stubs as individual items, along with their seal numbers.
+
+GSR – on vehicles
+
+    The whole vehicle can be submitted.
+    Use only the GSR sampling kits (see above), no other tape is permitted.
+    A maximum of one kit (four stubs) from the interior of the vehicle will be accepted. See the supplies order form .
+    Submit as a single item when making a web submission.
+    Depending on case specifics, suitable areas to sample may include: door panel and handle, steering wheel and console/shifter, dashboard, roof liner, areas around windows, and seats. Avoid sampling windows and vehicle exteriors.
+
+GSR – on clothing
+
+    Must have been worn by the suspected shooter at the time of the shooting.
+    Should be seized soon after the incident.
+    Only submit clothing that would have been exposed to GSR during firing ( e.g. gloves, pants, outer jacket). Clothing that has been in contact with a firearm, such as the waistband of pants, may also be suitable for submission.
+    Air-dry if wet or bloodstained.
+    Package articles of clothing separately in paper and place in a flat, tightly-fitting box.
+    Avoid folding the garment. If a garment must be folded, place the item flat on a clean piece of paper, cover it with another sheet of paper and fold.
+    Clothing from victims of a shooting are not accepted.
+
+Comparison samples
+
+    If a pyrotechnic device, such as a stun grenade or firework, is involved, it should be submitted.
+
+Hairs
+
+    If hair is on an object or a garment, submit the entire item, if possible.
+    Air-dry clothing items if they are wet or bloodstained.
+    Place paper under the clothing to catch any falling particles while they are drying.
+    Fold and submit the paper with the clothing. Package each article of clothing individually using paper.
+    Weapons with hairs present should be packaged to minimize any loss. See “Weapons” for packaging information.
+    If an item is too large to be submitted, or if hairs may be lost in transit, remove the hairs with clear tape or pick off with gloved hands or gently, with disposable forceps.
+    Once collected, tapes should be placed sticky side down on plastic sheets and submitted in envelopes.
+    Picked-off hairs should be packaged in a folded piece of paper ( Figure 1 ) and placed in an securely sealed envelope.
+    Fibres in scalp or pubic hairs can be collected by combing the hair with a cotton-packed comb.
+
+Comparison samples
+
+    Hairs from a known source are used for screening.  Hair screening is performed for the purposes of determining relevant hairs which will be selected for further testing (nuclear or mitochondrial DNA analysis).
+    ‘Relevant’ hairs are dependent on the case scenario (complainant/accused/foreign/other). Please contact the Chemistry Section for further information and assistance on how to collect and package complainant/accused/other hairs.
+
+( DNA from) Handled items
+
+    Items being submitted for the purpose of detecting DNA from a person who may have handled an item will only be accepted following consultation with a representative of the Biology Section (refer to Scientific Advisor contact numbers).
+    Exceptions include guns, knives and tools with defined handles/grips that are swabbed for the purpose of submitting the samples to the Biology High Volume Service (refer to the DNA High Volume Service Guide ).
+    No pre-processing of the item ( i.e. fingerprinting) should be conducted on the items prior to consultation with the Biology Section.
+    Where multiple cartridge cases are recovered from the same weapon, these should be swabbed together with a single swab and the swab submitted for analysis.
+    All items for High Volume Service submissions should be swabbed and the swabs submitted instead of the original items.
+    Otherwise, and wherever feasible, applicable items should be air-dried, and the whole item should be submitted. Air-dry all swabs prior to submission.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Hand swabs
+
+Hand swabs may be collected for:
+
+    sexual assault cases involving digital penetration
+        one swab moistened with sterile water should be used to sample all fingers on one hand, including the cuticles and undersides of fingernails
+        only collect one swab for each hand
+        do NOT collect separate samples from each finger
+    assault/attempt murder/homicide cases where blood like staining thought to be from a different person is observed
+        one swab moistened with sterile water should be used to collect a sample of visible blood like staining
+        separate swabs should be used for the right and left hand, if necessary
+        samples should be collected, wherever possible, from areas of staining not associated with any cuts on the hand
+        in the absence of visible blood-like staining, swabs from the hands would not normally be accepted for DNA analysis
+
+Handwriting, handprinting and signatures
+
+    Handle the documents as little as possible.
+    Submit the original documents when possible, prior to fingerprinting.
+    Copies are acceptable in the absence of originals (photocopies, microfiche, digital copies, faxes, etc.).
+    Identify which items need to be protected for fingerprinting or DNA .
+    Do not repair torn or fragile documents.
+    Place in a flat box and deliver personally to the CFS . List each questioned document separately.
+    Clearly identify and include each item as a questioned document or known/comparison sample.
+
+Comparison samples
+
+    Must compare “like with like” – similar style of writing ( e.g. cursive with cursive) and the same letters .
+    Collected writings ( i.e. written during the normal course of business). Submit as many as possible ( i.e. cancelled cheques, journals, employment records, etc.) from the same time period as the offence date if possible.
+    Requested writings ( i.e. written at the request of the investigator). Dictate the questioned material ten times, with each sample written on a separate sheet of paper (provided one at a time).
+    Include any words or figures that appear in the questioned document.
+    If possible, use a similar format as the questioned item ( e.g. paper with a signature line for a questioned cheque).
+
+High volume service
+
+For submissions to the Biology High Volume service refer to the DNA High Volume Service Guide for requirements on evidence collection and submission.
+
+For any exceptions you may contact the Biology Section , High Volume Crime Team Scientific Advisor via telephone or e-mail.
+Indented writings
+
+    Submit prior to fingerprinting.
+    Handle as little as possible and protect from further indentations.
+    Do not try to bring up indentations in any way.
+    Do not mark the documents.
+    Submit in flat boxes or in loose plastic folders between cardboard for protection.
+
+The Documents Unit offers an expedited Electrostatic Detection Apparatus /indentation examination within three business days.  This service enables the recovery of latent indentations, production of a quality copy of the document for further handwriting comparison and the quick return of the document to the police agency for fingerprint analysis.  Please contact the Physical Sciences Section if interested.
+Ink comparisons
+
+    No ink dating.
+    Comparisons can be made between inks on the same document to determine if the document has been altered and to decipher obliterated or erased information.
+    Writing instruments may be submitted for comparison to ink on a document.
+
+Lachrymators (Mace, pepper spray, tear gas)
+
+    If the item is an aerosol dispenser, and it is not damaged, submit in a plastic bag.
+    If the dispenser is leaking, submit in a glass Mason jar ( Figure 3 ) or a specialty nylon bag ( Figure 4 ).
+    Submit clothing or other items that may have been exposed to a lachrymator as soon as possible. Do not dry the items.
+    Package each item/article of clothing individually in specialty nylon bags, if possible ( Figure 4 ).
+    Do not package dispensers together with clothing or any other items.
+    Use dry cotton swabs or tissue to wipe the face of a victim or to collect samples from objects such as windows or counters
+    Submit in glass Mason jars ( Figure 3 ) or specialty nylon bags ( Figure 4 ).
+    Small items ( e.g. eye glasses) may be submitted in their entirety, or they may be swabbed, as above.
+
+Letter of opinion (Toxicology section)
+
+Requests for a LOP are made electronically using the web-submission system.
+
+    A letter of opinion can be requested for scenarios including, but not limited to:
+        alculation of a blood alcohol concentration ( BAC ) from a hospital laboratory result
+        calculation of a BAC based on a drinking scenario
+        providing an opinion of impairment based on a BAC
+        providing an opinion on impairment based on drug consumption
+        providing an opinion of the effects of drug(s) and/or alcohol on the human body
+        calculation of a BAC at the time of an incident from a blood alcohol result for Drug Facilitated Sexual Assault cases only
+        death investigation cases
+
+Lungs
+
+    Package in a glass Mason jar with metal lid and ring ( Figure 3 ).
+    The jar should not be more than ¾ full.
+    Keep the sample refrigerated.
+    Glass Mason jars and lids should be washed in hot water without soap ( i.e. in dishwasher) after purchase and then stored with the lids in place, away from all potential sources of ignitable liquid.
+    For the analysis of volatile ignitable liquids or hydrocarbon gases make a specific request in the synopsis.
+    If a biological sample has been approved without a specific request for volatile ignitable liquids and/or hydrocarbon gases, the examiner will confirm with the submitter if analysis is required/requested prior to further examination or closing the file.
+
+Comparison samples
+
+    An empty Mason jar and lid from the same group of jars used in the packaging of the case samples.
+
+Maggots
+
+    Contact the Office of the Chief Coroner, Forensic Pathology Unit for additional information.
+
+Metals
+
+    Submit metal particles in a small plastic container, or fold in a sheet of paper ( Figure 1 ) and place in an envelope.
+    When metal particles are adhering to an object, submit the entire item.
+    Package items to avoid loss ( e.g. wrap tools in paper).
+
+Comparison samples
+
+    Submit a sample of metal from the suspected source of the questioned particles.
+    Package in a small plastic container or fold in a sheet of paper ( Figure 1 ) and place in an envelope.
+    If interested in determining type of metal, provide any information with regards to its usage, chemical specifications, etc.
+    Package comparison samples separately from questioned samples.
+
+Noxious substances (acids, bases, bleach, etc.)
+Questioned samples
+
+    If an item is a commercial product in an undamaged container, submit the container in a plastic bag.
+    If a container is leaking, repackage the liquid appropriately for submission.
+    Submit approximately 100mL (1/2 cup).
+    If the questioned material is suspected to be corrosive (e.g., an acid or base), package it in a plastic specimen container. Avoid contact with metal (e.g., foil cap liners);
+    If the questioned material is found in food or drink containers, transfer it to a clean Mason jar  ( Figure 3 ).
+    Submit the item immediately.
+    If the material that has been contaminated is perishable, refrigerate or freeze the material.
+    Package comparison samples separately from questioned samples.
+    Document the effect of the substance on the victim and on clothing items.
+
+Comparison samples
+
+    Submit a newly purchased sample of the suspected contaminant, in its original container, to compare to the item which was contaminated.
+
+Clothing
+
+    Submit contaminated articles as soon as possible. Generally, clothing should be packaged in paper bags.
+    If clothing is suspected of containing volatile materials, it should be packaged in glass Mason Jars or nylon bags.
+    If clothing is suspected of containing an acid or base, it should be packaged in ordinary plastic (do not use nylon bags).
+
+Paint
+
+    Paint chips submitted for possible physical match should be packaged in a labelled, rigid container.
+    Otherwise, package paint chips in a folded piece of paper ( Figure 1 ), label and place in an envelope. Ensure envelope is secured ( i.e. all edges should be taped).
+    Do not use adhesive tape to lift paint samples and do not place small chips of paint directly into an envelope or a plastic bag.
+    When paint is transferred it is best to submit the object it is on ( i.e. vehicle, tool, drywall, bumper, door frame). See Tools for proper packaging information.
+
+Questioned and comparison samples
+
+    The entire object should be submitted if possible.
+    If it is not possible to submit the entire object, a section with the areas of damage should be submitted.
+    If the paint is on a fixed object, cut a section, including the damaged area.
+    If the entire object or a section of it cannot be submitted, obtain paint samples using clean tools from all damaged areas of the object.
+    If paint is deposited as discrete chips and the object cannot be submitted, the paint chips can be removed and packaged as above.
+    If paint is transferred as a smear onto an object which cannot be submitted, remove the underlying substrate with the smear, using a sharp instrument.
+    Do not remove paint from articles of clothing.
+    Air-dry clothing if wet or bloodstained on/over two sheets of clean paper and submit the top sheet of paper with the clothing.
+    Handle articles and clothing on/over a clean piece of paper, submit the paper with the clothing.
+    Submit all articles and clothing including undergarments, shopping bags, purses, backpacks etc.
+    Package each sample separately and comparison samples separately from questioned samples.
+    Package each article of clothing individually, in paper. It is not necessary to separate clothing before submission if it has already been packaged together. For example, clothing collected from hospital in one bag can be submitted together in paper along with the hospital bag.
+    Samples collected should be marked with what they were collected from and whether it is a questioned sample or a known sample.Samples collected from vehicles should be marked with the area it was collected from and the make/model/year and colour of the vehicle along with the vehicles identification number.
+
+Printing machines (cheque protectors/writers, computer printers, fax machines, photocopiers, typewriters)
+
+Contact the Physical Sciences Section for information on submitting cases involving a printing machine.
+Penile swabs
+
+For the collection of penile swabs from persons of interest/suspects in sexual assault investigations follow this procedure:
+
+    Two swabs, moistened with sterile water, should be applied to the entire surface of the penis.  The same two swabs should be used to also swab the scrotum, focusing on the area in closest proximity to the penis.  Hold the swabs together as a unit and swab with a rotating motion to ensure uniform sampling.
+    In addition, for uncircumcised individuals, retract the foreskin and roll the swabs around the internal foreskin and the remaining areas of the penis.
+    If staining is present ( e.g. lipstick-like or blood-like) on the penis and/or scrotum, use an additional (separate) swab moistened with sterile water for collection of this material.
+
+Note: Swabs may be collected regardless of reported condom use, since transfer to exposed portions of the penis shaft and the scrotum could still occur. Swabs should be collected in a way ( i.e. with gloves and mask) that minimizes the possibility of external contamination by the officer, and must be air dried before submission to the CFS .
+Saliva
+
+    Collect the item bearing the stain, if possible.
+    For submissions to the Biology DNA High Volume Service refer to the DNA High Volume Service Guide for information regarding evidence collection from various items believed to contain saliva.
+    For drink containers, mouth areas should be swabbed. Submit only the swab for High Volume cases.
+    Air-dry all items prior to submission.
+    Clothing items should be packaged individually in paper. See “ CLOTHING – For Analysis of Blood, Saliva, Semen and DNA Analysis”.
+    A water-moistened swab can be used to collect stains on skin, one swab per area ( e.g. bite marks).
+    If an item is too large to submit and the stain location is known, cut out a sample of the stain using a scalpel/razor blade ( e.g. couch, vehicle seat).
+    A water-moistened swab can also be used to sample the suspected stain if it is not feasible to submit an item or to excise a portion of it.
+    If swabs cannot be immediately air-dried, they should be stored frozen and air-dried prior to submission.
+    See also Chewing gum , Cigarette butts , Envelope flaps and stamps and Food .
+
+Comparison samples
+
+    DNA ​ sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Semen
+
+    Collect the item bearing the stain, if possible.
+    Air-dry all items prior to submission.
+    Clothing items should be packaged individually using paper. See “ CLOTHING – For Analysis of Blood, Saliva, Semen and DNA Analysis”.
+    A water-moistened swab can be used to collect stains on skin.
+    Use only one swab per stained area.If an item is too large to submit and the stain location is known, cut out a sample of the stain using a scalpel/razor blade e.g. couch, vehicle seat, carpet.
+    A water-moistened swab can also be used to sample the suspected stain if it is not feasible to submit an item or to excise a portion of it.
+    If swabs cannot be immediately air-dried, they should be stored frozen and air-dried prior to submission.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – see DNA samples – for comparison purposes .
+
+Serial numbers
+
+    Items will not be accepted if previous attempts to restore the serial number have been made.
+    Serial numbers can potentially be restored on metal items including components of firearms.
+
+Sexual assault evidence kit (SAEK)
+
+If you are submitting a SAEK , you will have access to the SAEK Assistant on the web-submission system.  This assistant is designed to auto-populate the case information with the most relevant items.  This will automatically be approved, or the submission will be directed to the Biology Sexual Assault Scientific Advisor and Toxicology Criminal Coordinator for approval.
+
+The SAEK assistant is not designed for Sexual Assault cases that do not include submission of SAEK items. This assistant is aligned with the guidance provided in the Police Submission Guidelines included in the SAEK .
+
+For questions or advice regarding submission of biological samples for Sexual Assault cases, including hairs and DNA analysis, please contact the Biology Sexual Assault Scientific Advisor via phone or e-mail.
+
+For questions or advice regarding Toxicology Analyses of the blood and urine samples for Sexual Assault cases, please contact the Toxicology Criminal Coordinator via phone or email.
+
+For questions or advice regarding Chemistry Analyses for lubricants or hair and fibres, please contact the Chemistry Criminal Coordinator via phone or email.
+
+Please note:
+
+    All swabs and clothing must be air-dried prior to submission.
+    If swabs cannot be immediately air-dried, they should be stored frozen and air-dried prior to submission.
+    Keep used condoms, sanitary products, and post-void tissue frozen. All should be collected in a leak proof plastic bag or container ( e.g. specimen jar).
+    Keep blood and urine samples refrigerated.
+    Complete the kit labels and adhere to the blood and urine samples, ensuring names are placed on the labels, in particular when a case involves more than one complainant.
+    Submit the condom if it is available. Otherwise consult for lubricant and/or semen examinations;List and describe each item submitted.
+
+Comparison samples
+
+    A DNA sample from the complainant(s) is required.
+    DNA sample(s) from any other person(s) involved including any person with whom the victim had intercourse within twelve days prior to the assault, without the use of a condom – see DNA samples – for comparison purposes.
+
+Sexual lubricants
+
+    Air-dry wet clothing and/or swabs prior to submission
+    Package each item of clothing individually using paper.
+
+Comparison samples
+
+    Suspected sources of lubricants in original containers. Condom wrappers can be placed in individual plastic bags.
+    An unused swab when swabs have been used to collect samples.
+    Handle and package comparison samples separately from questioned samples.
+
+Suspicious liquids or powders
+
+    Consult the Chemistry Section prior to submitting unknown liquids or powders.
+    Submit no more than 20mL of a liquid or 1g (about the size of a Smartie candy) of a solid.
+    If a comparison sample is available, it must be packaged separately from questioned samples.
+    Suspicious powders or liquids that may present Chemical, Biological, Radiological, or Nuclear hazards must be screened prior to submission by a competent Hazmat or Emergency Response team such as OPP UCRT (905-857-5582).
+    The sample submission must include a document listing the specific threats for which the sample has been cleared.
+    CFS does not accept samples that are CBRN hazards. If samples are biological ( e.g. plague, smallpox), contact the Medical Officer of Health office at 416-314-5518 / 1-800-268-1154 to obtain your local number.
+    Controlled substances will not be accepted at the CFS and should be sent to the drug analysis service of Health Canada, 416 973-1453.
+
+Syringes for DNA
+
+    Submit in a glass Mason jar ( Figure 3 ) or a rigid container if submitting the whole item; swab appropriately if submitting for the DNA High Volume Service Guide .
+    Seal the jar by placing the seal over the top and down each side ( Figure 2 ).
+    Do not package in plastic or paper bags.
+    Label the container cautioning of the biohazard.
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved. See DNA samples – for comparison purposes.
+
+Toolmarks
+
+    Submit the object or the area containing the toolmark.
+    Casts may be accepted based on suitability.
+    Put the object in a rigid container to protect the area and to prevent any alteration during transport.
+    Protect the ends of wires, cables, etc. with heavy paper or plastic and clearly label the questioned ends.
+    Any identifying markings should be made in a location remote from any toolmarks.
+
+Comparison samples
+
+    Submit all tools that may have been used.
+    Submit additional same type material from around the damaged area for test comparison purposes.
+    See Tools for proper packaging information.
+
+Tools
+
+    Submit the entire tool.
+    Submit the tool as found, do not close or open cutter-type tools.
+    Protect the working parts of the tool with heavy paper and package to prevent the loss of any trace evidence ( e.g. paint, lead and/or copper smears).
+    Submit tools in rigid, tightly-fitting packages to minimize their movement during transport.
+    Package tools separately from any questioned samples and never place a suspect tool into a toolmark or a cut.
+    Tools can be zip-tied to the box and seal holes with tape.
+
+Vehicles
+
+    Call the scientific section in advance of submitting and prior to picking up a vehicle following CFS analysis.
+    Only include one vehicle per submission.
+    Include a copy of the warrant, as well as keys to the vehicle with the submission.
+    Indicate if the vehicle (outside and/or inside) needs to be protected for fingerprints.
+    If a bicycle is involved in an occurrence, submit the entire unit wrapped in paper.
+
+Violent crime service
+
+    Refer to the DNA Violent Crime Guide for requirements on evidence collection and submission.
+    For any exceptions, you may contact the Biology Section , Major Crime Team Scientific Advisor via telephone or e-mail, if necessary, before making a submission.
+
+Weapons (knives, scissors, etc.)
+
+Refer to the DNA Violent Crime Guide for information regarding case acceptance criteria and submission requirements.
+
+Do not swab or sample these types of items prior to submission or consultation. Exceptions are limited to submissions made to the Biology High Volume Service (for submissions to the Biology DNA High Volume Service refer to the DNA High Volume Service Guide and the DNA High Volume Service Protocol for requirements on evidence collection and submission).
+
+Testing of items for the presence of blood prior to submission using commercially available kits can compromise DNA analysis as it may result in the removal of DNA , destruction of DNA , inhibition of DNA analysis and contamination with other sources of DNA during the testing process. Do not test items prior to submission with Hemastix®, or blood enhancing chemicals such as Luminol, BlueStar®, LMG , etc., without prior consultation with a Biology Scientific Advisor.
+
+    Do not fingerprint items prior to submission or consultation.
+    Identify any items that need to be protected for fingerprinting .
+    Do not submit in paper or plastic bags.
+    Package the item in a rigid, tightly-fitting package so as to limit its movement during transport, thereby minimizing the loss of any trace evidence.
+    Label the container cautioning if the item is sharp.
+    Also see Firearms .
+
+Comparison samples
+
+    DNA sample(s) from person(s) involved – DNA samples – for comparison purposes.
+    Any clothing for damage analysis and/or fibre transfer comparison.
+    Any broken parts of weapons left at the scene.
+    Stab wounds or cuts in tissue are not analyzed at the CFS .
+    A pathologist may be able to assess the type of instrument used to inflict a wound.
+

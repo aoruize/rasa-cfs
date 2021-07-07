@@ -1,0 +1,36 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Case Linkages and Specific Cross-References
+
+Introduction
+
+Linkages are typically developed via a search of the Integrated Ballistics Identification System ( IBIS ) or due to a specific cross reference request from a submitting agency.
+
+When linkages between cases are developed using IBIS , investigators from the cases involved will be notified of the details of the linkage through either a Firearms Investigative Aid Notification Letter or a Case Linkage Report.
+
+A Firearms Report is issued for comparisons resulting from a specific cross reference request.
+Examination
+
+If test fire samples from a firearm, or exhibit projectiles or cartridge/shotshell cases are selected for comparison following IBIS correlation or at the request of the submitting agency, then the examination may include the following:
+
+    Comparison of items for class characteristics agreement ( e.g. calibre, rifling, firing pin shape etc.)
+    If class characteristics are in agreement, then microscopic comparison of the test fired samples, exhibit projectile(s) and/or cartridge/shotshell case(s) to other samples using a comparison microscope is conducted to determine whether or not they have been fired in the same firearm.
+
+Interpretation
+
+    Firearms Investigative Aid Notification Letter – a letter notifying the client that a preliminary linkage has been developed between two or more cases. The linkage will be reviewed by a qualified Firearms Scientist but will not be subject to verification by a second Firearms Scientist.  If the submitter requires confirmation of a preliminary linkage, a request for a confirmation of the preliminary results must be submitted to the Firearms and Toolmarks Unit.
+    Case Linkage Report – A report notifying the client that a linkage between two or more cases has been confirmed. The reported identification is made within the limits of practical certainty. The linkage is reviewed by a qualified Firearms Scientist and is subject to verification by a second qualified Firearms Scientist.
+    Firearms Report – A report notifying the client the results of the specific cross reference comparison. Examples of conclusions include:
+        The compared test fire samples, projectiles/cartridge cases were identified within the limits of practical certainty, as having been fired from/in the same firearm(s).
+        The compared test fired samples projectile(s)/cartridge case(s) could neither be identified nor eliminated as having been fired from/in the same firearm.  This conclusion is drawn when the submitted projectiles(s)/cartridge case(s) possess the same class characteristics, however, there are insufficient individual characteristics in agreement or disagreement for an identification or elimination.
+        The compared test fired samples, projectiles/cartridge cases were not fired from/in the same firearm
+
+Glossary
+
+Class characteristics - Common feature(s) that is shared by a specific sub-group of the entire population. For example, the number of lands and grooves, the direction of twist, the widths of the lands and grooves, may be specific to one manufacturer but cannot identify an individual firearm.
+
+Firearms/Toolmark Identification - an empirical science that relies on objective observations and a subjective interpretation of microscopic marks of value. Note: All identification/associations are made within the limits of practical certainty.
+
+Individual characteristics - Imperfections or irregularities that are produced accidentally and randomly during manufacture. They may also be caused by use, abuse, corrosion, rust, or damage to the firearm. The characteristics are unique to that firearm and distinguish it from all other known examples.
+
+Practical Certainty - Since it is not possible to collect and examine samples of all firearms, it is not possible to make an identification with absolute certainty. However, all scientific research and testing to date and the continuous inability to disprove the principles of toolmark analysis have demonstrated that firearms produce unique, identifiable characteristics which allow examiners to reliably make identifications.

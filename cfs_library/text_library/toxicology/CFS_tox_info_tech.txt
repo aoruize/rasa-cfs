@@ -1,0 +1,877 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Toxicology
+
+Introduction
+
+The Toxicology Section performs analyses on biological samples (e.g., blood, urine, liver) to determine the absence/presence/concentration(s) of drugs, including alcohol and poisons.
+
+This document is intended as a convenient investigative reference but should not be relied upon as definitive or exhaustive. Please contact the Centre of Forensic Sciences (CFS) Toxicology Section for assistance with questions of an analytical or toxicological nature by e-mail or telephone 647-329-1400 or 647-329-1430. When calling please ask for the appropriate coordinator:
+
+Coroner’s Coordinator:
+CFSToxicologyCoronerCoordinator@ontario.ca
+
+Criminal Coordinator:
+toxcrim@ontario.ca
+Examination Strategy and Capability
+
+The screening methods employed in the Toxicology Section are:
+
+    Gas Chromatography (GC) and Gas Chromatography/Mass Spectrometry (GC/MS)
+    Immunoassay (IA)
+    Head-Space GC analysis for volatiles
+    Quadrupole Time-of-Flight MS (QTOF)
+
+The targeted/quantitation methods employed in the Toxicology Section are:
+
+    GC, GC/MS
+    Liquid Chromatography (LC), LC-MS/MS
+    Head-Space GC analysis for volatiles
+
+Capabilities of screening methods are presented in Appendix 1. While these screening methods have wide-ranging capabilities not all drugs may be reliably detected. Appendix 2 contains a list of compounds that may not be identified by the screening methods but may be detected/quantitated by targeted methods. Many of the compounds contained in this list will not be tested for unless specifically requested. If use of a specific drug is known or suspected and is relevant it should be noted in the case synopsis.
+
+The examination strategy, i.e., determining which tests will be performed in a case, is informed by a variety of sources including case type, case history, nature of submitted samples, analytical protocols and capabilities, and discussions with clients. The initial toxicological analyses conducted for a variety of case types are presented in Appendix 3.
+Urgent Cases
+
+Requests for expedited analyses must meet specific criteria before being accepted as an urgent case. This process requires authorization by Toxicology Section management.
+Examination
+
+All items are visually examined on receipt to check the seal numbers (if present), the contents, and the integrity of the packaging.
+Instrumentation
+Chromatography: Gas Chromatography (GC); Liquid Chromatography (LC)
+
+Chromatography is an analytical technique used to separate compounds based on their chemical and structural properties. GC uses a pressurized gas, while LC uses a pressurized liquid, in the separation of compounds.
+Immunoassay (IA)
+
+IA detects compounds in biological fluids using a reaction of an antibody or antibodies to its antigen (i.e., the drug). This technique is primarily a screening technique; however, some IA methods are semi-quantitative, e.g., acetaminophen.
+Mass Spectrometry (MS)
+
+MS detects, identifies, and quantitates compounds. An MS can be coupled with a GC or an LC.
+Quadrupole Time-of-Flight-MS (QTOF)
+
+QTOF detects and identifies compounds. A QTOF is coupled with an LC.
+Tandem MS (MS/MS)
+
+MS/MS detects, identifies, and quantitates compounds and is commonly coupled to a gas or liquid chromatograph.
+Ultraviolet and Visible (UV/VIS) Spectrophotometry
+
+UV/VIS spectrophotometry identifies and/or quantitates a drug based on its UV and/or visible light-absorbing properties.
+Carbon Monoxide
+
+Carbon monoxide is analyzed by visible spectrophotometry. Results are expressed as % carboxyhemoglobin saturation.
+Interpretation
+
+Quantitative results may be expressed as 1) a concentration or 2) as < or > a concentration, e.g., when sufficient for interpretation. Blood ethanol interpretations provided in reports are generally limited to cases in which the detected concentration may be associated with fatalities, may be influenced by post-mortem artefacts, may have toxic interactions with other drugs, or in the case of motor vehicle collision, associated with impairment.
+Measurement Uncertainty
+
+Measurements made with all scientific instruments are associated with variability. No measurement is exact but is an estimate of the true value. Calculation of measurement uncertainty (MU) employs statistical methods to determine the range of values within which the quantitative result is likely to reside. The MU provides a reasonable estimate of the variability associated with the analytical method and is based on the analysis of matrix-matched quality control samples. A minimum of 10 such analyses are used. The MU is calculated with a confidence of 95.45 per cent using a k-factor based on the degrees of freedom as determined by the Student’s t -test and the standard deviation of the associated quality control data. The MU is expressed in the same units in which the quantitative result is reported, e.g., ng/mL, mg/L and is reported as: quantitative result ± MU.
+Limitations
+
+The focus of this laboratory is drug toxicity. Clinical blood/urine chemistry analysis, e.g., electrolytes, cell counts, gas saturation, creatinine, is not performed. Analysis for antiepileptic drugs is limited to determining drug toxicity, when warranted, based on case history. This laboratory does not have validated methods to analyze some sample types, e.g., oral fluid, hair, bile, muscle, brain tissue. There are a variety of analytical issues that may prevent the detection of some of the drugs that this laboratory is commonly capable of detecting, which include:
+
+    matrix effects
+    degree of putrefaction
+    type of sample (e.g., splenic blood)
+    post-mortem interval
+    storage conditions
+    volume of sample submitted
+    low concentration of the drug/sensitivity of the method
+
+Conversely, some novel, or rarely encountered, drugs not listed in Appendix 1 may be identified by the GC and GC/MS or QTOF screens. In this case, analytical reference material would be acquired (if available) then analysed to confirm identity. There are drugs/compounds for which the CFS Toxicology Section does not have a method, examples of which are provided in Appendix 4.
+Appendix 1 – Screening Methods
+
+Drugs that can be reliably detected by screening methods.
+GC and GC / MS Screen
+
+A
+alpha-pyrrolidinovalerophenone (α-PVP)
+acetyl fentanyl 2
+amantadine 1
+amitriptyline 2
+amlodipine 2
+amoxapine 2
+amphetamine 2
+amphetamine (4-fluoro)
+amphetamine (dimethyl)
+anabasine
+anileridine 1
+atomoxetine
+atropine/hyoscyamine
+
+B
+benzocaine
+benzofuran (6-(2-aminopropyl, 6-APB)
+benztropine 1
+benzylpiperazine (BZP)
+bromo-dragonfly
+brompheniramine 2
+bupivacaine 1
+bupropion 2
+butylone
+butyryl fentanyl
+
+C
+caffeine 1
+carbamazepine 2
+cathinone (cath)
+n-ethyl-cath
+4-flurometh-cath
+3-methoxymeth-cath
+4-methyleth-cath
+meth-cath
+chlorcyclizine
+chlordiazepoxide 2
+chloroquine
+chlorpheniramine 2
+chlorpromazine 1
+cimetidine
+cisapride 4
+citalopram* 2
+clomipramine 2
+clonidine 1
+clozapine 2
+cocaethylene
+cocaine 2
+codeine 2
+cotinine
+cyclobenzaprine 2
+cyproheptadine 1
+
+D
+desipramine 2
+dextromethorphan 2
+dextrorphan*
+diazepam 2
+diazepam (nor) 2
+dibucaine 4
+dihydrocodeine
+diltiazem 2
+diltiazem (desacetyl) 2
+dimethyltryptamine
+diphenhydramine 2
+diphenoxylate 1
+doxepin 2
+doxylamine 2
+
+E
+ephedrine*
+estazolam
+etizolam 2
+ethylone
+
+F
+x -fluoroamphetamine
+fluoxetine 2
+fluoxetine (nor) 2
+flurazepam 2
+flurazepam (n-desalkyl) 2
+fluvoxamine 2
+
+H
+haloperidol 1
+hydrocodone 2
+hydroxychloroquine
+hydroxyzine 1
+
+I
+ibogaine
+imipramine 2
+
+
+K
+ketamine 2
+
+L
+lamotrigine 2
+laudanosine
+levamisole
+lidocaine
+loratadine
+loxapine 2
+
+M
+maprotiline 1
+meclizine 1
+mefloquine 1
+meperidine 2
+meperidine (nor) 2
+mephedrone 2
+mepivacaine 1
+methadone 2
+methamphetamine 2
+methamphetamine (4-fluoro)
+methedrone
+methotrimeprazine 2
+methylenedioxyamphetamine (MDA) 2
+methylenedioxyethylamphetamine (MDEA) 2
+methylenedioxymethamphetamine (MDMA) 2
+3,4-methylenedioxypyrovalerone (MDPV) 2
+methylone 2
+methylphenidate 2
+metoclopramide 1
+metoprolol 2
+midazolam 2
+mirtazapine 2
+moclobemide 1
+
+N
+nicotine 1
+nortriptyline 2
+
+O
+olanzapine 2
+orphenadrine 2
+oxybutynin 1
+oxycodone 2
+
+P
+paroxetine 2
+pentadrone
+pentazocine 2
+pentoxyphylline 2
+pentylone
+phenacetin
+phencyclidine (PCP) 2
+phenethylamines (2C-B, 2C-B-Fly, 2C-T-7, PEA)
+pheniramine 2
+phenmetrazine
+phentermine 1
+piperazine, 1-3 chlorophenyl (mCPP)
+piperazine, trifluoromethylphenyl (TFMPP)
+p-fluorofentanyl
+p-methoxyamphetamine (PMA) 2
+p-methoxymeth-amphetamine (PMMA)
+procainamide 1
+procaine 1
+prochlorperazine 2
+procyclidine 1
+propoxur 1
+propoxyphene 2
+propranolol 2
+protriptyline 2
+pseudoephedrine 2
+pyrilamine (mepyramine) 1
+
+Q
+quetiapine 2
+quinidine 1
+
+R
+ropinirole
+ropivacaine
+
+S
+scopolamine (hyoscine) 1
+selegiline
+sertraline 2
+strychnine 1
+
+T
+tapentadol
+terbinafine
+thioridazine 1
+ticlopidine
+tramadol 2
+tranylcypromine 1
+trazodone 2
+trifluoperazine 1
+trihexphenidyl 2
+trimethoprim 4
+trimebutine
+trimipramine 2
+triprolidine 2
+
+V
+valeryl fentanyl
+varenicline
+venlafaxine 2
+venlafaxine (O-desmethyl) 2
+verapamil 2
+
+X
+xylometazoline
+
+Z
+zolpidem 2
+zopiclone breakdown product
+
+The GC and GC / MS screen is not capable of distinguishing racemates, therefore compounds such as dextrorphan/levorphanol, citalopram/escitalopram and ephedrine/pseudoephedrine cannot be separated. Similarly, the GC and GC / MS screen cannot distinguish between 2-fluoroamphetamine, 3-fluoroamphetamine, and 4-fluoroamphetamine.
+QTOF Screen
+
+The QTOF screen is a powerful and sensitive method that can reliably detect the drugs included in the following methods (details are listed in Appendices 5 and 6):
+
+    LC - MS / MS Mix 2
+    LC - MS / MS Mix 3 (except carfentanil)
+    LC - MS / MS Mix 4
+    LC - MS / MS Mix 5 (except: diflunisal, furosemide, ibuprofen, salicylate, vigabatrin)
+
+In addition, the QTOF screen can identify psilocin. The list of drugs potentially identifiable by QTOF is too extensive to list within this document. For questions about a specific drug not listed, please contact the appropriate case coordinator .
+Immunoassay tests (known cross-reactivity)
+
+Barbiturates:
+
+amobarbital 2
+butalbital 2
+pentobarbital 2
+phenobarbital 2
+secobarbital 2
+
+Head-space GC -FID analysis for volatiles (screen and quantitation)
+
+acetone
+ethanol
+isopropanol
+methanol
+n-propanol (not quantitated)
+
+Volatile screen (qualitative only)
+
+difluoroethane
+dichloromethane
+1,1,1,2-tetrafluoroethane
+ethyl acetate
+diethyl ether
+dimethyl ether
+propane
+butane
+isobutane
+toluene
+methanol
+ethanol
+acetone
+methyl ethyl ketone
+isopropyl alcohol
+acetaldehyde
+chloroform
+gasoline
+Appendix 2 – Drugs requiring targeted analysis
+
+Compounds that may not be identified by screening methods but might be detected and/or quantitated by targeted methods.
+
+A
+acepromazine 4
+amiloride 4
+antipyrine (phenazone) 1
+atracurium 4
+azacyclonol 4
+
+B
+bromocriptine 4
+
+C
+
+carbaryl 1
+carbon monoxide 6
+
+
+chlorzoxazone 4
+cyanide 2
+
+D
+dantrolene 4
+
+
+diflunisal 2
+dipyridamole 4
+
+E
+ethopropazine 4
+ethylene glycol 7
+
+F
+fenfluramine 1
+fenodipine 4
+fenoprofen 4
+formic acid 5
+furosemide 2
+
+I
+ibuprofen 2
+indomethacin 4
+
+K
+ketoconazole 4
+
+M
+mefenamic acid 4
+methaqualone 1
+
+
+metronidazole 4
+mexiletine 1
+
+N
+nabumetone 4
+
+O
+oxprenolol 4
+
+P
+
+
+pericyazine 4
+phenylbutazone 4
+phenyltoloxamine 1
+physostigmine 1
+pimozide 4
+pindolol 4
+pipotiazine 4
+piroxicam 4
+prazosin 4
+
+S
+
+sotalol 4
+sufentanil 1
+
+T
+terazosin 4
+terfenadine 4
+tiaprofenate 4
+timolol 4
+tolbutamide 4
+toluene 5
+triamterene 4
+
+V
+
+valproic acid 5
+vigabatrin 2
+
+Y
+yohimbine 4
+
+Methods used for the quantitation of compounds identified in the preceding appendices are denoted as follows:
+1 GC -NPD
+2 LC - MS / MS
+4 LC -DAD
+5 GC -FID
+6 Visible spectrophotometry
+7 Qualitative
+Appendix 3 – Initial analyses by case type
+
+Alcohol-impaired driving: Ethanol
+
+Attempted murder a : dependent upon case history
+
+Confirmation of ketoacidosis: Ethanol (includes acetone), BHB
+
+Death of child < 5 years of age Ethanol, QTOF Screen, LC - MS / MS Mix 3, IA cannabinoids, IA acetaminophen and salicylate
+
+Drug-impaired driving: QTOF Screen, IA cannabinoids, UDM, GHB a
+
+Fatal motor vehicle collision (driver) and aviation death: Ethanol, QTOF Screen, LC - MS / MS Mix 3, IA cannabinoids, CO c
+
+Fire-related death b : CO (whole blood required)
+
+Homicide: Ethanol, QTOF Screen, LC - MS / MS Mix 3, IA cannabinoids
+
+Mandatory inquest: Ethanol, QTOF Screen, LC - MS / MS Mix 3, IA cannabinoids
+
+Possible drug-related death: Ethanol, QTOF Screen, LC - MS / MS Mix 3
+
+Rule Out/exclusionary Toxicology: Ethanol, LC - MS / MS Mix 3
+
+Sexual assault a : dependent upon case history
+
+SIU death investigation: Ethanol, QTOF Screen, LC - MS / MS Mix 3, IA cannabinoids
+
+a dependent upon case history
+b other analyses may be performed dependent upon evidence/suspicion of intoxication
+c if fire is involved
+Appendix 4 – No method available
+
+Animal toxins
+a-bungarotoxin
+conotoxin
+maurotoxin
+tetrodotoxin
+
+Anesthetic gases
+halothane
+isoflurane
+nitrous oxide
+
+Curare-related toxins
+alloferine
+toxiferine
+tubocurarine
+
+Other
+insulin
+lead, mercury
+lithium
+polychlorinated biphenyls (PCB)
+succinylcholine
+thallium
+xylazine
+Appendix 5 – Capability of Quantitative Methods
+
+Barbiturate method ( LC - MS / MS )
+amobarbital (qualitative)
+butalbital
+pentobarbital
+phenobarbital
+phenytoin
+primidone
+secobarbital
+
+GHB/BHB method ( LC - MS / MS )
+g-hydroxybutyrate (GHB)
+β-hydroxybutyrate (BHB)
+
+LC - MS / MS Mix 2
+brompheniramine
+ephedrine
+phenylephrine
+trimeprazine
+triprolidine
+
+LC - MS / MS Mix 3
+6-monoacetylmorphine (6-MAM; qualitative)
+Alprazolam
+Amitriptyline
+Amphetamine
+Benzoylecgonine
+Bupropion
+carfentanil
+chlorpheniramine
+citalopram/escitalopram
+
+
+clonazepam
+clonazepam (7-amino; qualitative)
+cocaine
+codeine
+cyclobenzaprine
+dextromethorphan
+diazepam
+diazepam (nor)
+diphenhydramine
+fentanyl
+flunitrazepam (7-amino)
+fluoxetine
+fluoxetine (nor)
+flurazepam (n-desalkyl)
+hydrocodone
+hydromorphone
+ketamine
+ketamine (nor)
+lorazepam
+meperidine
+meperidine (nor)
+mephedrone
+methadone
+methamphetamine
+methylenedioxyamphetamine
+methylenedioxyethylamphetamine
+methylenedioxymethamphetamine
+midazolam
+mirtazapine
+morphine
+nortriptyline
+olanzapine
+oxazepam
+oxycodone
+oxymorphone
+paroxetine
+pseudoephedrine
+quetiapine
+risperidone
+sertraline
+temazepam
+tramadol (cis)
+trazodone
+venlafaxine
+zopiclone
+
+LC - MS / MS Mix 4
+
+acetyl fentanyl
+alprazolam (hydroxyl)
+amoxapine
+bromazepam
+buprenorphine
+butyryl fentanyl
+chlordiazepoxide
+chlorpromazine
+clobazam
+clomipramine
+clozapine
+demoxepam
+desipramine
+desomorphine
+diltiazem
+diltiazem (desacetyl)
+doxepin
+doxylamine
+duloxetine
+etizolam
+flunitrazepam
+flunitrazepam (N-desmethyl)
+flurazepam
+fluvoxamine
+furanyl fentanyl
+imipramine
+levorphanol/dextrorphan (qualitative)
+loxapine
+MDPV
+methotrimeprazine
+methylone
+methylphenidate
+naloxone
+naltrexone
+nitrazepam
+nitrazepam (7-amino)
+O-desmethylvenlafaxine
+orphenadrine
+PCP
+pentazocine
+pheniramine
+promethazine
+propoxyphene
+triazolam
+triazolam (hydroxy)
+trimipramine
+U-47700
+ziprasidone
+zolpidem
+
+LC - MS / MS Mix 5
+acebutolol
+acetaminophen
+amiodarone
+amlodipine
+atenolol
+baclofen
+carbamazepine (qualitative)
+
+
+diflunisal
+furosemide
+gabapentin
+guaifenesin
+pregabalin
+ibuprofen
+labetolol
+lamotrigine
+methocarbamol
+metoprolol
+naproxen
+
+
+prochlorperazine
+propafenone
+propranolol
+pseudoephedrine
+salicylate
+topiramate
+verapamil
+vigabatrin
+
+Cannabinoid method ( LC - MS / MS )
+tetrahydrocannabinol (THC)
+11-nor-carboxytetrahydrocannabinol (Carboxy-THC)
+11-hydroxytetrahydrocannabinol (11-OH-THC, qualitative)
+cannabidiol
+cannabinol
+
+Digoxin method ( LC - MS / MS )
+digoxin
+digitoxin (qualitative)
+Appendix 6 – Capability of targeted qualitative methods
+
+Urine Drug Mix (UDM; LC - MS / MS ) 6-monoacetylmorphine (6-MAM)
+acetylfentanyl
+acetylnorfentanyl
+alprazolam
+amitriptyline
+amlodipine
+amoxapine
+amphetamine
+baclofen
+benzoylecgonine
+bromazepam
+brompheniramine
+buprenorphine
+buprenorphine glucuronide
+bupropion
+butyryl fentanyl
+carfentanil
+chlordiazepoxide
+chlorpheniramine
+citalopram
+clobazam
+clomipramine
+clonazepam
+clonazepam (7-amino)
+clozapine
+cocaethylene
+cocaine
+codeine
+codeine-6-glucuronide
+cyclobenzaprine
+demoxepam
+desipramine
+desomorphine
+dextromethorphan
+diazepam
+diazepam (nor)
+diltiazem
+diltiazem (desacetyl)
+diphenhydramine
+doxepin
+doxylamine
+duloxetine
+ephedrine
+etizolam
+fentanyl
+fentanyl (nor)
+flualprazolam
+flubromazolam
+flunitrazepam
+flunitrazepam (7-amino)
+flunitrazepam (N-desmethyl)
+fluoxetine
+fluoxetine (nor)
+flurazepam
+flurazepam (n-desalkyl)
+fluvoxamine
+furanyl fentanyl
+gabapentin
+heroin
+hydrocodone
+hydromorphone
+hydromorphone-3-glucuronide
+hydroxyalprazolam
+hydroxytriazolam
+imipramine
+ketamine
+ketamine (nor)
+
+
+
+lamotrigine
+levorphanol/dextrorphan
+lidocaine
+lorazepam
+lorazepam glucuronide
+loxapinemeperidine
+meperidine (nor)
+mephedrone
+methadone
+methamphetamine
+methylenedioxyamphetamine
+methylenedioxyethylamphetamine
+methylenedioxymethamphetamine
+methylenedioxypyrovalerone
+methylone
+methylphenidate
+metoprolol
+midazolam
+mirtazapine
+morphine
+morphine-3-glucuronide
+morphine-6-glucuronide
+naloxone
+naltrexone
+nitrazepam
+nitrazepam (7-amino)
+nortriptyline
+O-desmethylvenlafaxine
+olanzapine
+orphenadrine
+oxazepam
+oxazepam glucuronide
+oxycodone
+oxymorphone
+paroxetine
+pentazocine
+phenazepam
+phencyclidine
+pheniramine
+pregabalin
+propoxyphene
+propranolol
+pseudoephedrine
+quetiapine
+risperidone
+sertraline
+tapentadol
+temazepam
+temazepam glucuronide
+THC-COOH glucuronide
+THC-COOH
+topiramate
+tramadol (cis)
+trazodone
+triazolam
+trimipramine
+U-47700
+venlafaxine
+zaleplon
+ziprasidone
+zolpidem
+zopiclone
+Glossary
+
+Abbreviations
+Analytical results are reported in terms of mg/100 mL, mg/L, or ng/mL, as shown below:
+
+g - gram
+mg - milligram
+µg - microgram
+L - litre
+mL - millilitre
+ng - nanogram
+
+Breakdown Product
+A compound produced either inside or outside the body that may or may not be pharmacologically active.
+
+Carboxyhemoglobin saturation
+The percentage of hemoglobin bound by carbon monoxide.
+
+Central Nervous System Depression (CNS depression)
+A lowering of the functional activity of the brain and/or spinal cord. Depression of the respiratory and the cardio-regulatory centres are most relevant toxicologically.
+
+Confirmation
+The process of verifying the presence of a drug by replicate analysis using the same or different analytical technique(s). Confirmation of an immunoassay result is achieved using a more specific analytical technique.
+
+Coroner's Case Analytical Summary
+Contains analytical results with the fatal reference and limitations. The Coroner’s Case Analytical Summary is accompanied by an Interpretive Guide with information specific to this report type.
+
+Detected
+The drug has been identified in the sample. Identification is based on criteria specific to the analytical technique.
+
+Fatal Reference
+A minimum drug concentration at which death has been reliably reported in the forensic literature.
+
+Inconclusive
+The presence or absence of a drug could not be determined.
+
+Metabolite
+The product of enzymatic conversion of a drug within the body to a different compound that may or may not be pharmacologically active.
+
+No [other] significant findings by a [method name(s)]
+This comment is inserted to provide a reference to the methods that were used. Appendices 1 and 5 above can be used to identify compounds not listed and that were either not detected or the results were deemed to not be toxicologically significant, e.g. , caffeine or nicotine. This may also apply to endogenous compounds, e.g. , acetone < 2 mg/100 mL.
+
+Not Detected
+The drug is either not present or is present but at an amount that cannot be discerned from other constituents in the sample.
+
+Post-mortem redistribution
+A phenomenon that refers to a change (either an increase or a decrease) in blood drug concentration after death; post-mortem redistribution may occur regardless of sampling site but is commonly observed as increased drug concentrations in heart blood as compared to femoral blood.
+
+Putrefaction
+The decomposition of organic material that involves micro-organisms.
+
+Report
+Contains a comprehensive summary of analytical results accompanied by interpretative conclusions.
+
+Tentative
+A drug has been identified by a screening method but has not been confirmed. Where a non-specific screening method, e.g. , immunoassay, produces a tentative result, further analysis would be required to positively identify the compound.
+
+Therapeutic
+The detected drug concentration is generally considered to not be toxicologically significant. The use of this term does not imply clinical efficacy.
+
+Traces
+The drug was detected at a concentration below that which can be reliably quantitated. The use of this term does not imply clinical efficacy.

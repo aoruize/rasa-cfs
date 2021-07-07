@@ -1,0 +1,99 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Textile damage assessment information
+
+Purpose
+
+Textile damage assessment may assist to answer various types of questions in the forensic examination of a garment or other fabric products. For example:
+
+    Cuts, tears and seam separations present on articles of clothing may be significant when violence is alleged to have been part of an incident or when an act of mischief is believed to have occurred.
+    Cuts or tears may be associated to a type of implement, and even to a particular implement (when fibres on it are indistinguishable to fibres comprising the damaged garment).
+    The presence of abrasions, tears or slash cuts may assist to localize points of contact on a vehicle in pedestrian hit and run accidents, or inside a vehicle in relation to its driver or passengers.
+    The presence of thermal damage on a garment may be significant in an arson case.
+    Discoloured areas may be significant on a garment from an individual who is suspected of having done a bleach clean-up of a scene.
+    It may be possible to obtain a physical match when comparing two (or more) damaged items from different sources and conclude that they were once part of the same item.
+
+Damage can be identified as to belonging to one of the following four stages when referring to its recency:
+
+Recent - Damage characteristics observed indicate that the item has not been laundered or extensively worn/used* since the damage occurred.
+
+Non-recent - Damage characteristics observed indicate that the item has been laundered or extensively worn/used* since the damage occurred.
+
+Inconclusive - Damage that has a combination of recent and non-recent damage characteristics.
+
+Indeterminate - Damage characteristics observed do not change with laundering and/or extensive wear/use. They remain the same over time ( e.g. missing zipper pull).
+
+* Extensively worn/used - Items when worn/used are flexed and abraded when in contact with themselves and/or other surfaces. If this occurs after the damage has occurred, it results in changes to any damage characteristics observed.
+Analysis
+
+Textile damage assessment is performed by a macroscopic and stereomicroscopic examination of the item and typically involves performing damage tests, if possible, on the same article being examined or another article of similar construction, sometimes with a submitted implement.
+
+The damage is assessed by general observations relative to the construction and general appearance of the item, and by determination of the characteristics the fabric edges, yarn ends, and fibre ends.
+Significance
+
+Damage is influenced by a number of different factors, including fabric construction and fibre composition.
+
+Some types of textile damage may occur during normal wear, such as surface abrasions, pilling, broken threads, unravelling, stretching/distortion, and environmental discolouration.
+
+It may be difficult to visualize the details that characterize the damage if it is not recent and/or small or, if the edges are coated with blood or affected by environmental exposure.
+
+Although not quantified, a general assessment of the force required to create textile damage may be possible, based on knowledge of fabric construction and damage tests.
+Glossary
+General terminology
+
+abrasion – the wearing away of a material by rubbing against another surface in a localized area, which, for a fabric, results in a hole and/or thinning of the fabric, or friction-melting of fibres at the surface of the fabric
+
+cut – a fabric separation with neat edges produced by a sharp-edged implement ( e.g. knife, razor blade, scissors)
+
+fabric pullout - the ends of yarns perpendicular to the stitching, have come out of the seam
+
+fabric separation - damage whereby the integrity of a fabric has been disrupted, leaving a cut or tear
+
+macroscopic examination – an unaided visual examination
+
+penetration cut – a type of cut with torn yarn(s) at the point of entry created by penetration with a pointed sharp implement
+
+pilling – Accumulation of balls of tangled fibres held to the surface of a fabric, produced by wear and tear and/or rubbing against another surface
+
+physical match – the torn/cut edge characteristics of two pieces of fabric are in continuous complementary agreement with each other
+
+puncture - damage created by penetration through fabric by a non-cutting implement ( e.g. screwdriver, bullet), producing a tear and/or irregular hole, which may or may not result in missing fabric ( e.g. as may happen with a damaged bullet)
+
+scissor cut - a type of cut created with a sharp two-bladed implement, often showing steps and nicks
+
+seam separation – an area where the threads joining fabrics together are broken, caused by physical stress exerted in opposing directions
+
+seam slippage – displacement of the fabric yarn parallel and adjacent to the stitch line
+
+slash cut - a type of cut showing characteristics of having been produced through contact along the surface of a fabric by the sharp edge of an implement ( e.g. razor blade), resulting in a cut through the entire layer of the fabric and/or cut surface yarns
+
+stereomicroscopic examination – using a microscope with two separate optical systems, one for each eye, giving a 3-dimensional view of the sample and its external features
+
+tear – a fabric separation with ragged edges, caused by physical stress exerted in opposing directions
+
+wear and tear - damage caused during use
+Textile terminology
+
+fabric – a planar structure consisting of fibres or yarns
+
+fibre – the smallest unit in textile production, which can be natural or manufactured (short staple or continuous filament)
+
+knitted fabric – made by the interlooping of yarns
+
+nonwoven fabric – made by bonding and/or interlocking fibres (as by mechanical, thermal or chemical means)
+
+seam – a line where two or more fabrics are joined together, usually with thread
+
+single yarn – an individual yarn with one component, where the fibres are twisted or laid together to form a yarn.
+
+thread – special type of yarn used to join/stitch pieces of fabric or sew on buttons
+
+twist direction – the twist of a yarn or thread is described as “S” or “Z” according to which of these letters has its center inclined in the same direction as the surface elements of the yarn.
+
+warp – the set of yarn in all woven fabrics that runs lengthwise and parallel to the selvage (finished edge) and is interlaced with the weft (filling)
+
+weft (filling) - in a woven fabric, the yarn running from selvage to selvage at right angles to the warp
+
+woven fabric – composed of two sets of yarns (warp and weft) interlaced perpendicularly
+
+yarn – a continuous strand (single yarn) of fibres with or without twist, or multiple singles (plied yarn) twisted together, used for thread or fabric construction

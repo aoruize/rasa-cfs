@@ -1,0 +1,54 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Chemical identification and comparison
+
+Introduction
+
+Chemical identification and comparison cases may involve the following types of investigations:
+
+    identification of unknown liquids and solids
+    determining if a toxic or dangerous material is present in items such as food or beverages
+    comparing materials to determine whether or not they could have originated from the same source.
+
+Examination
+
+Examination of unknown materials may include:
+
+    visual and/or microscopic examination
+    measuring the physical and/or chemical properties, and
+    instrumental analysis to assist in determining the identity of its chemical component(s).
+
+Concentrations or quantities of components are not usually determined.
+
+If a sample is examined to determine whether or not any foreign material is present, it may be necessary to examine a comparison sample of the material along with the unknown sample. For example, in a case where it is suspected that a beverage has been adulterated with a cleaning product, the bottle of cleaning product suspected to have been used should ideally be submitted for comparison purposes (or purchase and submit a new bottle of the same cleaning product in question). A comparison sample of unadulterated beverage may also assist with the examination.
+Glossary
+
+Aqueous: Water-based material.
+
+Detection Limit: The lowest quantity of a material that can be identified using a given method of analysis.
+
+Fourier Transform Infrared Spectroscopy (FTIR) : This instrumental technique is used to identify a material based on its characteristic absorption of infrared light. If the material cannot be conclusively identified, it may be possible to determine the types of chemical groups present in the material.
+
+Gas Chromatography-Mass Spectrometry (GC-MS) : Gas chromatography is a technique used to separate components of a mixture. Mass spectrometry is used to identify the components.
+
+Headspace Analysis: Headspace analysis is a technique for analyzing volatile compounds by Gas Chromatography-Mass Spectrometry. Headspace analysis samples the vapour phase above the sample, which is usually contained in a Mason jar or a nylon bag.
+
+Liquid Chromatography-Mass Spectrometry (LC-MS): Liquid chromatography is a technique used to separate non-volatile components of a mixture. Mass spectrometry is used to identify the components.
+
+Solvent Extraction: Solvents may be used to extract a chemical component from a sample for further analysis.
+
+Oxidizing Material: An oxidizing material (‘oxidizer’) is capable of reacting with and oxidizing other materials. Examples of oxidizing materials include bleach and hydrogen peroxide.
+
+pH: The pH is a measure of whether a liquid is acidic (pH <7), neutral (pH 7) or basic/alkaline (pH >7).
+
+Pyrolysis Gas Chromatography-Mass Spectrometry (PGC-MS) : Pyrolysis is a technique in which heat is used to fragment a sample in the absence of oxygen. Gas chromatography is a technique used to separate the components of a mixture. Mass spectrometry is used to identify the pyrolysis fragments of the sample when combined with PGC.
+
+Raman Spectroscopy (RS): This instrumental technique is used to identify a material based on its characteristic scattering of light.
+
+Scanning Electron Microscopy-Energy Dispersive X-Ray Analysis (SEM-EDX): The SEM produces a magnified image of the sample based on the interaction of an electron beam with the sample’s surface. The EDX is used to identify some of the elements present based on the x-rays produced through interactions between the sample and the SEM electron beam.
+
+Vapour: Gas produced by the evaporation of liquid(s) that may mix with air or other gases.
+
+Volatile: A material that readily evaporates at normal temperatures and pressures.
+
+X-Ray Diffraction (XRD): This instrumental technique is used to identify crystalline components of a material based on their interaction with X-rays.

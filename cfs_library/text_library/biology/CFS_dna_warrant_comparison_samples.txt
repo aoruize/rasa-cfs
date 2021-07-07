@@ -1,0 +1,42 @@
+###
+Centre of Forensic Sciences
+Technical Information Sheets
+Biology - DNA Warrant Comparison Samples
+
+Neil Fernandopulle, Ph.D.
+Quality Assurance and Technical Manager, Biology Section
+
+Introduction
+
+DNA (deoxyribonucleic acid) is the chemical that contains information about the structure and function of the human body. It is called the blueprint of life. No two people have the same DNA, with the exception of identical twins. The analysis of DNA provides the most precise technique available for identifying individuals. Since the DNA in each nucleated cell of a person’s body is the same, samples from various body fluids or tissues such as blood, semen, saliva and hair roots, can be analyzed. DNA profiles can be compared to give information regarding the potential common origin of a sample of unknown source (e.g. semen on a vaginal swab) and a sample of known origin (e.g. comparison blood sample from a known individual). A comparison sample is a sample of biological material taken from a known individual in order to compare the DNA profile of that individual with a DNA profile derived from a sample of unknown origin.
+
+###
+Biology - DNA Warrant Comparison Samples
+
+Currently, the technology employed at the Centre of Forensic Sciences (CFS) for the analysis of forensic DNA samples is Polymerase Chain Reaction (PCR) based multiplex Short Tandem Repeat (STR) analysis. The analysis of STRs on the autosomal chromosomes of an individual is the gold standard or method of choice in the forensic community. The analysis of autosomal STRs provides extremely strong evidence of association where the DNA profile from an unknown sample recovered at a crime scene matches the DNA profile from a known sample from a suspect. Autosomal STR analysis is required for compatibility with DNA data banks around the world, including the National DNA Data Bank in Canada. In addition to this method, STRs located on the Y-chromosome of males may also be analyzed. However, the analysis of Y-chromosomal STRs is less capable of distinguishing individuals, especially males who are paternally related, and as such, has limited application in forensic casework.
+
+###
+Biology - DNA Warrant Comparison Samples
+DNA Analysis of Biological Samples
+
+The analysis of biological samples and the interpretation of DNA results proceed as follows:
+
+    1. Extraction of DNA from the biological sample (e.g. blood).
+    2. Quantification of extracted DNA (this step may not be required for comparison samples).
+    3. PCR amplification of the DNA at several different regions, known as STR loci.
+    4. Sorting of the amplified DNA fragments by electrophoresis, visualization of the fragments and identification of the size of the fragments by comparison to known size standards.
+    5. Comparison of the DNA profiles to establish whether specific individuals (by reference to their comparison sample) can be excluded as the source of profiles of unknown origin.
+    6. In the event an individual cannot be excluded as the source of a profile of unknown origin, consultation of population databases in order to calculate a statistical weight to the association (expressed as either a random match probability or as a likelihood ratio).
+
+###
+Biology - DNA Warrant Comparison Samples
+
+The CFS utilizes commercially available STR typing kits to generate DNA profiles. One type of kit is used to analyze STR loci found on the autosomal chromosomes of both males and females. The STRs that are analyzed with these kits include the standard 13 STR loci which are employed by the Canadian National DNA Data Bank and by government forensic science laboratories across Canada. A second type of kit is used to analyze Y-chromosome STR loci found exclusively in male individuals.
+
+###
+Biology - DNA Warrant Comparison Samples
+Collection of DNA Warrant Comparison Samples
+
+Warrant sample collection kits are available from the CFS for the purpose of collecting blood samples. Instructions for collecting such samples are provided with each individual kit. It is highly recommended that these kits be used for the collection of blood samples to ensure a uniform approach across the province. Blood is the preferred biological sample for collection via DNA Warrant because it is a very rich source of DNA as well as a very pure source (i.e. relative to other sample types, it is less likely to contain elements which could potentially inhibit portions of the DNA analysis).
+
+While blood is the recommended sample for collection under warrant, where it is necessary to collect an alternative sample, a buccal/oral swab should be considered. Plucked head hairs are the least preferred sample type. Instructions for the collection and packaging of these alternative samples may be obtained separately from the CFS. 

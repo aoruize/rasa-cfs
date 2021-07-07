@@ -1,0 +1,43 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Oil Analysis Information
+
+Introduction
+
+Items may be examined at the laboratory for the presence of mineral oils (e.g. motor oil), waxes (e.g. candle wax, petroleum jelly), or plant/animal based oils and fats. These products are most often of interest in fire investigations and may contribute to the fuel load of a fire. The identification of such products in items collected in an investigation does not necessarily indicate that a crime has been committed. All laboratory results must be evaluated in the context of the investigation.
+
+Analysis to determine whether or not an oil, wax or fat can be identified may be carried out on select items from a fire investigation upon request. Any ignitable liquid analysis requests will be completed prior to oils examination, since once items have been examined for oils , future examination of these items for ignitable liquids is not possible. Therefore, if both ignitable liquids and oils analysis are of interest, submit separate samples for each whenever possible.
+
+Comparison samples from known sources (e.g. bottle of oil) should be collected and submitted whenever possible. In fire investigations, it is recommended to submit comparison substrate materials when requesting oils analysis. For example, when submitting a burnt carpet sample, submit another piece of the carpet that is unlikely to have oils present, in order to assist with determining whether or not any oils identified could be originating from the carpet itself.
+
+Examination
+Sample Prep / Extraction
+
+Items will be extracted with an appropriate solvent to recover any oil, fat or wax that may be present.
+Instrumental Analysis
+
+Once prepared, solvent extracts are analyzed using Gas Chromatography-Mass Spectrometry (GC/MS) and/or Liquid Chromatography - Mass Spectrometry (LC-MS-MS). GC and LC are standard analytical techniques that separate the components of a sample and generate a chart known as a chromatogram.  Oils, waxes and fats are identified by their distinct patterns in these chromatograms. Mass spectrometry assists in classifying and identifying the components of a sample.
+
+Interpretation
+Mineral Oils
+
+Known oil samples may be submitted for comparison with an unknown sample to determine whether or not they could share a common origin. Where no comparison oil is submitted, it is only possible to report whether or not a mineral oil has been identified. It is not possible to provide information about the brand, type or grade of mineral oil (e.g. 5w30, 10w30, transmission oil, baby oil etc.) at this laboratory.
+Plant and Animal Oils and Fats
+
+Depending on the amount and condition of the sample, it may be possible to determine the classification of plant and animal oils and fats (e.g. canola oil, corn oil, lard). It may also be possible to relate the identity of the oil with its tendency to self-heat. Heat from a fire, and/or spoilage may preclude identification and/or classification.
+
+Glossary
+
+Animal oils and fats - Oils and fats derived from animal sources, such as butter, lard, tallow, and fish oils.
+
+Fat - A substance that is chemically similar to plant or animal oil but is solid or semi-solid at room temperature.
+
+Ignitable liquid - Liquids that are capable of starting, spreading or increasing the intensity of a fire. Examples of such liquids include gasoline, lighter fluids, paint thinners, alcohols and some solvents.
+
+Mineral oils - Oils from petroleum sources such as motor oils, synthetic oils and baby oil.
+
+Plant (Vegetable) oils – Oils derived from plant sources, such as cooking oils (e.g. olive, peanut, canola oil) and drying oils (e.g. linseed and tung oil).
+
+Solvent - A liquid capable of dissolving another substance.
+
+Waxes - Substances that are chemically similar to oils but are solid or semi-solid at room temperature. Examples of commercial products that may contain waxes include candles, petroleum jelly, polishes, crayons and cosmetics.

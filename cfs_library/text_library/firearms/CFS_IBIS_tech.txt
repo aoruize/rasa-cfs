@@ -1,0 +1,49 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Integrated Ballistics Identification System
+
+Introduction
+
+The Integrated Ballistics Identification System ( IBIS ) is used for the acquisition, storage and comparison of digital images from projectiles and/or cartridge/shotshell cases. The system is a screening tool that enables the laboratory to identify local, national and international linkages that may exist amongst firearms cases submitted for examination. Through the use of computers and a modified microscope, an operator can compare previously recorded images to new evidence received.
+
+Firearms, projectiles, and cartridge/shotshell cases can be examined for IBIS upload. Images of projectiles and cartridge/shotshell cases are digitally captured and uploaded for comparison. The uploaded images will be electronically compared to those images stored in the Canadian Integrated Ballistics Identification Network ( CIBIN ).
+
+Those images could also be compared to the National Integrated Ballistic Information Network ( NIBIN ) database in the United States of America ( USA ) where information indicates that the firearm may have originated or passed through the USA . The case submission must include the reason for the search (for example, firearm was stolen or purchased in the USA ​) and the specific state(s) that the agency would like to search. As a result of the design of the NIBIN search parameters, additional states that were not originally requested may also be searched. A complete list of the NIBIN sites that were searched is available upon request.
+
+Searches of the IBIS database are dynamic and linkages may occur at the time the items are acquired onto the system or at a later date. When linkages to other cases are developed, a Case Linkage report 1 or Firearms Investigative Aid Notification letter 2 will be issued to notify the agencies involved.
+
+1 Results have been confirmed. The identification/associations are made within the limits of practical certainty.
+
+2 Results are preliminary.
+Examination
+
+If a firearm, projectile or cartridge/shotshell case is submitted for upload to IBIS , then the examination may include the following:
+
+    Examining the projectile and/or cartridge/shotshell case to determine suitability for acquisition.
+    Microscopically examining and comparing the projectiles and cartridge/shotshell cases to each other using a comparison microscope.
+    Capturing and uploading digital images of the projectiles and/or cartridge/shotshell cases.
+    Correlating the uploaded images with those in the CIBIN database, and where applicable, the NIBIN database.
+
+Interpretation
+
+As IBIS is a screening tool, potential linkages identified by the system must be reviewed and microscopically examined.
+
+There are three possible results from an IBIS acquisition and comparison:
+
+    A preliminary linkage was developed between the submitted item and items held in the CIBIN and/or NIBIN database(s). A comprehensive examination of a preliminary linkage may result in a confirmed linkage.
+    At the time of capture and upload, there were no items held in the searched database(s) with which the submitted item could be linked. This means that there was insufficient agreement in  physical characteristics and markings between the submitted items and items in the searched database(s).
+    The item was not acquired. Occasionally, technical limitations associated with the appearance or absence of microscopic, individual characteristics of an item may preclude its acquisition into IBIS . Some bullets are not acquired onto the CIBIN database (examples include .22 calibre class non-jacketed bullets such as .22 Long Rifle, .22 Long and .22 Short, and bullets with polygonal or GMB rifling).  A manual comparison may be conducted in this event, as per unit procedures.
+
+Glossary
+
+CIBIN : a national network that integrates all IBIS Sites in Canada and is administered by the Royal Canadian Mounted Police.
+
+NIBIN : a national network that integrates all IBIS Sites in the United States of America and is administered by the Bureau of Alcohol, Tobacco, Firearms and Explosives.
+
+Firearms/Toolmark Identification: is an empirical science that relies on objective observations and a subjective interpretation of microscopic marks of value.
+
+Practical Certainty: Since it is not possible to collect and examine samples of all firearms, it is not possible to make an identification with absolute certainty. However, all scientific research and testing to date and the continuous inability to disprove the principles of toolmark analysis have demonstrated that firearms produce unique, identifiable characteristics which allow examiners to reliably make identifications.
+
+Preliminary Linkage: A linkage between cases that is examined by a scientist but not subject to visual verification.  A notification letter is issued for preliminary linkages.
+
+Confirmed Linkage: A linkage between cases that is examined by a scientist and subject to visual verification by another scientist.  A comprehensive interpretive report is issued for confirmed linkages.

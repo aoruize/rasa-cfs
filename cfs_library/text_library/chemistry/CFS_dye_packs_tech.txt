@@ -1,0 +1,21 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - MAAQ (Dye-pack Dye) Identification
+
+Introduction
+
+Dye-packs are security devices used by banks/financial institutions for the purpose of visibly staining stolen money in the event of a robbery. A dye-pack device looks like a stack of real currency, however after being improperly removed from the premises it is designed to activate and emit a cloud of the red dye 1-methylaminoanthraquinone (MAAQ). Other objects such as clothing, footwear, bags and car seats may also become stained when the device is activated. Depending on the amount of MAAQ deposited, the staining may appear pink to red in colour. MAAQ is not easily removed through regular washing, thus it may be present on items such as clothing even after washing.
+
+Besides its use in dye-packs, MAAQ is used in certain pyrotechnic devices and in the manufacture of some plastics and other dyes. Additional uses of MAAQ as colourant for other materials and products have been mentioned in publications and on websites. However, the availability of MAAQ to the general public is limited.
+Examination
+
+Fabrics or swabs will be examined visually and/or microscopically. If red or pink staining is observed, the stained area of the object will extracted with the solvent dichloromethane. Dichloromethane is a solvent in which MAAQ is soluble. If the material is soluble in dichloromethane, the material will be examined by Gas Chromatography-Mass Spectrometry and/or Fourier Transform Infrared Spectroscopy.
+Glossary
+
+Detection Limit: The lowest concentration of a material that can be identified using a given method of analysis.
+
+Fourier Transform Infrared Spectroscopy (FTIR) : This instrumental technique is used to characterize a material based on its absorption of infrared light. It provides information about the chemical groups present in a molecule.
+
+Gas Chromatography-Mass Spectrometry (GC-MS) : Gas chromatography is a technique used to separate the components of a mixture. The mass spectrometer is used to identify the components.
+
+Organic Solvent Extraction: An organic solvent is a liquid which is carbon based, non-aqueous. Dichloromethane is an example of an organic solvent. Organic solvents may be used to extract MAAQ out of an item, for further analysis.

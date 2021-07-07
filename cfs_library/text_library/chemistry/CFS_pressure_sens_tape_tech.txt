@@ -1,0 +1,52 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Pressure Sensitive Tape Examination Information
+Introduction
+
+Pressure sensitive tapes have many legitimate uses, but are also used in numerous types of criminal activities (e.g. homicide, sexual assault, kidnapping and improvised explosive devices). The most common types of pressure sensitive tapes submitted to the laboratory for analysis are duct tape and electrical tape. Other types of pressure sensitive tapes analyzed may include, but are not limited to packaging tape, masking tape and office tape. Tape has different layers which vary in physical properties and chemical composition. The variations in these layers make tape a distinctive material.
+Examination
+
+The examination of pressure sensitive tape involves describing the colour and appearance of the tape followed by the analysis of the physical properties and the chemical composition of the tape. The examination of colour and appearance is performed both visually and microscopically. The physical properties analyzed include the tape width and thickness. The chemical composition of each tape layer is determined using one or more instrumental techniques. Usually, a tape examination involves the comparison of samples to determine if they could share a common origin. The goal is to determine if any significant differences exist between the known and questioned samples. The evaluation of the tapes for class characteristics can associate known and questioned samples to a group, but not to a single, individual source. A physical match of two tape ends provides individualizing characteristics that associate the two tapes to each other to the exclusion of all other tapes. Questioned tape samples may also be submitted with a request to identify the possible manufacturer. Determining a possible source of a questioned tape can provide valuable investigative information.
+Interpretation
+
+Because of the variability of tape products, the analysis and comparison of tape evidence in the forensic science laboratory can provide valuable information. However, some classes of tape exhibit more variability than others. In general, the more complex the product (e.g., duct tape), the more variable it is. While tapes within a specific class may appear similar on a macroscopic level, differences may be found on closer analysis of the physical and chemical characteristics.
+
+    Differences are readily observed in tapes manufactured in different plants.
+    Differences may also be found between batches of tape products within the same plant, because of changes in raw materials and processing that occur over time. Although it is less likely to find differences in tape rolls produced by the same production line, the probability of finding differences between batches increases with time between batches.
+    It may also be possible to detect physical differences between rolls of tape produced in the same batch. For example, differences in width or distance between scrim fibres and the edge of the tape.
+
+Tape samples are referred to as indistinguishable when they cannot be differentiated by the examination that was conducted. When recovered tape is determined to be indistinguishable from a submitted comparison sample, it can be concluded that the recovered tape has either come from the same roll or from another roll that is indistinguishable in colour, appearance, physical properties and chemical composition.
+
+The probability of an alternative origin will depend on the type of tape and any unusual characteristics. A statement regarding the significance of these findings will be included in the report.
+
+Though there are numerous manufacturers of tapes they are a mass-produced commercial product and as such it cannot be concluded that a particular tape has come from a specific roll, except when a physical match has been confirmed.
+Tape glossary
+
+Additives - Materials that are included in adhesive or backing formulations to increase overall volume, impart color, or provide other desired properties.
+
+Adhesive - A material that will hold two or more objects together solely by intimate surface contact.
+
+Backing - A thin, flexible material to which adhesive is applied.
+
+Creped - Paper that has small folds in it, giving it high stretch and conformability. Used in masking tape (saturated paper tape).
+
+Physical match - This is the term used to describe a one to one correspondence between tape ends that has been confirmed by microscopy. When there is a physical match, it is concluded that the pieces forming that physical match were once one object.
+
+Pressure-sensitive adhesive (PSA) - Material that can form an adhesive bond with only slight pressure and without requiring a physical or chemical change.
+
+Pressure-sensitive tape - Consists of a flexible backing and PSA, which when applied to a surface, bonds immediately at room temperature with slight pressure. The bond can be broken (usually) without damage to the surface and without leaving a residue.
+
+Scrim - Loosely constructed fabric added to duct tape for reinforcement and strength.
+
+Reinforcement - Cloth, scrim, glass filaments, or plastic filaments added to tape for stability and strength.
+
+Thickness - Distance from one surface of either a tape, backing, or adhesive to the other, usually expressed in mils (thousandths of an inch).
+Techniques/Instrumentation Glossary
+
+Fourier Transform Infrared Spectroscopy (FTIR) - This instrumental technique is used to characterize the tape based on its absorption of infrared light. It provides information about the backing and adhesive of the tape.
+
+Pyrolysis Gas Chromatography - Mass Spectrometry (PGC-MS) - Pyrolysis is a technique in which heat is used to fragment a tape sample in the absence of oxygen. Gas chromatography is a technique used to separate the components of a mixture. The mass spectrometer may be used to identify the pyrolysis fragments of the tape when combined with PGC. PGC-MS of tape combines this fragmentation and separation to provide information about the backing and/or adhesive of the tape. This technique requires that a very small quantity of tape be consumed.
+
+Scanning Electron Microscopy - Energy Dispersive X-Ray Analysis (SEM-EDX) - The SEM produces a magnified image based on the interaction of an electron beam with the sample’s surface. The EDX is used to identify some of the elements present based on the x-rays produced through interactions between the sample and the SEM electron beam. This combined technique provides information about some tape additives.
+
+X-Ray Diffraction (XRD) - This instrumental technique is used to identify crystalline components of the tape based on their interaction with x-rays. It provides information about some tape additives.

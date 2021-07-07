@@ -1,0 +1,85 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Hair examination information
+
+Hair identification
+
+The identification of hairs involves the macroscopic examination and low power (4x to 64x) stereomicroscopic examination of external characteristics, such as colour, coarseness, length, cross-section ( e.g. round, oval or flat), configuration ( e.g. kinked, buckled), and root and tip appearance. It may also involve the examination of the various internal components of a hair (cuticle, cortex, medulla) by bright field microscopy at high (300x) magnification.
+
+With respect to hairs, the examiner can determine one or more of the following (list not all-inclusive):
+
+    human or animal
+    family/species of animal
+    human body origin
+    damage ( e.g. singeing)
+    treatments ( e.g . dyeing)
+    condition of root ( i.e. indication of hair having fallen naturally, or forcibly removed, and suitability for nuclear DNA analysis)
+
+The body origin of a human hair can be identified if it is intact, mature and has characteristics which exclude it from other hair types (notwithstanding the possibility of atypical hairs). There can be an overlap in the characteristics of human hair types. For example, a less mature pubic hair can look like a chest hair, or an immature scalp hair may resemble fine body hairs. Hair identifications are reported to include the likely types (not including atypical possibilities).
+
+Animals have coarse guard hairs and fine underfur hairs. Guard hairs can be identified as to the family, or sometimes species of origin. Underfur hairs cannot be identified as to family or species.
+Hair screening
+
+Hair screening is done as a prelude to further testing (nuclear or mitochondrial DNA analysis).  During hair screening, the external characteristics, such as colour, width, length, and configuration of unknown hairs may be examined in order to select the hairs for further examination. The hair roots may be assessed to determine whether they are suitable for attempting nuclear DNA analysis or suitable for attempting mitochondrial DNA analysis.
+
+Occasionally, unnaturally dyed hairs are examined by microspectrophotometry and Raman Spectroscopy.
+Damaged hair
+
+Hair can be examined for damage, such as heat, crushing or cutting, or to see if it has been forcibly removed.
+Transfer and persistence of hairs
+
+Hairs can be transferred between individuals, or between individuals and objects, or between objects. The number of hairs transferred and retained (persistence) is dependent on various factors ( e.g. nature of recipient fabric/surface, time since transfer, etc. ).
+
+Examination for an unknown/foreign hair from an individual will normally not be undertaken if the parties are known to each other or have shared a common environment as hairs may be transferred between people through daily activities.
+
+The presence of one or two forcibly removed hairs may arise as a result of normal daily activities such as grooming.
+Glossary
+General terminology:
+
+bright field microscopy – microscopy that employs light which travels thorough the sample to enable visualization of internal characteristics.
+
+known sample – sample from a verifiable source ( e.g. scalp hairs collected from an individual, or fibres of which a garment is comprised).
+
+macroscopic examination – an unaided visual examination.
+
+microspectrophotometry – spectral analysis of the wavelengths of visible light which are absorbed by a sample (the spectral results are directly related to the colour of the sample).
+
+Raman Spectroscopy - is a technique that measures the scattering of light by a sample due to the dyed hair’s composition and/or colour components. In fibre comparison, this scattering of light is compared between known fibre samples and trace fibres.
+
+reflected light microscopy – microscopy that employs light which is reflected off the surface of a sample to enable visualization of external characteristics.
+
+stereomicroscopic examination – using a microscope utilizing reflected light and two separate optical systems, one for each eye, giving a magnified 3-dimensional view of the sample and its external features.
+
+taping – a technique used to remove extraneous trace material from the surface of an object, utilizing clear adhesive tape which is subsequently placed in a sheet protector.
+
+trace material – materials which may not be visible to the naked eye ( e.g. hairs, fibres, botanical fragments).
+
+unknown sample – trace material collected from an item of evidence and having an unknown originating source (e.g. extraneous hairs from the surface of a garment).
+Hair terminology:
+
+background hair population – majority of hairs from an unknown sample that have similar external characteristics which can be used for screening purposes.
+
+body hairs – hairs from trunk and limbs.
+
+cortex – the main portion of the hair, where the colour pigments are present.
+
+cuticle – outer layer of a hair which has scale-like flat overlapping cells.
+
+external characteristics - those attributes/features of human or animal hairs that are large enough to be perceived without magnification (macroscopic examination) or using a low power microscope (stereomicroscopic examination).
+
+foreign hairs - foreign hairs are those which are deemed dissimilar to the known/background hair sample.
+
+lock of scalp hairs – a bundle of hairs aligned in a parallel arrangement, having been cut or pulled together from the head.
+
+medulla – canal-like hollow cells within the centre of a hair shaft.
+
+macroscopically similar – upon visual examination of all external characteristics, the hairs could not be differentiated.
+
+relevant hair - relevant hairs are deemed so based on the case scenario, for example:
+
+    hairs similar to a deceased’s hair sample located in a suspect vehicle (deceased not known to the vehicle) may be relevant, or
+    foreign hairs located on a deceased person may be relevant.
+
+stereomicroscopically similar – upon examination with a stereomicroscope of all external characteristics, the hairs could not be differentiated.
+
+trunk hairs – hairs from trunk/torso (apart from head and limbs).

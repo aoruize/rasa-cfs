@@ -1,0 +1,17 @@
+version: "2.0"
+
+stories:
+
+- story: search library
+  steps:
+  - intent: greet
+  - action: utter_ask_howcanhelp
+  - intent: search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+  - action: utter_ask_howelsecanhelp
+  - intent: no_more_help
+  - action: utter_goodbye
+

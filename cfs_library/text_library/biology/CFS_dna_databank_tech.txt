@@ -1,0 +1,178 @@
+###
+Centre of Forensic Sciences
+Technical Information Sheets
+Biology - DNA Databank
+
+Introduction
+
+The National DNA Data Bank of Canada became operational on June 30, 2000.
+
+The National DNA Data Bank (NDDB) is a national information repository where forensic laboratory professionals can share DNA information. It is comprised of 2 separate indexes:
+
+    - Convicted Offender Index (COI)
+    - Crime Scene Index (CSI)
+
+Management of DNA data occurs through the Combined DNA Index System (CODIS). This software is provided to the CFS by the Royal Canadian Mounted Police (RCMP) through the Federal Bureau of Investigation (FBI) and United States Department of Justice.
+
+Two different levels exist for the upload of DNA data: a National level and a Local level. Specific legislative, scientific and CFS Policy related criteria must be met for upload of DNA data to the National and/or Local levels.
+
+The Centre of Forensic Sciences (CFS) uploads eligible DNA profiles to the National level Crime Scene Index. These DNA profiles are searched against applicable categories in the National CSI as well as against profiles in the National COI.
+
+The Local level consists of several separate categories maintained by the CFS.
+
+Information pertaining to whether or not a DNA profile has been uploaded to the DNA Data Bank and to which level is documented in the CFS report or letter. Certain DNA profiles are not uploaded to the National/Local level, even if they are reported as “suitable for comparison”. Most commonly, this is because:
+
+    - DNA legislation requirements have not been met
+    - Scientific criteria for upload to either the National or Local levels has not been met
+    - The DNA profile cannot be excluded as originating from the same source as another more informative DNA profile which has been uploaded in the same case
+    - A good faith determination has been made that the DNA profile most likely did not originate from the perpetrator(s) and/or been deposited during the commission of a designated offence
+
+‘Not suitable’ indicates that the DNA profile does not meet the minimum scientific threshold for upload.
+
+‘Not applicable’ means that the profile cannot be uploaded due to other restrictions (i.e. DNA profile from complainant).
+
+Unless it is specifically indicated in a report / letter that a DNA profile has been uploaded, it should not be assumed that an upload has occurred.
+
+###
+Biology - DNA Databank
+National Crime Scene Index (CSI)
+
+The following is the RCMP Commissioner’s policy regarding the use of the National crime scene index. The excerpt below is provided to aid investigators in the utilization of this investigative tool.
+
+Investigators may only submit to the forensic labs, for forensic DNA analysis and inclusion of the resulting DNA profile in the National DNA Data Bank Crime Scene Index, samples of bodily substances from an unsolved crime that were found:
+
+    - At any place where a designated offence was committed
+    - On or within the body of the victim of a designated offence
+    - On anything worn or carried by the victim at the time when a designated offence was committed
+    - On or within the body of a person or thing or any place associated with the commission of a designated offence
+
+For the purposes of this policy “unsolved crime” means that there is no court determination in effect to acquit, convict or stay the prosecution of a suspected person whose DNA profile is to be submitted for the investigation of a designated offence, including those committed before June 30, 2000.
+
+###
+Biology - DNA Databank
+CFS Local Indices
+
+The CFS also maintains several local indexes that may assist in ongoing investigations. These include:
+
+CFS Crime Scene Index
+
+DNA profiles from crime scenes that do not meet the scientific criteria for upload to the national level CSI, but meet the scientific criteria for entry at the local level.
+
+Deceased Index
+
+DNA profiles from known deceased individuals.
+
+Unidentified Human Remains (UHR) Index
+
+DNA profiles from recovered remains.
+
+Missing Person Index
+
+DNA profiles from Direct Reference Samples (DRS) from missing persons.
+
+Discard Index
+
+DNA profiles from abandoned/cast-off samples obtained from a suspect/person of interest.
+
+Quality Assurance Index
+
+DNA profiles from all CFS Biology Section staff members, certain other CFS staff or non-CFS individuals who have had access to items, or to the laboratory itself.
+
+###
+Biology - DNA Databank
+Keyboard Search Requests
+
+Investigating agencies or other forensic laboratories may provide the scientist with a written request that a DNA profile that is not eligible for upload to the National and/or Local level be subject to a “one-time keyboard search” of National or Local Indexes.
+
+Requests to perform a one-time keyboard search of the CFS Local Index(es) are subject to approval by CFS. If the search is negative, the requestor is notified via letter. Positive search results are communicated as per the Communication of National/Local Level Hits section below.
+
+Requests to perform a one-time keyboard search of the national CSI or COI are forwarded to the NDDB, who determine whether to conduct the search.
+
+When a keyboard search is undertaken, the CFS process defines a one-time search of a DNA profile as a search to the approved level(s) that occurs only once on the day of the search submission.
+
+A semi-routine keyboard search agreement can also be established to enable quarterly one-time keyboard searches to be conducted for a specific DNA profile. Details of the timing of the searches and communication of results can be determined by consultation with the CFS.
+
+###
+Biology - DNA Databank
+Missing Persons Search Requests
+
+Currently, the legislation that will address the use of the NDDB in Missing Persons investigations is in draft and is therefore, not implemented. As such, missing persons searches at CFS are restricted to DNA
+
+profiles from Direct Reference Samples (DRS) from possible missing persons and are only:
+
+    - Accepted for analysis when they are associated with a specific Unidentified Human Remains (UHR) case investigation
+    - Uploaded to the CFS Missing Person index when they are excluded as the source of the specific Unidentified Human Remains (UHR) for which they were submitted
+
+Once uploaded to the Missing Person index, the DNA profiles are searched against Unidentified Human
+
+Remains and Known Deceased individuals.
+
+CFS does not currently conduct kinship / familial type searches using CODIS.
+
+###
+Biology - DNA Databank
+Interpol Search Requests
+
+Investigating agencies may provide the scientist with a written request for a one-time Interpol (IP) search of a DNA profile of a database that is outside of Canada.
+
+The CFS does not have a formal agreement in place to interact directly with Interpol.
+
+IP search request forms for DNA profiles that have previously been uploaded to the national crime scene index are submitted, by CFS, to the NDDB, who then forward the request to IP-Ottawa.
+
+    - IP search request forms for DNA profiles that were not eligible for upload to the national crime scene index (i.e. reside on the CFS local index only), but have been approved by CFS, are submitted to the applicable IP contact by the investigating agency.
+
+Requests for repeat or scheduled routine Interpol searches must be initiated by police agency each time. The frequency of searches may be influenced by the policies of the particular agency.
+
+The results of international searches are forwarded directly from Interpol to the investigator.
+
+###
+Biology - DNA Databank
+Deletion of Profiles
+
+It is the responsibility of the police agency conducting the investigation to notify the operational forensic laboratory in writing that a particular sample should be removed from the National Crime Scene Index.
+
+Investigators must provide written instructions to remove from the National CSI the DNA profile of:
+
+    - a victim that was the object of the relevant investigation; or
+    - a person who has been eliminated as a suspect in the relevant investigation
+
+A conviction does not eliminate the suspect and the crime scene index profile need not be removed.
+
+###
+Biology - DNA Databank
+Communication of Databank Hits
+
+Investigating agencies are advised directly through their agency DNA Coordinator of any hits. There is no legislated timeline for communication of NDDB hits.
+
+The CFS targets communication of hits to the National Convicted Offender Index within 24 hours of when the Canadian Police Service Information Centre provides the name of the offender to the laboratory.
+
+Scene to scene hits are communicated as soon as is practicable after the match has been verified. For multi-provincial hits, the communication will include relevant information from all applicable laboratories.
+
+###
+Biology - DNA Databank
+Confirmation of COI Hits:
+
+The investigating agency should obtain (either under consent or under section 487.05 (1) of the Criminal
+
+Code of Canada) a bodily substance from the named offender to confirm a COI association.
+
+To confirm a COI association, the CFS will conduct a forensic DNA analysis on a bodily substance obtained from the named offender and will carry out a direct comparison to the DNA profile obtained from the crime scene sample.
+
+This forensic DNA analysis will result in a conclusion about whether the named offender is or is not excluded from the DNA profile obtained from the crime scene index sample. Where an individual cannot be excluded, the significance of this result will be provided.
+
+###
+Biology - DNA Databank
+Adventitious Hits
+
+The possibility exists for an adventitious match to occur from a database search (i.e. where a DNA profile matches with another DNA profile by coincidence).
+
+The possibility for an adventitious hit is more likely when the profile is less discriminating than a full, single source DNA profile (e.g. a partial DNA profile and/or a complex DNA mixture interpretation).
+
+Factors that affect the possibility of an adventitious match include:
+
+    - Size of the database
+    - Number of searches performed annually on the database
+    - The Random Match Probability (RMP) of the DNA profile
+    - Presence of relatives on the databank
+
+The possibility of an adventitious “hit” should be considered by the investigator when a hit notification (either a COI or CSI notification letter) is received from the CFS. Additionally, the investigator should continue to assess all other available case information (e.g. alibi information; relatives) before any investigative action (e.g. arrest; surveillance) is undertaken as a result of a DNA databank hit.

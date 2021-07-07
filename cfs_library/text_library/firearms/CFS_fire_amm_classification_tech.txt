@@ -1,0 +1,154 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Firearms and Ammunition Classification 
+
+Introduction
+
+Section 2 of The Criminal Code of Canada provides the definition of a firearm.Section 84(1) of The Criminal Code subdivides firearms into specific classes and defines the factors required for an item to be included in a specific class. The classes include firearms, restricted firearms, prohibited firearms, replica firearms, and antique firearms. Submitted items are examined in order to determine to which class they belong.
+
+To be defined as a firearm, an item must meet three requirements. First, it must be a barrelled weapon. Second, it must be capable of discharging any shot, bullet or other projectile. Third, the projectiles must be capable of causing serious bodily injury or death to a person. It includes any frame or receiver of such a barrelled weapon and anything that can be adapted for use as a firearm.
+
+Air guns are accepted for classification purposes when they have been used in the commission of an offence.
+
+Section 84 of The Criminal Code provides a definition for ammunition and subdivides ammunition into two categories; ammunition and prohibited ammunition. Cartridge cases and projectiles can be further classified by their construction, profile and type. Cartridge cases can be differentiated into rimfire or centre fire.
+Examination
+
+    Firearms Examination
+    The examination may include the following steps:
+
+    Measuring the barrel and overall length of the item
+    Examining to determine if the item is mechanically able and safe to fire
+    Test firing the item
+    Measuring the velocity of the test fired projectile(s)
+    Comparing the item to firearms held in the CFS Firearms Reference Collection
+    Determining the magazine capacity
+    Researching the repairs required and/or availability of replacement parts for non-functioning firearms
+    Restoring a non-functioning firearm into firing condition
+
+    Ammunition/Ammunition Components Examination
+    The examination may include the following steps:
+
+    Macroscopic and microscopic examinations
+    Determining calibre from the head stamp of the cartridge case, or by the size and shape of the cartridge case, or by the weight and diameter of the projectile
+    Unfired cartridges may be examined macroscopically and microscopically to determine if they are factory loaded or re-loaded, have been chambered in and extracted from a firearm, or struck by a firing pin, striker or hammer
+    Unfired cartridges can be test fired in an appropriate firearm or examined to determine if they meet The Criminal Code definition of ammunition
+    If a firearm is submitted, then submitted cartridge cases and/or projectiles may be microscopically compared to cartridge cases and/or projectiles that have been test fired in the submitted firearm
+
+Interpretation
+
+For classification of suspected firearms and ammunition, possible conclusions are
+
+    The Item X is a “Firearm” as defined in Section 2 of the Criminal Code of Canada.
+    The Item X is a “Prohibited Firearm” as defined in Section 84 of the Criminal Code of Canada.
+    The Item X is a “Restricted Firearm” as defined in Section 84 of the Criminal Code of Canada.
+    The Item X detachable cartridge magazine is a “Prohibited Device” as defined in Section 84 of The Criminal Code of Canada.
+    The Item X cartridges are/were “Ammunition” as defined in Section 84 of the Criminal Code of Canada.
+
+A restricted firearm includes
+
+    A handgun that is not a prohibited firearm, or
+    Any firearm that is not a prohibited firearm that has a barrel less than 470 mm in length and is capable of discharging centre-fire ammunition in a semi-automatic manner, or
+    A firearm that is designed or adapted to be fired when reduced to a length of less than 660 mm by folding, telescoping or otherwise, or
+    A firearm of any other kind that is prescribed to be a restricted firearm
+
+A prohibited firearm includes
+
+    A handgun that has a barrel equal to or less than 105 mm in length, or
+    Is designed or adapted to discharge a 25 or 32 calibre cartridge, or
+    A firearm that is adapted from a rifle or a shotgun, whether by sawing, cutting or any other alteration and that, as so adapted, is less than 660 mm in length, or is 660 mm or greater in length and has a barrel less than 457 mm in length, or
+    An automatic firearm, whether or not it has been adapted to discharge only one projectile with one pressure of the trigger, or
+    Any firearm that is prescribed to be a prohibited firearm
+
+A firearm that is determined to be neither restricted nor prohibited is by default classified only as a firearm.
+
+An antique firearm includes
+
+    Any firearm that was manufactured before 1898 that was not designed to discharge rim-fire or centre-fire ammunition, and
+    That has not been redesigned to discharge such ammunition, or
+    Any firearm that is prescribed to be an antique firearm
+
+This category includes wheel-lock, matchlock, flintlock and muzzle loader firearms that were manufactured before 1898.
+
+A replica firearm is any device that is designed or intended to exactly resemble, or to resemble with near precision, a firearm, and that itself is not a firearm. This does not include any such device that is designed or intended to exactly resemble, or to resemble with near precision, an antique firearm.
+
+Ammunition is a cartridge containing a projectile(s) designed to be discharged from a firearm. This definition includes caseless cartridges and shot shells.
+
+Prohibited ammunition includes
+
+    Handgun calibre cartridges with projectiles that are capable of penetrating body armour, or
+    Any projectile, that does not exceed 15 mm in diameter, that ignites on impact or explodes on impact, or
+    Any shotgun cartridges that contain “flechettes” or similar projectiles
+
+Glossary
+
+Air gun
+A gun that uses compressed air or gas (usually CO 2 ) to propel a projectile. Also called air rifle, air pistol, pellet rifle, pellet gun and BB gun.
+
+Ammunition
+A cartridge that contains a projectile that is designed to be fired in a firearm. It is usually comprised of the cartridge case, propellant, primer and projectile. This also includes a caseless cartridge and a shot shell.
+
+Armour piercing bullet
+A bullet consisting of a hardened core or wholly composed of a substance other than lead or lead alloy. Or, any bullet manufactured, represented or designed to be metal or armour piercing.
+
+Bullet
+A component of an ammunition cartridge. Typically a non-spherical projectile for use in a rifled barrel.
+
+Bullet core
+The inner portion of a jacketed bullet, usually lead
+
+Calibre of Firearms
+The approximate diameter of the circle formed by the tops of the lands of a rifled barrel
+
+Calibre of Ammunition
+A numerical term, included in a cartridge name to indicate the nominal bullet diameter
+
+Cartridge
+A single unit of ammunition
+
+Cartridge case
+The container for all the other components that comprise a cartridge
+
+Centre fire cartridge
+Any cartridge that has its primer central to the axis in the head of the case
+
+Full metal jacketed bullet
+A projectile in which the bullet jacket encloses the entire bullet, with the usual exception of the base
+
+Flechette
+A small dart multiply loaded in some shot shells and rifle cartridges used by the military
+
+Hollow point bullet
+A bullet with a cavity in the nose to facilitate expansion
+
+Jacket
+The envelope enclosing the lead core of a projectile
+
+Lead-free ammunition
+A cartridge designed to have no lead in the priming mixture and a bullet with an enclosed base which prevents the vaporization of the lead core, or that may be loaded with a projectile constructed of materials other than lead
+
+Pellet
+A common name for the small spherical projectiles loaded in shot shells. Also known as shot. Or, a nonspherical projectile used in some air rifles and air pistols.
+
+Primer
+The ignition component of a cartridge
+
+Projectile
+An object propelled by the force of rapidly burning gases or other means
+
+Rifling
+Helical grooves in the bore of a firearm barrel to impart rotary motion to a projectile
+
+Rimfire cartridge
+A rimmed cartridge containing the priming mixture inside the rim cavity
+
+Semi-wadcutter
+A projectile with a distinct, short truncated cone at the forward end
+
+Shot
+Spherical pellets used in loading shot shells or cartridges
+
+Shot shell
+A cartridge containing projectiles designed to be fired in a shotgun. The cartridge body may be metal, plastic or paper.
+
+Wadcutter
+A cylindrical bullet design having a sharp shouldered nose intended to cut target paper cleanly to facilitate easy and accurate scoring

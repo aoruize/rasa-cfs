@@ -1,0 +1,199 @@
+###
+Centre of Forensic Sciences
+Technical Information Sheets
+Biology - Body Fluid Information
+
+Introduction
+
+Examinations are conducted based on their scientific merit in the context of the case history information provided. The significance of the results and conclusions of examinations is dependent on this context. Further, or more extensive, examinations may be warranted given additional information.
+
+The Centre of Forensic Sciences ( CFS ) can test for the presence of blood, semen and saliva.
+
+Examinations include visual, which may involve using a stereomicroscope (a magnifying tool) and enhanced light sources and chemical tests. When multiple stains or areas of staining are observed, representative stains are tested. The most informative findings or highest level conclusion will be reported ( i.e. blood detected).
+
+Examination strategies and the surfaces of items examined (outside, inside, crotch region etc.) are based on the case history information provided and are documented within the case file. The case file also contains information pertaining to additional potential areas of staining and preliminary testing that may have been conducted.
+
+Where two swabs are submitted together under one item number, one swab is typically returned without examination.
+
+###
+Biology - Body Fluid Information
+Blood
+
+Blood is a liquid that circulates through the body, transporting oxygen and nutrients and removing waste products. Blood consists of liquid called plasma in which blood cells are suspended. Hemoglobin is a component, specific to blood, that is responsible for oxygen transport.
+Tests for the Presence of Blood
+    1. Kastle-Meyer ( KM ) test (Phenolphthalin test)
+    2. ABAcard ® HemaTrace ® test
+
+###
+Biology - Body Fluid Information
+Kastle-Meyer ( KM ) test (Phenolphthalin test): The aim of this presumptive test is to determine whether a questioned stain yields a positive colour reaction which suggests the presence of blood. This is a 3-stage chemical test that gives a pink colour reaction in the presence of hemoglobin. This can be performed by applying the chemicals directly to a questioned stain (direct test) or by applying the chemicals to a filter paper onto which a portion of the stain has been transferred (rub test). On items where blood staining may not be visible or may be difficult to see, a general KM rub test is typically performed by rubbing filter paper(s) over all relevant surfaces.
+
+Limitations of the Kastle-Meyer test
+
+Although a pink color reaction is typically seen in the presence of blood, it may also be obtained with other substances, such as certain fresh plant extracts. Reporting of the presence of blood is based on the opinion of the scientist, who considers the presence of blood-like staining and a positive Kastle-Meyer test.
+
+A positive Kastle-Meyer test result may still be obtained in the absence of visible blood-like staining, in which case the conclusion drawn is ‘chemical indications of blood’.
+
+The Kastle-Meyer test alone does not indicate whether or not the blood is of human origin.
+
+###
+Biology - Body Fluid Information
+ABAcard ® HemaTrace ® test: The aim of this presumptive test is to determine if a bloodstain is of human origin. This test uses commercially prepared reagents that bind to human (higher primate) hemoglobin, allowing for visual detection.
+
+Limitations of the The ABACard ® HemaTrace ® test
+
+This test yields a positive reaction with blood from humans and other higher primates. False positive results have also been observed with ferret blood. False negative results are possible when dealing with severely degraded samples.
+
+Reporting of the presence of human blood is based on the opinion of the scientist, who considers the presence a positive ABACard ® HemaTrace ® test and relevant case history.
+
+###
+Biology - Body Fluid Information
+Semen
+
+Semen is a liquid from the male reproductive system that usually contains spermatozoa (sperm cells) along with various other substances. Mature males emit semen during ejaculation. The spermatozoon (singular of spermatozoa) is the male reproductive cell. Human semen usually contains high levels of a substance called acid phosphatase. Acid phosphatase has a chemical activity, which allows for its detection. Human semen also contains high levels of a substance called p30, which, with few exceptions, is specific to semen.
+Tests for the Presence of Semen
+    1. Fast Blue/Acid phosphatase ( AP ) Test
+    2. p30/ PSA Test
+    3. Microscopic Examination
+    4. Enrichment of the male DNA in the “sperm” fraction 
+
+###
+Biology - Body Fluid Information
+Fast Blue/Acid phosphatase ( AP ) Test: The aim of this presumptive test is to determine whether a high level of Acid phosphatase ( AP ) activity, which is typical of semen, is present on an item. The presence of acid phosphatase on an item will give rise to a purple coloration upon addition of specific chemicals. The intensity of the color produced relates to the quantity of acid phosphatase present.
+
+Limitations of Acid phosphatase ( AP ) test
+
+The detection of strong acid phosphatase activity alone is not proof of the presence of human semen. Acid phosphatase is also found in other body fluids at lower levels. Post-mortem internal samples, heavy vaginal deposits, feces, urine, unusually high numbers of bacteria or yeast, plant extracts and certain chemicals may all show various levels of acid phosphatase activity.
+
+Acid phosphatase is water-soluble and can therefore be lost through contact with water e.g. laundering.
+
+###
+Biology - Body Fluid Information
+p30/ PSA Test: The aim of this presumptive test is to determine whether p30, which is a constituent of semen is present on an item. The detection of p30 is done using a commercially prepared reagent that specifically binds p30, allowing for its visual detection.
+
+Limitations of the p30 test
+
+The presence of high levels of p30, with few exceptions, is specific to semen. The levels of p30 reported in the literature for other body fluids are comparatively very low, although high levels of p30 have been found in the serum of prostatic cancer patients and in rare instances in semen-free vaginal swabs.
+
+p30 is water-soluble and can therefore be lost through contact with water e.g. laundering.
+
+The detection of p30, in combination with a positive AP test, may or may not confirm the presence of semen.
+
+###
+Biology - Body Fluid Information
+Microscopic Examination: The aim of this confirmatory test is to determine whether human sperm cells can be identified in an extract of cellular material from an item. The identification of human sperm cells is based on their size, shape and staining properties, following a treatment with chemical dyes. Microscopic identification of sperm cells confirms the presence of semen.
+
+Limitations of microscopic examination
+
+Males with low sperm counts or vasectomies (medical procedure in order to prevent the emission of spermatozoa during ejaculation) are not expected to have detectible levels of spermatozoa in their semen; however normal levels of AP and P30 are typically present in the liquid component.
+
+###
+Biology - Body Fluid Information
+Enrichment of the male DNA in the “sperm” fraction : During the extraction of DNA from an item, the sperm cells can be separated from other cells by a method known as differential extraction. When the amount of male DNA found in the “sperm” fraction is significantly greater than the amount found in the epithelial fraction, it is known as enrichment of male DNA in the “sperm” fraction and it suggests the presence of semen. The associated conclusion in the report would be “ DNA results suggest spermatozoa”.
+
+Limitations of the enrichment of the male DNA in the “sperm” fraction
+
+The observation of the enrichment of the male DNA in the “sperm” fraction is not a standard test for the detection of semen. It is an observation that the scientist will consider when forming an opinion on the presence of semen. While the presence of semen is suggested from this observation, it does not confirm it.
+
+Semen from vasectomised males will not yield an enrichment of male DNA in the “sperm” fraction.
+
+###
+Biology - Body Fluid Information
+Other (general) Limitations Relating to Semen
+
+Semen is lost from body cavities in a variety of ways. The maximum reported time periods at which semen has persisted in living persons are as follows: seven days in the vagina, one day in the mouth, two to three days in the anus/rectum. Generally, semen will not persist for these maximum time periods.
+
+The presence of semen on anal/rectal samples may or may not support the assertion that anal/rectal intercourse has occurred, due to the possibility of drainage from the vaginal cavity.
+
+The absence of semen may or may not support the assertion that a sexual act has not occurred, due to certain variables ( e.g. whether or not a condom used, whether or not ejaculation occurred, drainage from an internal cavity over time).
+
+It is possible for a small number of spermatozoa to be deposited on items through innocuous means such as secondary (indirect) contact or laundering.
+
+It is possible for a small number of spermatozoa to be retained on fabric after laundering.
+
+It is possible that pre-ejaculatory fluid, a small quantity of lubricating fluid that is released prior to ejaculation, may contain small numbers of spermatozoa.
+
+###
+Biology - Body Fluid Information
+Sexual Assault Examination Kit ( SAEK ) Processing
+
+The vaginal, rectal, oral and external genitalia swabs from the SAEK are routinely submitted directly for DNA analysis (“Direct to DNA ”) and do not undergo serological testing for blood, semen or saliva.
+
+Should such testing be required please contact the author of the report to discuss the results obtained and the potential for additional testing for the presence of body fluids. Such examinations typically require a minimum of 30 days from the date of submission to the CFS and may result in the consumption of the entire sample.
+
+Semen from vasectomized males or those with a low sperm count may not be detected, using the “Direct to DNA ” approach, where it may be detectable through serological techniques. If the identification of semen from such an individual in the absence of a corresponding DNA profile may be relevant to your investigation please contact the author of the report to discuss the potential to perform further work.
+
+###
+Biology - Body Fluid Information
+Saliva
+
+Saliva is a watery secretion found in the mouth that moistens the mouth, lubricates chewed food and aids in digestion. Amylase is a substance, found in saliva, that is used in the digestion process to break down starch. It is usually found at high levels in saliva but is also present in other body fluids, though normally at much lower levels.
+Phadebas™ Press Test for the Presence of Amylase
+
+The aim of this presumptive test is to localise amylase-containing stains on an item. Filter paper coated with the, commercially manufactured, Phadebas™ chemical is dampened and placed in firm contact with the item. A blue colour indicates the location of amylase. The intensity and time of appearance of the colour relates to the level of amylase present.
+Limitations of the Phadebas™ Press Test
+
+While amylase is typically found in high levels in saliva, the detection of amylase is not proof of the presence of saliva. It is found at low levels in other body fluids such as perspiration, vaginal secretions and semen. In addition, amylase can sometimes be found at high levels in faeces. Therefore, interpretation of amylase results will be dependent on the level of amylase detected as well as the location of the stain and the possible presence of other body fluids.
+
+A negative Phadebas™ test does not necessarily mean that saliva is absent. Low levels of amylase may not be detectable using the Phadebas™ test.
+
+Amylase is water-soluble and can therefore be lost through contact with water ( e.g. , laundering).
+
+Amylase levels do not correlate to the potential quantity of DNA contained within a sample.
+
+Amylase is not human-specific.
+
+###
+Biology - Body Fluid Information
+Hairs
+
+During the course of item examination by the Biology Section, possible hairs may be collected and preserved based on the case history provided. An assessment of possible hairs to determine potential suitability for nuclear DNA analysis may also be performed by Biology Section staff.
+
+Where warranted, examinations for hairs and fibres may be conducted by the Hair and Fibre Unit of the Chemistry Section prior to body fluid screening and sampling for DNA analysis.
+
+###
+Biology - Body Fluid Information
+Body Fluid Reporting
+Blood 
+
+Test used and results: 	Screening conclusions
+Visible blood-like stains and positive KM testing (VIS+/ KM +): 	blood detected
+Visible blood-like stains and negative KM testing (VIS+/ KM -): 	blood not detected
+Visible blood-like stains, positive KM testing and positive ABAcard® HemaTrace® testing (VIS+/ KM +/ ABA+): 	human blood detected
+Visible blood-like stains, positive KM testing and negative ABAcard® HemaTrace® testing (VIS+/ KM +/ ABA-): 	blood detected – cannot confirm as human
+No visible blood-like stains and negative KM testing (VIS-/ KM -): 	blood not detected
+Visible 'washed' stains and positive KM testing: 	blood was detected, appears washed/diluted
+No visible blood-like stains and positive KM testing (VIS-/ KM +): 	chemical indications of blood
+No visible blood-like stains and no KM testing (VIS-): 	no blood-like staining observed
+Visible blood-like stains and no KM testing (VIS+): 	No body fluid testing has been performed at this time
+
+###
+Biology - Body Fluid Information
+Body Fluid Reporting
+Semen
+
+Test used and results: 	Screening conclusions
+Moderate or strong AP activity detected and p30 detected ( AP +/p30+): 	semen detected
+AP activity detected, p30 detected and male DNA profile detected in "sperm fraction" ( AP +/p30+/DNA+): 	semen detected
+Spermatozoa identified under the microscope (MICRO+): 	semen detected
+AP activity detected, p30 not detected and spermatozoa identified under the microscope ( AP +/p30-/MICRO+):	semen detected
+AP activity detected, p30 detected and no male DNA profile detected in "sperm fraction" ( AP +/p30+/DNA-): 	chemical constituents detected; may or may not indicate semen
+Strong AP activity detected, p30 not detected and spermatozoa not identified under the microscope ( AP +/p30-/MICRO-): 	chemical constituents detected; may or may not indicate semen
+No AP activity detected ( AP -): 	semen not detected
+No AP activity detected and spermatozoa not identified under the microscope ( AP -/MICRO-): 	semen not detected
+Weak AP activity detected, p30 not detected and spermatozoa not identified under the microscope ( AP +/p30-/MICRO-): 	semen not detected
+Spermatozoa not identified under the microscope (MICRO-): 	semen not detected
+Enrichment of male DNA in the "sperm" fraction (DNA+): 	DNA results suggest spermatozoa
+AP activity with no further testing ( AP +): 	AP detected (preliminary testing only)
+No visible staining or areas identified by alternate light source (VIS-): 	no semen-like staining observed
+
+###
+Biology - Body Fluid Information
+Body Fluid Reporting
+Saliva
+
+Supporting data: 	Screening conclusions (tests used)
+Positive Phadebas™ press test results at 5 minutes or less (PHAD+ LESS THAN 5): 	amylase detected; reaction typical of saliva
+Positive Phadebas™ press test results at greater than 5 minutes (PHAD+ GREATER THAN 5): 	amylase detected; reaction may or may not indicate saliva
+Negative Phadebas™ press test results (PHAD-): 	amylase not detected
+Positive Phadebas™ press test results at 5 minutes or less associated with fecal-like staining (PHAD+ LESS THAN 5): 	Amylase detected; reaction may or may not indicate saliva

@@ -1,0 +1,69 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Documents - Ink Examination Information 
+
+Introduction
+
+Cases involving alterations, erasures, obliterations, decipherment or cases involving the authentication of documents may require ink examinations. These examinations are based on differences in the inks/substances physical characteristics, chemical composition and optical properties.
+
+A specimen, when excited by incident visible/infrared radiation, depending on the properties of the specimen and the combination of excitation wavelength and viewing wavelength, may be observed to:
+
+    Absorb the energy (darken) or
+    Reflect the energy (lighten) or
+    Transmit the energy (disappear) or
+    Emit the energy at a different wavelength (luminesce).
+
+Examination
+
+Ink examinations are limited to ink differentiation and non-destructive techniques such as visual unaided/microscopic observations (colour, ink line morphology, interaction of the ink line with the substrate) and responses in the ultraviolet, visible and infrared regions of the electromagnetic spectrum. The main instrument used to aid in ink differentiation is a Video Spectral Comparator (VSC) 6000.
+Interpretation
+Limitations/Factors
+
+    Inks having the same physical characteristics (e.g. colour and pen type) and optical properties that appear on the same document may still be different.
+    Ink(s) on different documents cannot be compared since any observed differences may be due to the composition/components of the substrate and the conditions under which the documents were stored.
+    Inks on documents that have been chemically altered/stained (e.g. fingerprinting process) are considered contaminated and cannot be subjected to an ink examination.
+
+Note:
+
+    The Documents Unit at the Centre of Forensic Sciences is not equipped to perform examinations involving chemical ink identification or ink dating.
+    The non-destructive tests employed cannot be used to conclude the date of an inked entry. However, the physical characteristics of the pen/ink type may be used to establish the earliest date that the ink/pen could have been used.
+
+Significance of Conclusions
+
+• It is possible, under certain conditions, to conclude that two inks are different.
+
+• Inks cannot be identified to be the same . The tests/examinations conducted are not exhaustive.
+
+• It is not possible to determine when alterations occurred or with what intent (i.e. correction vs. spurious)
+Glossary
+
+Ballpoint pen ink
+
+    Writing or marking media intended for use in a ballpoint pen. Typically, a thick high viscosity ink with an oil, glycol or rubber base.
+
+Luminescence or Fluorescence
+
+    Light of a particular wavelength is absorbed and light of a different (usually higher) wavelength is emitted which makes the ink appear to glow.
+
+Infrared (IR)
+
+    Radiant energy having wavelengths longer than the wavelengths of visible light, usually from about 700 to 1200 nm.
+    When infrared radiation is directed onto pigments and dyes in ink, different proportions of reflected/absorbed light may be observed for different inks.
+
+nm
+
+    A common unit of measure used for the wavelength of light called the nanometre;
+    1nm=1x10-9metre
+
+Non-ballpoint pen
+
+    Writing or marking media intended for use in a writing or marking instrument other than a ballpoint pen, including a dip or fountain pen, porous point pen, roller ball pen, marking instrument, etc. Typically, a thin, low viscosity ink with a water or solvent base.
+
+Ultraviolet (UV)
+
+    Radiant energy having wavelengths shorter than the wavelengths of visible light, usually from about 10 to 400 nm.
+
+VSC
+
+    The Video Spectral Comparator is an imaging system for examining documents. This system displays variations in the infrared absorption and fluorescence of dyes and pigments and allows for the examination of a document throughout the visible, ultraviolet and infrared regions of the spectrum.
+

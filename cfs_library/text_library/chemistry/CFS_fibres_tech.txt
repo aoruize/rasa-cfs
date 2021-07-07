@@ -1,0 +1,131 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Fibre information
+
+Fibre examination
+
+In some forensic cases the only fibre examination required is one of fibre identification ( e.g. investigative cases). In other cases, fibre identification and comparison are done to investigate a possible association between two or more sources.
+Fibre identification
+
+The generic class/sub-class of a fibre is determined using bright field microscopy and, when needed, one or more of the following methods:
+
+    polarized light microscopy
+    natural fibre tests (staining and physical tests)
+    Fourier Transform Infrared Microspectroscopy ( FTIR )
+
+The identification of natural fibres is not always conclusive. In particular, extensively processed fibres may be difficult to identify.
+
+Ancient or rare fibres, which are not in our reference collection, may not be considered in our fibre evaluation.
+
+Fibres are identified by testing them to the point where no other fibre type would give the same combination of results.
+Fibre comparison
+
+Transferred fibres are removed from evidentiary items via taping or direct removal.
+
+Unknown fibres are screened on tapings and selected for comparison to known samples based on stereomicroscopic appearance. No association or conclusion can be made about the remaining unknown fibres on the tapes since they do not relate to any known comparison sample.
+
+Occasionally, numerous fibres of the same apparent fibre type/colour are detected on tapings from one individual/object, which are not similar to any known sample submitted in the case. These fibres may be used for comparison with fibres on tapings from another individual/object. These would be reported as “extraneous fibres in-common, of no known source”.
+
+Fibre comparison is done using one or more of the following methods:
+
+    bright field comparison microscopy
+    fluorescence comparison microscopy
+    microspectrophotometry ( MSP )
+    Raman spectroscopy ( RS )
+
+Significance of fibre evidence
+
+Since textile materials are usually mass-produced, it generally cannot be said that a fibre came from one particular garment and no other. If in all the methods performed, an example of sample reporting results and conclusions would be:
+
+Results when no differences are found between fibres are reported as:
+
+“Fibres were indistinguishable in microscopic appearance ( e.g. configuration, diameter, delustrant and cross-section), composition ( e.g. cotton, polyester) and colour.”
+
+From the fibres above, a sample was selected for RAMAN analysis and was found to be indistinguishable in dye colour components from the fibres comprising the known item.
+
+Conclusions when no differences are found between fibres are reported as:
+
+“The known item could not be eliminated as a possible source of the extraneous fibres collected from the unknown item. Therefore, the extraneous fibres collected from the unknown item either came from the known item or from another source of fibres that are indistinguishable with respect to the properties listed in the results.
+
+Textile fibres can be transferred between individuals, or between individuals and objects, or between objects. The number of fibres transferred and retained (persistence) is dependent on various factors ( e.g. nature of recipient fabric/surface, time since transfer, etc. )
+
+There may be factors which increase the significance of unknown fibres being indistinguishable from the fibres of a comparison sample ( e.g. the fibres are of an uncommon type).
+
+There may be factors which decrease the significance of unknown fibres being indistinguishable from the fibres of a comparison sample ( e.g. few fibres found, or the fibre type is very common).
+
+There may be factors which decrease the significance of a fibre association between two individuals ( e.g. previous legitimate contact between the parties involved).
+
+There may be factors which increase the significance of a fibre association between two individuals ( e.g. cross transfer involving several fibre types).
+
+Cross-transfer of fibres : The two-way exchange of fibres between textiles that can occur when they come into contact with one another.
+
+Multiple cross-transfers of materials : The exchange of multiple trace materials (fibre types/multiple textile sources and/or fibres and trace materials ( i.e. paint/glass)) between objects that can occur when they come into contact with one another.
+
+Finding no fibre association between individuals may or may not be significant, depending upon the circumstances.
+Glossary
+General terminology
+
+birefringence – measured based on the change in polarized light as it passes through a fibre.
+
+bright field microscopy – light is transmitted from below the sample and an enlarged image of its internal features are viewed from above.
+
+comparison microscopy – microscopy using a system of two microscopes positioned side by side and connected via an optical bridge in which specimens may be examined simultaneously (used in bright field or fluorescence microscopy).
+
+comparison sample / known sample – sample from a verifiable source ( e.g. an item of clothing, or a section of carpet from a scene).
+
+cross-sectional shape – the shape of a horizontally cut fibre section ( e.g. round, triangular, trilobal, multilobal, or flat).
+
+delustrant – particles embedded in manufactured fibres to decrease lustre.
+
+fluorescence microscopy – microscopy which employs light of specific wavelength to examine the fluorescent properties of fibres ( i.e. absorption of light and emission of light of lesser energy).
+
+Fourier transform infrared spectroscopy ( FTIR ) – the spectral analysis of the wavelengths of infrared radiation which are absorbed by a sample (the spectral results are directly related to the chemical composition of the sample).
+
+generic class (of fibres) – group of fibre types with similar chemical compositions.
+
+indistinguishable – fibres could not be differentiated within the limits of the stated examinations
+
+macroscopic examination – an unaided visual examination.
+
+microspectrophotometry – spectral analysis of the wavelengths of visible which are absorbed by a sample (the spectral results are directly related to the colour of the sample).
+
+polarized light – light which vibrates in a single direction perpendicular to the propagation direction.
+
+polarized light microscopy – microscopy used to examine the effect of polarized light on a sample, characteristic of its chemical composition.
+
+Raman Spectroscopy - is a technique that measures the scattering of light by a sample due to the fibre’s composition and/or colour components. In fibre comparison, this scattering of light is compared between known fibre samples and trace fibres.
+
+stereomicroscopic examination – using a microscope which has a separate optical path for each eye, giving a magnified 3-dimensional view of the sample and its external features.
+
+taping – a technique used to remove extraneous trace material from the surface of an object, utilizing clear adhesive tape which is subsequently placed in a sheet protector.
+
+trace material – materials which may not be visible to the naked eye ( e.g. hairs, fibres, botanical fragments).
+
+ubiquitous fibers : fiber types are commonly found in the environment ( e.g. white cotton, blue denim cotton).
+
+unknown sample – material collected from an item of evidence and having an unknown originating source (e.g. extraneous hairs or fibres from the surface of a garment, piece of fabric in a windshield).
+Textile terminology
+
+fabric – a planar structure consisting of fibres or yarns.
+
+fibre – the smallest unit in textile production, which can be natural or manufactured (short staple or continuous filament).
+
+knitted fabric – fabric made by the interlooping of yarns.
+
+nonwoven fabric – made by bonding and/or interlocking fibres (as by mechanical, thermal or chemical means).
+
+seam – a line where two or more fabrics are joined together, usually with thread.
+
+single yarn – an individual yarn with one component, where the fibres are twisted or laid together to form a yarn.
+
+thread – special type of yarn used to join/stitch pieces of fabric or sew on buttons.
+
+twist direction – the twist of a yarn or thread is described as “S” or “Z” according to which of these letters has its center inclined in the same direction as the surface elements of the yarn.
+
+warp – the set of yarn in all woven fabrics that runs lengthwise and parallel to the selvage (finished edge) and is interlaced with the weft (filling).
+
+weft (filling) – in a woven fabric, the yarn running from selvage to selvage at right angles to the warp.
+
+woven fabric – fabric composed of two sets of yarns (warp and weft) interlaced perpendicularly.
+
+yarn – a continuous strand (single yarn) of fibres with or without twist, or multiple singles twisted together (plied yarn) used for thread or fabric construction.

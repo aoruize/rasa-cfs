@@ -1,0 +1,273 @@
+###
+Centre of Forensic Sciences
+Technical Information Sheets
+Biology Report Guide
+
+Purpose of Examination
+
+This section explains why examinations were performed at the CFS . It also directs the reader to information that provides a link between CFS -generated item numbers and those provided by submitters. Items that were not examined will also be summarized here.
+
+The CFS accepts and prioritizes items for examination and analysis. The items selected for testing and the nature of the testing and/or analysis performed is determined by assessing whether any results obtained will clearly address relevant questions of interest, while carefully considering associated limitations of each test. Items and/or testing requests may also be rejected on the basis of these considerations.
+
+The case history provided to the CFS is used, in part, to develop testing strategies. New information may warrant further consideration and additional testing.
+
+###
+Biology Report Guide
+Conclusions
+
+This section is included only when a reference DNA sample from a known individual has been tested, and the resulting DNA profile is compared to another DNA profile generated within the case, to determine whether or not the individual could be excluded as its source.
+
+There are two possible outcomes of such a comparison (if a reference sample profile has not been compared to a particular unknown DNA profile, an outcome will not be reported):
+
+    1. Cannot be excluded – the individual cannot be ruled out as the source of an unknown single-source DNA profile, or as a contributor to a mixed DNA profile.
+    2. Excluded – the individual is not the source of a single-source DNA profile, or is not a contributor to a mixed DNA profile. A reference sample collected by consent or by DNA Warrant may need to be destroyed in the event of an exclusion, per the Criminal Code [see ss.487.09 (1) to (3)].
+
+###
+Biology Report Guide
+Conclusions
+The term cannot be excluded means that either the person in question is the source/a contributor or the person is not and a coincidence has occurred. The possibility of such a coincidence depends on how common the unknown DNA profile is and how likely it is to be shared by different people in the population at large. A finding that an individual cannot be excluded is assessed by scientists in this context and will be followed in the report by one of two estimates:
+
+    - The Random Match Probability (RMP)
+
+    The probability that a randomly selected individual unrelated to the known individual would coincidentally share the unknown DNA profile.  Random Match Probabilities are particularly useful when assessing single-source DNA profiles (including those derived from mixtures).
+
+    - The Likelihood Ratio (LR)
+
+    A ratio of two different probabilities: the probability of having observed the DNA results under one proposition (for instance, a mixture is comprised of DNA from both the complainant and the suspect) divided by the probability of having observed the same results under an alternate proposition (for instance, the mixture is comprised of DNA from two people unrelated to the complainant and the suspect).
+
+    A LR greater than 1 provides support for the first proposition, with higher numbers providing more support. Conversely, a LR of less than 1 provides more support for the second proposition. LRs address the probability of DNA test results under different propositions, not the probability of the propositions themselves.
+
+    LRs should, especially when lower (e.g. 1-1000), be considered along with other information in the case when deciding which proposition is more likely.
+
+    LRs are particularly useful when assessing mixtures of DNA but may be used for single-source profiles as well. They are also used routinely in familial DNA applications such as paternity tests. One advantage of the LR relative to the RMP is that various different propositions for observed test results can be weighed against each other.
+
+###
+Biology Report Guide
+Conclusions
+Statistical estimates are based on established principles of population genetics and involve reference to DNA population data. For standard STR DNA analyses, Ontario population databases for Asians, Blacks, Caucasians, East Indians, and Northern Ontario Natives are used.  The true value may vary from calculated estimates by as much as 10-fold lower or higher. For male-specific Y-chromosome STR analyses, due to the unavailability of data specific to the Ontario population, the US National Database within the Y-Chromosome Reference Haplotype Database (YHRD) is used to derive statistical estimates.  North American population databases for African Americans, Asians, Caucasians, Hispanics and Native Americans are used.  Estimates are calculated in each available population group and a combined LR is included in the report.  It is important to note that when an individual cannot be excluded as the donor of a Y- STR profile, we may also not be able to exclude his patrilineal male relatives.
+
+For clarity of understanding, it is the Centre’s policy that a maximum value of 1 trillion will be reported for both the RMP (i.e. 1 in greater than 1 trillion) and the LR (i.e. greater than 1 trillion times more likely) when calculated values exceed this number. Additionally, when different RMP or LR values are obtained, with respect to the same individual not being excluded from multiple sub-items, these may be reported as a range.
+
+###
+Biology Report Guide
+Testing Summary
+
+This section contains a table in which bodily fluid screening and DNA testing results are summarized for each item examined. Reference samples are not described in the table. If the sole purpose of the examination was to generate a DNA profile from a known individual (i.e. a reference sample) for comparison to previously reported DNA profiles, this section will not be present in the report. The single exception will occur when a comparison is made via a cast-off or discard sample (e.g. a cigarette butt); that type of reference sample (thought to originate from a known individual) will appear in the testing summary table with an evaluation of the DNA typing profile obtained.
+
+In scenarios where a preliminary assessment of multiple items is conducted in order to determine an appropriate sequence of examination or to select a subset of items for further examination, this preliminary examination strategy will be reflected in the report as “Preliminary assessment only at this time”.
+
+###
+Biology Report Guide
+Item
+
+CFS item numbers are generated and assigned at the time of submission. If a sample is taken from an item at the CFS for further analysis, it is assigned a sub-item number that is based on the parent item. For example, a swab of a blood stain on a jacket that has been designated item 4 by the CFS will be assigned a sub-item number such as 4-1. Multiple sub-items may be generated for an item, each with a unique and sequential sub-item number, such as 4-2, 4-3, etc.
+
+Sub-items may be collected from an item at the CFS for further analysis by various techniques, such as cutting out a portion of fabric, swabbing a surface, or taping a surface.
+
+Items listed in the table are typically grouped by source or scene.
+
+###
+Biology Report Guide
+Description (sub-item)
+
+Brief descriptions are provided for each item and sub-item included in the table. Sub-items also include a description of the location of sampling as well as the sampling technique used.
+
+###
+Biology Report Guide
+Bodily Fluid Screening
+
+Screening test results are summarized for both parent items and sub-items. For a parent item, these include a concise and descriptive overview of findings for the item as a whole, to the extent it was examined. Scientists apply their professional judgement in determining the extent to which an item is examined. For a sub-item, specific test results from the area in which the sub-item was collected are included.
+
+For each bodily fluid, results of tests may be reported as “detected”, “suggested”, “inconclusive”, or “not detected”. Combinations of test results leading to each reported outcome are described in Table 1. The CFS performs a variety of tests, further described in the Summary of Methods section of this Guide, to assist with the detection of blood, semen and saliva.
+
+Table 1: Test results that correspond to reported statements.
+
+Bodily Fluid: Blood 	
+Detected: Visible blood-like staining and a positive Kastle-Meyer test where a ABAcard® HemaTrace® test has been performed: If positive – reported as “human”; if negative – reported as “could not be confirmed as human
+Suggested: N/A
+Inconclusive: A positive Kastle-Meyer test in the absence of visible blood-like staining 	
+Not Detected: Negative Kastle-Meyer test
+
+Bodily Fluid: Semen 
+Detected: A moderate to strong positive acid phosphatase test within 30 seconds and positive p30 test; or Positive microscopic identification of sperm cells; or Any positive acid phosphatase test, positive p30 test and male DNA profile in the sperm fraction where, following a differential extraction, at least 240pg of male DNA is detected in the sperm fraction, with at least 50% of all the male DNA being detected in the sperm fraction 	
+Suggested: At least 240pg of male DNA detected in the sperm fraction, with at least 50% of all male DNA detected in the sperm fraction, following a differential extraction 	
+Inconclusive: A moderate to strong positive acid phosphatase test within 30 seconds in the absence of any other positive test for semen; or Any weak positive acid phosphatase test or a moderate to strong acid phosphatase test beyond 30 seconds, positive p30 test with, following a differential extraction, either no male DNA profile detected in the sperm fraction or a male DNA profile in the sperm fraction where there is less than 240pg of male DNA or less than 50% of all male DNA being detected in the sperm fraction 	
+Not Detected: Negative acid phosphatase test; or A weak positive acid phosphatase test, in the absence of any other positive tests for semen; or A moderate or strong acid phosphatase test beyond 30 seconds, in the absence of any other positive test for semen
+
+Bodily Fluid: Saliva 	
+Detected: N/A: tests presently employed do not permit confirmation of the presence of saliva 	
+Suggested: Positive Phadebas press test result within 5 minutes, in the absence of visible fecal-like staining 	
+Inconclusive: Positive Phadebas press test between 5 and 20 minutes; or Positive Phadebas press test result within 5 minutes in an area of fecal-like staining 	
+Not Detected: Negative Phadebas press test
+
+###
+Biology Report Guide
+Bodily Fluid Screening
+
+Sub-items may be selected for DNA analysis from areas where tests suggest the presence of one or more bodily fluids. They may also be selected from areas lacking any bodily fluids test results, where deposits of DNA (e.g. from skin cells) may be expected based on the location sampled. Examples of these include, but are not limited to: areas on clothing where DNA may have been transferred by wearing the item, areas on objects where DNA may have been transferred by handling the item, and areas on drink containers where one’s mouth would come in contact.
+
+Swabs from the complainant’s body (external genitalia, vaginal, rectal, and oral), collected using Sexual Assault Examination Kits, routinely undergo DNA analysis with no bodily fluid screening in advance. In these instances, duplicate swabs are available to conduct bodily fluid testing at a later time should it be of value to do so.
+
+Where hairs and/or fibres are collected and preserved during screening this will be noted. An assessment of possible hairs to determine their suitability for DNA analysis may be performed during the course of the examination.
+
+During the examination of an item, staining may be observed but not tested OR staining may be observed that appears to be incidental to the purpose of the examination, but tested nonetheless. The table will also reflect when an item has been visually examined to identify staining associated with a bodily fluid but no staining has been observed.
+
+###
+Biology Report Guide
+DNA Test Result
+
+The DNA test result is described for each sub-item tested, unless there was not enough DNA present in the sample to generate a profile. “No/Not enough DNA ” means that DNA either was not present, was present at a level below the Centre’s quantitation detection limit, or was present below the Centre’s threshold for typing (240pg total DNA for STR typing; 100pg total male DNA for male-specific Y- STR typing).
+
+Where DNA results have been generated, information is provided regarding the number of contributors or the minimum number of contributors. Where possible, the biological sex of the contributor(s) is also noted.
+
+Reasonable assumptions regarding the number of contributors and/or the identity of certain contributors may be made by scientists in the interpretation and reporting of DNA test results. For example, the donor of an internal orifice swab can be assumed to be a contributor to a mixed DNA profile obtained from the sample.  Any such assumptions are deemed supportable by the reporting scientist and, though not stated in the report, are documented in the case record.
+
+###
+Biology Report Guide
+DNA Profile Suitable for Comparison?
+
+A DNA profile may not necessarily be suitable for comparison to profiles from known individuals (i.e. reference samples). The determination that a profile is suitable for comparison is made by the scientist in consideration of its forensic significance as well as technical limitations such as the quantity of DNA present and the degree of certainty regarding the numbers of contributors to the profile.
+
+Where the profile is expected to be generated based on the source of the sample (e.g. the complainant’s profile from her own vaginal swab, or the profile of the deceased person from his own fingernail clippings, or the profile of the deceased person from blood on her own clothing) it may be listed as not suitable for comparison, since it has already been attributed and requires no further comparison.
+
+DNA profiles are listed in this column only if they are suitable for comparison. They are further separated as STR and/or Y- STR profiles depending on which test systems were employed.
+
+In the case of a mixed DNA profile from more than one person, there are five possible outcomes reported in the Testing Summary regarding the determination of its suitability for comparison:
+
+    - None of the components in the mixture are suitable for comparison – reported as ‘No’
+    - The mixed profile is suitable as a whole – reported as ‘Yes’
+    - One or more components of the mixed profile is suitable, and one or more additional components is not suitable – reported as ‘Yes, in part’
+    - One or more components of the mixed profile is suitable, and no determination has been made regarding the suitability of the additional components – reported as ‘Yes’ with a footnote that the additional DNA has not been interpreted
+    - Either no determination has been made as to whether one or more components of the mixture is suitable OR it has been assessed that the components in the mixture can be accounted for by other profiles developed in the case – reported as ‘Not at this time’
+
+The decision to not interpret a mixed profile, whether it be in whole or in part, is made based on the case history details available at the time of reporting, the purpose of the testing that was undertaken at that time and the results obtained to date. Upon consultation, the author of the report may reconsider this decision should the need arise.
+
+###
+Biology Report Guide
+DNA Profile Suitable for Comparison?
+
+The interpretation of DNA profiles may be performed with or without the assistance of a probabilistic genotyping software system called STRmix™. More information about this software system is available on the CFS website (see Improving the Interpretation of Complex DNA Mixtures with Probabilistic Genotyping – A Guide to STRmix™ for Clients ).
+
+Where it is possible to associate a DNA profile to a bodily fluid detected in the sample, this will be reported. Such associations are the opinion of the scientist who may consider, where applicable, bodily fluid screening and DNA test results in conjunction with relevant information in the case history.
+
+###
+Biology Report Guide
+Convention for Naming Unknown DNA Profiles which are Suitable for Comparison
+
+The following criteria are used in the naming/designation of STR profiles suitable for comparison:
+
+    - Where a STR profile is determined to be attributable to a single individual, whether it is from a single source of DNA or whether it has been derived from a sample of mixed DNA , this profile will be designated as STR Profile 1 . Where STR profiles from different samples are given the same name (e.g. STR Profile 1 designated from samples 4-1 and 5-1) it means that the same individual cannot be excluded as the common source. On the other hand, profiles designated with different numbers (e.g. STR Profile 1 and STR Profile 2 ) necessarily originate from different people.
+    - Where a STR profile attributable to more than one individual (i.e. a mixture) has been determined, and where some or all components of the mixture are suitable for comparison, this profile will be designated as Mixture 1 . Different mixed profiles determined from different samples will be designated with different numbers (e.g. Mixture 2 , Mixture 3 , etc.). Mixed STR profiles that are suitable for comparison are not compared against each other. They are only compared to relevant reference samples, if and when submitted and tested.
+
+In some cases, male-specific Y- STR systems are used for testing, either exclusively or in combination with STR systems. Y- STR profiles that are suitable for comparison are designated using letters (e.g. Y- STR Profile A , Y- STR Profile B , etc.). Y- STR profiles with different letter designations necessarily come from different males, whereas Y- STR profiles with the same letter designation cannot be excluded as having come from the same male source, or a close paternal male relative of that source.
+
+###
+Biology Report Guide
+General Limitations Regarding Bodily Fluid Screening and DNA Testing
+
+    - The identification of a bodily fluid, and the determination of its likely source through DNA testing, does not directly address how, when and under what circumstances the bodily fluid/ DNA came to be deposited. Scientists may be able, however, to evaluate and weigh the relative likelihood of observed test results under different proposed circumstances.
+    - It is not always possible to associate a DNA profile to a specific bodily fluid, even where test results are generated from the same sample or sub-item.
+    - DNA profiles generated from items that are habitually worn or handled may not necessarily originate from a person who has worn or handled those items. In addition, it is possible for someone who has not had direct contact with an item to have their DNA deposited through indirect means of transfer.
+    - The persistence and stability of bodily fluids/ DNA on an item is dependent on a variety of factors (age, temperature, moisture, exposure to sunlight, cleaning products, etc.) which may, over time, degrade biological samples resulting in partial or no results. Biological samples can also be removed, in whole or in part, from surfaces through cleaning/washing.
+    - Laundering may greatly reduce the ability to localize and detect, though it may not completely remove, bodily fluids and DNA on clothing/textiles.
+    - All methods used to detect bodily fluids and DNA have associated limits of detection, or thresholds below which one would not expect to detect the bodily fluid or DNA even if it was present.
+    - The term “ DNA testing” covers a wide range of applications. The analysis of autosomal Short Tandem Repeats, or STRs (those present on the chromosomes not associated with biological sex) generally provides the strongest support for identifying the person from whom a sample originated. The analysis of lineage DNA markers (including male-specific Y-chromosome STRs) provides generally less discriminating test results but has other unique advantages which may be important in select cases.
+
+###
+Biology Report Guide
+Summary of eligible DNA data bank uploads
+
+This section lists those DNA profiles generated in the case that have been uploaded to the DNA Data Bank along with the specific Data Bank index (or category) to which they have been uploaded.
+
+Canada’s National DNA Data Bank (NDDB) consists of four criminal indices (the Crime Scene Index (CSI), the Convicted Offender Index (COI), the Victim Index (VI), and the Voluntary Donor Index (VDI). The CSI , VI and VDI are populated with DNA profiles uploaded from Canada’s three public forensic DNA laboratory systems, including the CFS , while the COI is populated by the NDDB laboratory in Ottawa with profiles from persons convicted of designated offences. DNA profiles on the four criminal indices are continually compared against each other and any hits communicated back to forensic laboratories.
+
+The NDDB also includes three humanitarian indices (the Missing Person Index, the Human Remains Index, and the Relatives of Missing Person Index.
+
+Specific legislative and scientific criteria must be met for a DNA profile to be uploaded to a National index. More information on the NDDB is available at http://www.rcmp-grc.gc.ca/nddb-bndg/
+
+The CFS also maintains a number of local Data Bank indices. These include a local Crime Scene Index, a Victim Index, an Unidentified Human Remains Index, a Missing Person Index, a Discard Index and an Elimination Index. DNA profiles uploaded to the National CSI are also uploaded to the Local CSI (though not necessarily vice versa), while DNA profiles uploaded only to local indices remain local and are compared only to profiles in other relevant local indices (i.e. profiles from cases within Ontario only).
+
+When a DNA profile does not meet the relevant criteria for upload to either the National or the Local level, it may be eligible for a one-time search (called a ‘keyboard search’) of the National or Local indices. Investigating agencies must contact the scientist regarding the possibility of a one-time search.
+
+###
+Biology Report Guide
+Communication of Data Bank Hits to Investigators
+
+When a Data Bank hit occurs, it is communicated by the CFS to the investigating agencies directly through their designated DNA Coordinators. It is then the responsibility of the Coordinators to further distribute the information in their respective agencies.
+
+###
+Biology Report Guide
+Confirmation of COI Hits
+
+A hit between a crime scene DNA profile uploaded by the CFS and a convicted offender (i.e. a COI hit) should be confirmed. Investigators should obtain an appropriate reference sample directly from the convicted offender and submit it to the CFS for testing and direct comparison to the crime scene sample.
+
+Reference samples may be collected with consent or, where appropriate, by DNA Warrant. Additional information on the collection of DNA Warrant samples can be obtained at www.ontario.ca/cfs , under Technical Information.
+
+###
+Biology Report Guide
+Deletion of DNA Profiles
+
+If, following an upload of a crime scene DNA profile, it is learned by the investigator that the profile originates from the complainant or from a person who has been eliminated as a suspect in an investigation, it is the responsibility of the police agency conducting the investigation to notify the CFS in writing that the DNA profile should be removed from the Crime Scene Index. If the CFS is able to determine that an uploaded profile originates from a complainant, that profile will, as a matter of routine, be deleted from the appropriate DNA databank index.
+
+A crime scene DNA profile does not need to be removed upon conviction of a suspect.
+
+###
+Biology Report Guide
+Summary of Methods
+
+This section lists methods used by the CFS for identification of bodily fluids and/or DNA testing.
+
+The following methods are used in testing for bodily fluids at the CFS .
+
+Test: Blood ID 	
+Method: Kastle-Meyer (KM) Test 	
+Description: A three-stage biochemical test that produces a pink colour reaction in the presence of either human or animal blood, as well as a number of substances which do not appear blood-like.
+
+Test: Blood ID 	
+Method: ABAcard ® HemaTrace ® Test 	
+Description: An immunological test that can be used to confirm that blood detected using the KM test is of human origin.
+
+Test: Semen ID 	
+Method: Acid Phosphatase (AP) Test 	
+Description: A biochemical test to detect AP activity, typically found at high levels in semen. If AP is present on an item, the test produces a purple colour reaction. AP is not specific to semen.
+
+Test: Semen ID 	
+Method: P30 Test 	
+Description: An immunological test for the presence of prostate-specific antigen (PSA), also known as P30, which, with few exceptions, is specific to semen.
+
+Test: Semen ID 	
+Method: Microscopy 	
+Description: Microscopy is performed in order to positively identify sperm cells, which are specific to semen. Males with low sperm counts or who have been vasectomized may not produce sperm cells, but may have normal levels of AP and P30 in their semen.
+
+Test: Semen ID 	
+Method: Differential DNA Extraction 	
+Description: When DNA is extracted from an item, the DNA from sperm cells can be separated from the DNA of other cell types using a technique known as a differential extraction which results in two extracts, one containing primarily sperm cell DNA and the other containing any other DNA . Separation is not always perfect, but depending on the relative degree to which male DNA separates, results may suggest the presence of semen.
+
+Test: Saliva ID 	
+Method: Phadebas™ Press Test 	
+Description: This test is used to localize possible saliva stains on items, through the detection of amylase. Amylase is a protein often found in high levels in saliva but it can also be found in other bodily substances such as feces, perspiration, vaginal secretions and semen.
+
+###
+Biology Report Guide
+Summary of Methods
+
+DNA testing is a multi-step process in which DNA is first extracted from the cells found in a sample of biological material. Extracted DNA is then quantified to determine how much DNA is available for further testing. This is followed by the analysis or ‘typing’ of DNA using one or more methods (listed below) in order to generate a DNA profile.
+
+DNA Typing Method: Identifiler® Plus STR System 	
+Description: This system targets 15 different STR loci ( i.e. locations) spread throughout the autosomal chromosomes, in addition to the Amelogenin locus on the X and Y chromosomes, which indicates the profile donor’s biological sex.
+DNA Typing Method: PowerPlex® Y23 Y- STR System 	
+Description: This system targets 23 STR loci found on the Y chromosome and, therefore, is designed to exclusively type male DNA . It is often used in samples where a very large amount of female DNA might otherwise limit the ability to effectively develop a male profile from a mixture using autosomal systems. Additionally, since the Y-chromosome is passed from father to son largely unaltered, paternal male relatives generally share the same Y- STR profile. This means the test is less discriminating than autosomal tests. On the other hand, it can also be very useful when performing various familial DNA tests.
+
+Finally, generated DNA profiles are interpreted by scientists. This may be performed with the assistance of probabilistic genotyping software (i.e. STRmix™) or it may be performed by the scientist alone (i.e. Standard). Suitable profiles are then compared to samples from known individuals and/or uploaded to the DNA Data Bank.
+
+###
+Biology Report Guide
+Continuity
+
+This section will account for all items of evidence submitted to the CFS for examination and indicate whether they have been returned, retained, or transferred to another agency.
+
+Evidence chains of custody are maintained at the CFS and are available upon request.
+
+Please Note:
+
+The report author is available for discussion regarding its contents and any additional limitations which may be relevant given the circumstances of the case.

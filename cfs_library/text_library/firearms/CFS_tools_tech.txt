@@ -1,0 +1,43 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Toolmarks Examination Information 
+
+Information
+
+Toolmarks are produced when a tool contacts an object under sufficient pressure so that markings of the tool are produced on the surface of the object. The tool that produces the marks must be harder than the object that the marks are made in.
+
+Toolmark examinations are conducted in order to determine whether or not a suspect tool made the marks in a submitted item. The toolmarks can be made by cutting the item, scraping across the item, or by digging into the item. The types of cases that involve toolmark examinations include homicides, thefts, break and enter, and mischief to property.
+
+The types of tools most often submitted to the CFS include bolt cutters, knives, pliers, side cutters, and pry bars. The toolmarks examined may appear on almost any substrate and may include locks, door and window frames, tires, wire and bone.
+
+A tool can produce marks that have class and individual characteristics. Class characteristics can be used to determine whether or not a mark was produced by the same type or class of tool as the one submitted. Individual characteristics are produced accidentally through the manufacturing process and/or through use, abuse, corrosion, rust or damage of the tool. Individual characteristics can be used to determine whether or not the submitted tool can be identified as the specific tool (see note) that made the marks on the submitted object.
+Examination
+
+The examination may include the following steps:
+
+    Ensure that there has been no cross contamination between the tool and the suspect marks in the submission.
+    Visually and microscopically examine the tool and object for the presence of trace evidence. If significant trace evidence is present, the appropriate section should be notified and samples taken.
+    Prepare ‘Mikrosil’ or similar casts of the tool edge(s) as well as the marked areas.
+    Use the submitted tool to prepare comparison samples in suitable softer media. The sample media may include soft lead sheeting or wire, aluminum, brass etc.
+    Using a comparison microscope, compare the tool sample marks with the submitted marks to determine whether or not class and individual characteristics are in agreement.
+    Photograph the areas that are in agreement under magnification.
+
+Interpretation
+
+The results of the comparisons between tools and toolmarks are expressed in the positive, negative or inconclusive sense as follows:
+
+    The Item 2 padlock was identified within the limits of practical certainty as having been cut by the submitted bolt cutters (positive).
+    The Item 2 padlock was not cut by the Item 1 bolt cutters’ indicating that the Item 2 padlock was excluded as having been cut by the submitted bolt cutters (negative).
+    The Item 1 bolt cutters can neither be identified nor eliminated as having cut the Item 2 padlock’ indicating that the results of the forensic examination and comparisons are inconclusive and that it cannot be determined whether or not the padlock was cut by the submitted bolt cutters. Inconclusive opinions are generally a result of a lack of individuality in the markings on the submitted items, or because the tool does not consistently reproduce markings.
+
+Glossary
+
+Class characteristics Measurable features of a specimen, which indicate a restricted group source. They result from design factors, and are therefore determined prior to manufacture.
+
+Individual characteristics Imperfections or irregularities produced accidentally during manufacture or caused by use, abuse, corrosion, rust or damage to an object. They are unique to that object and distinguish it from all other known samples.
+
+Note: All identification/associations are made within the limits of practical certainty.
+
+Practical Certainty: Since it is not possible to collect and examine samples of all tools, it is not possible to make an identification with absolute certainty. However all scientific research and testing to date and the continuous inability to disprove the principles of toolmark analysis have demonstrated that tools produce unique, identifiable characteristics which allow examiners to reliably make identifications.
+
+Firearms/Toolmark Identification: is an empirical science that relies on objective observations and a subjective interpretation of microscopic marks of value.

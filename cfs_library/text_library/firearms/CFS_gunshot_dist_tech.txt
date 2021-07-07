@@ -1,0 +1,74 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Suspected Gunshot and Distance Determination Examination 
+
+Introduction
+
+Forensic examinations are performed on a variety of item types in order to determine whether or not the item has been struck by a firearm related projectile and to determine the distance between the muzzle of the firearm and the item’s surface. The types of items examined are primarily clothing and excised tissue, but may include parts from vehicles, buildings, vegetation, road and street signs etc.
+
+When a firearm is fired, it not only discharges a projectile(s) from the muzzle, it also discharges a mixture of burning gas, burning propellant, unburned propellant, soot and various other combustion products from the ammunition. In the case of shotshell discharge, some of the components of the shotshell will be discharged from the muzzle as well, for example wads. The Firearms & Toolmarks section refers to these residues, as firearms discharge residues (FDR). The microscopic particles of metal and metal compounds discharged primarily from the primer at the time of discharge is examined and referred to by the Chemistry section as gunshot residue (GSR).
+
+An object that has been shot by a firearm may have evidence of the penetrating forces of the projectile(s), may have detectable deposits or a residue of material from the projectile, may have detectable deposits or a residue of material from the combustion of the propellant, and may have the presence of shotshell components. The further the residues travel from the muzzle, the broader and less concentrated the distribution of residues becomes. The presence of shotshell components will also diminish as the distance from the muzzle to the target increases. In the case of shotgun discharge, the spread of the projectiles (pattern) will increase with a greater muzzle to item distance.
+
+Macroscopic and microscopic observations, infrared photography and chemical testing of the residue pattern and the characteristic particles assist in generating conclusions. Chemical tests can be conducted to assist in determining the distance of the muzzle of the firearm from the target at the time of discharge. Chemical tests may include the modified Griess test which can be used to detect the presence of nitrites that are found in burnt and/or partially burnt gunpowder particles as well as some household cleaning products and disinfectants. The diphenylamine test can be used to detect the presence of nitrates that are found in unburnt gunpowder particles as well as urine, matches and some fertilizers and pharmaceuticals. The sodium rhodizonate test can be used to detect the presence of lead that can be caused by a lead projectile/core, bullet wipe and/or lead vapour as well as any substance containing lead. The dithiooxamide (DTO) test can be used to detect the presence of copper. Negative controls are carried out on the target surface to determine whether or not any of the aforementioned contaminants are present, if any indication of contamination is noted, the significance of the chemical test will be evaluated.
+
+Different types and combinations of ammunition and firearms will result in different types, amounts and patterns of deposits on the item. Suspect firearm(s) and ammunition should be submitted in order to conduct the examinations.
+
+Examination
+
+    The examination of a submitted item may include the following steps:
+    Conduct a visual and microscopic examination of the item to determine the number of defects, observe the edges of the defect, look for residues, scorching and /or directionality
+    Measure the suspected defect and/or pattern size
+    Conduct chemical testing to assist in determining the presence of FDR
+    Conduct a reflected infrared light examination with photographs of the defect and area to observe residues
+    Test fire a submitted firearm with submitted ammunition or with similar CFS reference collection ammunition from measured distances at test panels. The test panels are then compared to the submitted item for similarities
+    Test fire shotshells (either submitted or similar reference collection samples) at measured distances to determine the distance range of the shotshell components
+
+Interpretation
+
+The conclusions regarding the presence of projectile damage are expressed in positive, negative or inconclusive terms and may be expressed as:
+
+    The defect in Item x is typical of firearm projectile damage.
+    The defect in Item x is not typical of firearm projectile damage.
+    The defect in Item x could neither be identified nor eliminated as having been caused by firearm projectile damage.
+
+The conclusions regarding the distance between the muzzle and the target surface at the moment of discharge may be expressed as:
+
+    If the submitted firearm with the submitted ammunition or cartridges of the same type to the submitted ammunition was used to create the defect on Item x, then the muzzle of the firearm was between __ and __ from the Item at the moment of discharge.
+    The muzzle of the firearm was in contact with Item x at the moment of discharge.
+    The distance between the muzzle of the firearm and the Item x at the moment of discharge was greater than contact.
+
+The conclusions generated are dependant on whether a suspect firearm and ammunition are submitted for comparison to the damaged item. In the absence of one or both of these items a comprehensive distance determination may not be possible.
+Glossary
+
+Ammunition
+A cartridge case that contains a projectile that is designed to be fired in a firearm. It is usually comprised of the cartridge case, propellant, primer and projectile. This also includes a caseless cartridge and a shot shell.
+
+Bullet
+A component of an ammunition cartridge. Typically a non-spherical projectile for use in a rifled barrel.
+
+Bullet wipe
+The discolored area on the immediate periphery of a bullet entrance hole caused by bullet lubricant, lead, and bore debris or possible jacket material.
+
+Calibre of:
+
+a) Firearms
+The approximate diameter of the circle formed by the tops of the lands of a rifled barrel.
+
+b) Ammunition
+A numerical term, included in a cartridge name to indicate the nominal bullet diameter.
+
+c) Cartridge
+A single unit of ammunition.
+
+Firearms Discharge Residues
+The total residues resulting from the discharge of a firearm. It includes both gunpowder and primer residues, plus metallic residues from projectiles and fouling.
+
+Lead-free ammunition
+A cartridge designed to have no lead in the priming mixture and a bullet with an enclosed base which prevents the vaporization of the lead core, or that may be loaded with a projectile constructed of materials other than lead
+
+Shot
+Spherical pellets used in loading shotshells or cartridges.
+
+Shot shell
+A cartridge containing projectiles designed to be fired in a shotgun. The cartridge body may be metal, plastic or paper.

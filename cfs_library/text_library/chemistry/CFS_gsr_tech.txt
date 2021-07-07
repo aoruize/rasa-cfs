@@ -1,0 +1,51 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Gunshot Residue Information
+
+Introduction
+
+Gunshot residue ( GSR ) is the term applied to the microscopic particles of metal and metal compounds that are emitted by a firearm at the time it is discharged. These particles are derived primarily from the primer composition, but may also contain contributions from other cartridge components such as the cartridge case and the projectile. GSR is distinct from the residues of partially burned gunpowder grains, which may be visible to the naked eye and may be referred to by firearms examiners as gunpowder residue. The primary identification characteristic of a conventional GSR particle is the presence of all three of the elements lead, barium, and antimony. One such particle is sufficient to establish the presence of gunshot residue. These particles may be deposited on any surface near the firearm at the time of discharge, including the hands and clothing of the shooter and any bystanders.
+Examination
+
+Tapelift samples are collected from the surfaces to be examined using GSR collection kits provided by the Centre of Forensic Sciences. These kits contain metal sampling disks, referred to as stubs, covered with double-sided adhesive tape. The adhesive stub is lightly pressed onto the surface to be sampled, collecting particles present on the surface. Particles of interest are located and identified by scanning electron microscopy/energy dispersive X-ray spectroscopy ( SEM/EDX ).
+
+GSR particles are chemically stable and tapelift samples can be stored indefinitely prior to analysis. The SEM/EDX examination is non-destructive and samples can be re-examined if necessary.
+Interpretation
+
+People not exposed to firearms or discharged ammunition components are not expected to have GSR particles on their hands or clothing. Finding GSR particles on a person is not proof that they discharged a firearm. The presence of GSR particles may be the result of activities such as discharging a firearm, being in proximity to a firearm during discharge, handling a firearm or a fired cartridge case, or contact with another surface bearing GSR . The number of GSR particles found does not establish which activity deposited them.
+
+The number of GSR particles identified on an item will be specified in the report.
+
+The absence of GSR particles is not proof that the person did not discharge a firearm. The absence of GSR may be the result of one or more of the following:
+
+    the person did not discharge a firearm
+    the person was not close to a firearm during discharge
+    the discharged firearm did not deposit detectable quantities of GSR
+
+    The person did not contact a surface bearing GSR .
+    The GSR was lost prior to sampling as a result of physical activity or by any cleaning process, such as washing or wiping.
+
+Note: GSR is rapidly lost from hands in the minutes and hours following deposition. Particles on clothing or other items will also be rapidly lost through ongoing activities, but may persist for long periods of time if the item is left undisturbed.
+
+    The area sampled did not have GSR on the surface.
+
+    The sampling technique was ineffective on the surface sampled.
+
+Note: The collection of particles for testing requires direct contact of the adhesive tape on the stub with the particles. Surfaces heavily contaminated with dirt or debris and some types of textured surfaces, such as fur, velour, velvet, terrycloth, fleece, and other loosely knit fabrics may not be sampled effectively.
+
+    The ammunition did not produce conventional GSR .
+
+Note: Some types of .22 calibre ammunition and those marketed as non-toxic or lead-free do not contain compounds with all three of the elements lead, barium, and antimony in their primer formulation. As such, these types of ammunition do not produce conventional GSR . However, firearms loaded with such ammunition may still emit conventional GSR due to residues carried over from previously used ammunition.
+
+Due to carryover effects, the identified residues cannot be associated with a specific firearm or ammunition. GSR analysis cannot be used to determine firing angles or distance.
+
+Some display grade fireworks, such as those used by professional pyrotechnicians, may contain all three of the elements lead, barium, and antimony, and may generate particles similar in size range and composition to GSR .
+Glossary
+
+Cartridge: A complete unit of unfired ammunition for a firearm consisting of a projectile, propellant (gunpowder), primer, and cartridge case.
+
+Primer: A shock sensitive mixture of chemicals which, when impacted by the firing pin of a firearm, ignites the gunpowder in the cartridge.
+
+Pyrotechnic device: A container for a chemical reaction designed to produce light, heat, sound, or smoke, or combinations thereof, and includes fireworks, safety flares, and some military devices.
+
+SEM-EDX (Scanning Electron Microscopy-Energy Dispersive X-ray Spectroscopy): The SEM produces a magnified image based on the interaction of an electron beam with the sample’s surface. The EDX is used to identify the element(s) present based on the X-rays produced through interactions between the sample and the SEM electron beam. This combined technique provides information about the morphology and elemental composition of the sample.

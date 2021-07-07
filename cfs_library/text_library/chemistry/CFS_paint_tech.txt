@@ -1,0 +1,45 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Paint Examination Information
+
+Introduction
+
+Paints are used to coat many different types of materials. When a painted surface comes into forcible contact with another object the paint may fragment or smear onto that object. If both surfaces are painted, paint may transfer from each surface to the other creating a two way transfer. Most painted surfaces have more than one layer of paint and there are numerous colours and compositions of paints thus, paint is a distinctive material.
+Examination
+
+A submitted item is first examined visually to determine if paint is present. In the case of clothing, debris from the item is also collected and examined for paint. Any paint found is examined to look for differences between that paint and comparison samples. Microscopy is used to compare colour, layer sequence, and other characteristics such as the presence of metallic flake. Instrumental analysis will provide further discrimination and information about the chemical composition of the paint being examined.
+
+For paint that is from an unknown origin an investigative examination will be performed to provide information about the possible sources. If original factory paint from an automobile is recovered from the victim of a hit and run/fail to remain collision, then information such as the colour, make, model and/or year may be determined in order to aid the investigation. The colour and chemical composition of each layer of paint are compared with laboratory databases of information about samples of known origin. If a paint fragment is recovered from a tool, it may be possible to determine whether it is from an automobile, bicycle, building, tool or other structure.
+Interpretation
+
+Paint samples are referred to as indistinguishable when they cannot be differentiated by the examination that was conducted. When recovered paint is determined to be indistinguishable from a submitted comparison sample, it can be concluded that the recovered paint has either come from this source or from another source that also has paint layers indistinguishable in colour, layer sequence and chemical composition (i.e., has been painted in the same way using the same colours and compositions of paint). In some circumstances paint samples may be referred to as similar due to limitations placed on the examination by the sample. For example, similar may be used when a paint sample is smeared, damaged, soiled, or insufficient in size. When this occurs, the reason(s) for the limitations will be stated in the report.
+
+The probability of an alternative origin will depend on the number of layers of paint found, any unusual characteristics, and in the case of motor vehicle paint, whether the paint is the original factory paint or a repaint. A statement regarding the significance of these findings will be included in the report. For example, when the number of paint layers is large, the possibility of finding another item with indistinguishable paint is very low.
+
+Though there are many manufacturers of paints, many formulations and many colours, paint is a mass-produced commercial product and as such it cannot be concluded that a particular paint has come from a specific source, except when a physical match has been confirmed. A physical match is more common for automotive parts than for paint fragments.
+Paint Glossary
+
+Binder/Resin: This is the portion of the paint that binds or holds the pigment particles together, and to the surface to which it is applied.
+
+Layer Sequence: The layer sequence describes the appearance of the paint layers with the outermost layer listed first.
+
+Metallic: Paints that are described as metallic contain particles of metal flake, most commonly aluminium.
+
+OEM: Original Equipment Manufacturer
+
+Paint: A surface coating generally comprised of pigment(s) and binder(s)/resin(s) used for decorative and/or protective purposes.
+
+Pearlescent: Paints that are described as pearlescent contain plate-like particles that exhibit various colours.
+
+Pigment: Particles used in paints to provide colour or to modify physical properties.
+
+Repaint: Repaints are paint layers applied after the original factory paint.
+Techniques/Instrumentation Glossary
+
+Fourier Transform Infrared Spectroscopy (FTIR): This instrumental technique is used to characterize the type of paint based on its absorption of infrared light. It provides information about the binder of the paint and some pigments.
+
+Pyrolysis Gas Chromatography - Mass Spectrometry (PGC-MS) : Pyrolysis is a technique in which heat is used to fragment a paint sample in the absence of oxygen. Gas chromatography is a technique used to separate the components of a mixture. The mass spectrometer may be used to identify the pyrolysis fragments of the paint when combined with PGC. PGC-MS of paint combines this fragmentation and separation to provide information about the binder of the paint. This technique requires that a very small quantity of paint be consumed.
+
+Scanning Electron Microscopy - Energy Dispersive X-Ray Analysis (SEM-EDX): The SEM produces a magnified image based on the interaction of an electron beam with the sample’s surface. The EDX is used to identify some of the elements present based on the X-rays produced through interactions between the sample and the SEM electron beam. This combined technique provides information about some paint pigments.
+
+X-Ray Diffraction (XRD): This instrumental technique is used to identify crystalline components of the paint based on their interaction with X-rays. It provides information about some paint pigments.

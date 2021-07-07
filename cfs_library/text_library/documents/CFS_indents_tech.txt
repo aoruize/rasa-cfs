@@ -1,0 +1,45 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Documents - Examination for Indentations Information 
+
+Introduction
+
+Indented writing or indentations refers to a latent image that was transferred to a document through pressure exerted on its surface while in contact with an overlying document.
+
+Examination
+
+An item is examined for indented writing using:
+
+    Oblique lighting together with the unaided eye and/or magnification
+    An Electrostatic Detection Apparatus (ESDA)
+
+Interpretation
+Limitations/Factors
+
+    Fingerprinting using ninhydrin and other solvents inhibits the development of indentations
+    Thickness of paper
+    Storage conditions (i.e. certain acetate coversheets may eliminate indentations)
+    Pressure used to produce the writing on the source item causing the indentations
+    Number/thickness of layers between the questioned and source item
+
+Note
+
+    Secondary impressions can be transferred from one sheet to another if the two have been in contact for a period of time
+    The absence of decipherable indentations does not necessarily mean the questioned item was never in contact with other items but due to the limitations listed above, the indentations cannot be detected
+
+Significance of findings
+
+    Can be used to associate two or more documents to each other
+    Can be used as an investigative aid in identifying the possible source of a document
+    Indented writing can be identified as the product of a particular individual
+
+Glossary
+
+ESDA or Electrostatic Detection Apparatus
+An electrostatic imaging device used to detect latent impressions on paper products
+
+ESDA Print/Lift
+The results of an ESDA examination preserved using clear adhesive film
+
+Oblique Lighting
+A light source directed across the document at a low angle

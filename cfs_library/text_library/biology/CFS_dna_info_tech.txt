@@ -1,0 +1,342 @@
+###
+Centre of Forensic Sciences
+Technical Information Sheets
+Biology - Deoxyribonucleic acid ( DNA ) Information
+
+Introduction
+
+DNA is the genetic blueprint of life and is packaged into paired structures known as chromosomes. One from each pair is contributed by an individual’s biological mother and the other by his/her biological father. With the exception of identical twins, no two individuals have exactly the same DNA .
+
+One particular pair of chromosomes includes the information required for gender determination. In males, one of the two chromosomes in this pair is known as the X chromosome, while the other is known as the Y chromosome. Females have two X chromosomes. A father passes his Y chromosome, unaltered, to each of his sons. This means that all paternally related males are expected to have the same Y chromosome DNA profile. The additional 22 pairs of chromosomes are called autosomal and are found in both males and females.
+
+Forensic DNA analysis is used to determine the DNA profile of the donor of a bodily substance with a cellular component or to assess kinship. The CFS ) employs two types of analysis, one for autosomal and one for Y-chromosome DNA . Both systems are based on the testing of short tandem repeats ( STR ). STR and Y- STR analysis cannot be used to determine physical traits except for gender.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Examination for the Presence of DNA Sources
+
+DNA analysis can be attempted on any bodily substance with a cellular component. Chemical tests can be used to locate body fluid stains that may be suitable for DNA analysis. The localization of a stain is not necessary in order to perform DNA analysis (see Limitations). Any item that may contain spermatozoa is processed to separate spermatozoal DNA , the “sperm fraction”, from other cellular DNA , the “epithelial fraction”. This process in called a differential extraction and is defined in the glossary below.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Comparison Samples
+
+DNA profiling of comparison samples requires approximately 30 days from the date of their submission. It is the responsibility of the submitting agency to ensure compliance with Criminal Code Section 487.09 subsections (1), (2) and (3).
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Stages of DNA Analysis
+
+1. Extraction
+2. Quantification
+3. Amplification and Detection
+4. Data analysis
+5. Interpretation
+6. Quality Assurance
+7. Statistical Analysis (Autosomal)
+
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Extraction : Samples are processed to remove DNA from other cellular components. Depending on the sample this can be performed as either a conventional or differential extraction.
+
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Quantification : An estimation of the quantity of male and total human (higher primate) DNA using Quantitative real-time PCR ) to determine if there is sufficient DNA to proceed with the analysis using STR and/or Y- STR analysis.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Amplification and Detection : Methods used to generate and sort multiple labeled copies of specific DNA regions to allow for detection. The regions of interest, STR s and Y- STR s, are short sequences of DNA that are distinguished by their number of repeats. Different commercially available kits target different sets of STR s.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Data analysis : Software packages are used to assess the number of repeats in each PCR ) product and assign internationally accepted designations to each PCR ) product.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Interpretation : DNA profiles are compared to each other to determine whether they can be excluded as originating from a common source or to assess kinship. DNA interpretation can be done either manually (by the Scientist alone), or with the assistance of a probabilistic genotyping software system called STR mix TM .
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Quality Assurance: Prior to being reported or uploaded to the National DNA Databank, all DNA profiles that are suitable for comparison are subject to a search against a Quality Assurance database.
+Any resulting hits are investigated to determine whether the mechanism of the DNA association could be due to an adventitious match or due to a contamination event within the laboratory.
+How the DNA results are reported will depend on the outcome of the quality assurance evaluation.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Statistical analysis (Autosomal) : Associations between interpreted DNA profiles and known individuals will either be expressed as a Random Match Probability ( RMP ) or a Likelihood Ratio ( LR ). The statistical analysis used depends on the question to be answered and the manner in which the interpretation was performed.
+Five databases representing the population of Ontario (Asians, Blacks, Caucasians, East Indians, and Northern Ontario Natives) are used to perform the statistical analysis. The most conservative statistic from all five databases is reported.
+The CFS ) has population data for the core 13 CODIS ) STR loci only. The CFS ) does not have population data for the additional loci, contained within the Identifiler ® Plus, PowerPlex ® 16 HS, or GlobalFiler ® Express systems. All comparable loci are evaluated when a comparison is made between two DNA profiles however the additional loci are not included in probability calculations.
+CFS ) population databases have been assessed by a qualified population geneticist/statistician and have been approved for forensic use.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Random Match Probability:
+Random match probability estimates usually differ by less than a factor of 10 in either direction when different samples from the same population are compared.
+This estimate is only valid for unrelated people, as there would be a greater probability of coincidental matching DNA profiles among close relatives.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Likelihood Ratio:
+Likelihood Ratio point estimates usually differ by less than a factor of 10 in either direction when different samples from the same population are compared.
+The estimate is specific to the pair of hypotheses being tested. These hypotheses are formulated by the Scientist in considering the relevant question(s) to be answered and will represent two alternative explanations for the data. Different sets of hypotheses will result in different likelihood ratios. In certain scenarios it may be relevant to address alternate hypotheses involving familial relationships.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Statistical Analysis (Y- STR ): Because the Y chromosome is inherited as a single unit, the statistical analysis of DNA results generated using male-specific DNA testing differs from the statistical analysis used for autosomal DNA testing.
+For Y chromosome DNA profiles, statistics are calculated based on the frequency with which a particular Y chromosome profile has been observed in a North American population database.
+Statistical analyses are limited by the size of the population database searched and are generally less discriminating than those associated with autosomal DNA analysis.
+When reporting results associated with Powerplex ® -Y analysis, a confidence limit is incorporated in the random match probability to account for uncertainty related to the database size and sampling variation.
+A likelihood ratio is provided when results from Powerplex ® -Y23 are reported. This indicates the likelihood of the DNA results obtained if the haplotype in question is from the individual being considered, relative to a randomly selected individual from the same population.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Interpretation of DNA Mixtures
+
+Interpretation of DNA profiles is typically straightforward but on occasion can be complex. Various scientific parameters are considered together and in combination with case specific information (item type, body fluid findings and context). These include:
+
+    - number of contributors
+    - relative proportions of each contributor
+    - quantity of DNA
+    - peak heights
+    - concordance of peaks
+    - locus balance.
+
+In addition, any assumptions made in the process of mixture interpretation are documented in the case work notes and must be supportable.
+
+Interpretation of results includes a formal quality assurance process that relies on validation experiments, interpretation guidelines and the collective experience of the DNA laboratory. This ensures that the conclusions reached are supported by the scientific data.
+
+Some DNA profiles, or minor contributors within DNA mixtures, may be reported as ‘Not suitable for comparison’. This is due to uncertainty with respect to the total number of contributors and/or the low or relative amounts of DNA present.
+
+DNA profiles which have been assigned a DNA profile number within a given report/case (i.e. Profile 1, Profile 2, Profile 3) are considered suitable for comparison.  Unless otherwise specified, different DNA profile numbers indicate that the profiles originate from different individuals.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Limitations
+
+    1. A minimum amount of DNA required for PCR ) has been established below which no further analysis is generally performed either with autosomal or Y-chromosome amplification systems.  In this situation, male DNA may or may not have been detected.
+    2. In the presence of an excess of female DNA , it is possible that male DNA will be detected in a sample but a male DNA profile will not be generated.
+    3. Poor quality DNA may give partial or no results depending on the extent of damage to the DNA .
+    4. Some substances may inhibit the PCR ) process leading to partial or no results.
+    5. In the case of Y- STR DNA profiles, males from the same paternal lineage will typically share the same DNA profile. When a mutation occurs, it results in a difference in Y- STR profiles between individuals from the same paternal line.  Unrelated males will likely be distinguished using this application. For PowerPlex ® Y23 profiles, a close relative is considered a biological father or brother, with the same biological father.
+    6. It is possible to touch/handle/wear an item and not deposit any detectable levels of DNA .  A DNA profile determined from a touched/handler/wearer sample is not necessarily from the habitual user/wearer or from the person that last touched/handled/wore the item.
+    7. If an object is touched/handled/worn by more than one individual, it is possible that any DNA profile generated will be a mixture of DNA from different individuals.
+    8. It is not unusual to find detectable levels of DNA from single or multiple depositions (referred to as background DNA ) on clothing. This may limit the significance of the DNA results.
+    9. Within certain timeframes it is not unusual to find detectable levels of DNA from prior consensual activity on internal samples. Submission of a comparison sample from the consensual partner may assist with interpretation of these results.
+    10. When the case history suggests prior consensual contact with the same individual who is believed to be the perpetrator of a sexual assault, the significance of the DNA results may be limited.
+    11. A mixture of DNA from more than one person can limit the ability to define contributing profiles and thus decrease the ability to exclude a particular individual from being a contributor to that mixture. Additionally, when an individual cannot be excluded under these circumstances, the significance may be limited.
+    12. STR mix TM may be able to resolve DNA profiles from mixtures in cases where manual interpretation cannot. Not all DNA profiles are suitable for STR mix TM analysis. In some cases, after STR mix™ analysis, the Scientist may determine that the DNA results as a whole, or in part, are still not suitable for comparison.
+    13. Occasionally the results obtained from multiple samples suggest that either the same individual or subset of individuals is/are the source of all the observed results. It may not be necessary to fully interpret every sample as these interpretations may not add further value to the investigation. When this occurs it will be clearly articulated in the report.
+    14. It is not always possible to attribute a DNA profile to a body fluid or cellular source. Typically touch/handler/wearer DNA testing is performed in the absence of body fluid testing.
+    15. DNA results may or may not assist in addressing how or when the DNA was deposited.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Adventitious match/hit : A match or database hit where a given DNA profile matches with another DNA profile by coincidence.
+
+Allele : A form of a gene that is located at a specific location on a specific chromosome. Alleles targeted in STR analysis vary in length.
+
+Amelogenin : A DNA locus, present on both the X and Y chromosomes, used in forensic analysis to determine gender.
+
+Assumption : Assumptions may be made to assist with DNA interpretation. They are based on scientific data and/or case history. Any assumptions made will be documented in the case file notes.
+
+Attribution : There is an expectation that DNA from the individual from whom the sample was taken will be detected on intimate samples. The CFS ) defines intimate samples as swabs from internal body orifices, swabs of the skin, fingernail clippings/scrapings and underwear collected directly from the complainant/deceased. In this scenario a DNA profile can be attributed to an individual.
+
+Autosomal STR analysis : DNA analysis performed on STR loci distributed amongst the 22 pairs of autosomal chromosomes (i.e. not on the gender determining chromosomes).
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Cannot be excluded : Term used to describe an individual who cannot be ruled out as the source of a particular DNA profile or a contributor to a mixed DNA profile.
+
+Chromosome : The physical structure in which DNA is packaged in the cell nucleus. Humans have 23 pairs of chromosomes.
+
+Combined DNA Index System ( CODIS )) : A software program provided to the Royal Canadian Mounted Police (RCMP) by the Federal Bureau of Investigation (FBI) and United States Department of Justice to enable the creation of national information repository, also known as the National DNA Databank (NDDB), where forensic laboratory professionals can share DNA information.
+
+Comparison sample : A biological sample, often blood or a buccal sample (interior of cheek), taken from a known person, to which an unknown sample profile may be compared.
+
+Conventional extraction : A chemical procedure in which the DNA from cells is removed and purified for further processing.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Differential extraction : A two stage chemical procedure used for samples which contain, or potentially contain, semen. Produces two fractions, one enriched for sperm cell DNA and one enriched for other cellular DNA . This may assist in the interpretation of DNA profiles from samples containing semen mixed with other body fluids.
+
+DNA : Deoxyribonucleic acid. DNA is found in the nucleus (Nuclear DNA ) and in mitochondria (Mitochondrial DNA ). Mitochondrial DNA may be analyzed for forensic purposes in limited situations; however this service is not available at the CFS ) at this time.
+
+DNA profile : Results of DNA analysis of one or more STR loci. A profile may also be referred to as a genotype, in the case of autosomal STR analysis, or as a haplotype, in the case of Y- STR analysis.
+
+Epithelial fraction : In a differential extraction, the portion of the sample containing DNA primarily from epithelial cells. This includes skin cells, vaginal cells or other cells normally found on inner or outer body surfaces or body fluids.
+
+Excluded : Term used in forensic analysis to describe an individual who cannot be the source of a particular DNA profile or a contributor to a mixed DNA profile.
+
+For STR mix™ interpreted samples, any comparison for which the results are at least 100 times more likely under the scenario of non-inclusion.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Gene : A basic unit of heredity. A sequence of DNA that contains instructions for the production of a structure or function.
+
+Genotype : See DNA profile.
+
+Haplotype : See DNA profile.
+
+Inconclusive : A reliable conclusion cannot be drawn from the testing
+
+For STR mix™ cases, this refers to any comparison for which a determination as to whether an individual can or cannot be excluded as a contributor cannot be made because the LR falls within the validated range (between 0.01 and 1000) in which both false exclusions and false inclusions have been observed.
+
+Inhibition : A condition where the presence of certain chemicals or “inhibitors” co-extracted from the substrate reduces the normal activity of the polymerase chain reaction. The result can be that a profile is not generated or only partial results are obtained.
+
+Insufficient : The estimated quantity of male and/or total human (higher primate) DNA is below the CFS ) threshold required to proceed with the analysis.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Likelihood Ratio (LR) : Addresses the probability of having observed the evidence under one hypothesis relative to the probability of having observed the evidence under a second hypothesis.
+
+For Y- STR associations using the multiplex Powerplex ® -Y23, the weight of the association between DNA profiles is expressed by a LR.
+
+For mixture deconvolutions using STR mix TM the weight of the association will be expressed using an LR.
+
+DNA profiles from multiple samples may originate from a common source, but may have different LRs.
+
+The reader of the report should ensure they are aware which specific LRs apply to which items. This is to avoid attributing a greater significance to a test result than the results for that test support.
+
+Locus (pl. Loci) : The specific physical location of a gene on a chromosome.  In forensic DNA analysis, this refers to the specific sites being tested (e.g. D3S1358, vWA or D5S818).  See tables 1 and 2.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Match : DNA profiles that, when compared, are indistinguishable at all loci for which a result has been generated.
+
+Major profile : In a DNA mixture, the DNA profile which is present in a greater amount.
+
+Minor profile : In a DNA mixture, a DNA profile which is present in a lesser amount.
+
+Mixture : A sample to which at least two different individuals have contributed DNA .
+
+Multiplex Systems : Commercially available kits designed to analyze multiple STR locations simultaneously (see Tables 1 and 2).
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Not suitable for comparison : Term used to describe a DNA profile that has not been compared due to associated limitations. Although a profile may not be suitable for comparison through a manual interpretation, additional analysis using probabilistic genotyping software may generate profiles suitable for comparison.
+
+Partial profile : A DNA profile in which results are incomplete at a locus or loci examined.
+
+Paternity test : An assessment of the possibility that a particular male could be the biological father of a given individual.
+
+PCR ) : Polymerase Chain Reaction.  A process by which a short segment of DNA can be selectively copied. Used to quantify the amount of DNA present in a sample and/or to provide sufficient copies of DNA for further analysis.
+
+Plexor ® HY :A commercially available Q PCR ) test kit for quantifying the total amount of human (higher primate) DNA and the amount of male DNA in one reaction.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Population databases : Compilation of genetic profiles from random unrelated members of a population used to generate random match probabilities and/or haplotype frequencies. For autosomal testing systems, the CFS ) has Ontario databases for Asians, Blacks, Caucasians, and East Indians and has access to a Northern Ontario Natives database. For Y- STR testing systems, the CFS ) has access to a number of population databases, including a North American database comprising data from various racial groups.
+
+Probabilistic Genotyping : The use of biological modeling, mathematical theory, computer algorithms, and probability distributions to calculate likelihood ratios (LRs) and/or infer genotypes for the DNA typing results of forensic samples. The CFS ) utilizes the STR mix™ software system for this analysis.
+
+Q PCR ) : Quantitative Polymerase Chain Reaction. A method of determining the concentration of DNA in a sample by use of real-time polymerase chain reaction.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Random match probability (RMP) : The probability that a randomly selected individual unrelated to the reference person would coincidentally share the observed DNA profile. This is a statement of weight provided in the event of associations between DNA profiles (excluding those associated through kinship analyses).
+
+DNA profiles from multiple samples may originate from a common source, but may have a different RMP. In general, the RMP for the sample with the highest discrimination potential is reported. The associated footnote will also capture the other RMPs for the same individual.
+
+The reader of the report should ensure they are aware which specific RMP applies to the item results. This is to avoid attributing a greater significance to a test result than the results for that test support.
+
+For Y- STR associations using the multiplex Powerplex ® -Y, the random match probability is adjusted, using an upper 95% confidence limit, to incorporate uncertainty due to sampling error and database.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Rapid DNA analysis : Automated (hands free) process of developing a DNA profile from a known reference sample, including extraction, amplification and detection without human intervention.
+
+Scientific Notation : A standardized method to express very large or very small numbers.  The exponent represents how many times a value must be multiplied (positive exponent) or divided (negative exponent) by 10 to obtain the true result. (e.g.1000 = 1x10 3 ; 0.01 = 1x10 -2 ).
+
+Sperm fraction : In a differential extraction, the portion of the sample containing DNA primarily from spermatozoa.
+
+STR : Short Tandem Repeat. Repeating units of DNA arranged in succession in a particular region of a chromosome.
+
+STR mix TM : A commercially available probabilistic genotyping software program (see Probabilistic Genotyping).
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+DNA Glossary
+
+Suitable for comparison : A term used to describe a DNA profile that meets the scientific and quality requirements for comparison with other DNA profiles.
+
+Touch/handler/wearer testing : A DNA test, generally performed in the absence of a body fluid testing result, that targets an area of an item where there is the potential for the transfer and/or deposition of cellular material via touching, handling or wearing.
+
+Y- STR Testing : DNA analysis performed on STR loci distributed within the male-specific Y chromosome.
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Table 1: Autosomal STR Multiplex Systems Locus 	Profiler Plus™ 	COfiler™ 	Identifiler® Plus 	PowerPlex ® 16 HS 	GlobalFiler® Express
+Amelogenin 	✔ 	✔ 	✔ 	✔ 	✔
+D3S1358 	✔ 	✔ 	✔ 	✔ 	✔
+vWA 	✔ 	- 	✔ 	✔ 	✔
+FGA 	✔ 	- 	✔ 	✔ 	✔
+TH01 	- 	✔ 	✔ 	✔ 	✔
+TPOX 	- 	✔ 	✔ 	✔ 	✔
+CSF1PO 	- 	✔ 	✔ 	✔ 	✔
+D5S818 	✔ 	- 	✔ 	✔ 	✔
+D13S317 	✔ 	- 	✔ 	✔ 	✔
+D7S820 	✔ 	✔ 	✔ 	✔ 	✔
+D8S1179 	✔ 	- 	✔ 	✔ 	✔
+D21S11 	✔ 	- 	✔ 	✔ 	✔
+D18S51 	✔ 	- 	✔ 	✔ 	✔
+D16S539 	- 	✔ 	✔ 	✔ 	✔
+D2S1338 	- 	- 	✔ 	- 	✔
+D19S433 	- 	- 	✔ 	- 	✔
+Y indel 	- 	- 	- 	- 	✔
+DYS391 	- 	- 	- 	- 	✔
+D2S441 	- 	- 	- 	- 	✔
+D22S1045 	- 	- 	- 	- 	✔
+SE33 	- 	- 	- 	- 	✔
+D10S1248 	- 	- 	- 	- 	✔
+D1S1656 	- 	- 	- 	- 	✔
+D12S391 	- 	- 	- 	- 	✔
+Penta D 	- 	- 	- 	✔ 	-
+PentaE 	- 	- 	- 	✔ 	-
+
+###
+Biology - Deoxyribonucleic acid ( DNA ) Information
+Table 2: Y- STR Multiplex System Locus 	PowerPlex® Y 	PowerPlex® Y23
+DYS576 	- 	✔
+DYS389I 	✔ 	✔
+DYS448 	- 	✔
+DYS389 II 	✔ 	✔
+DYS19 	✔ 	✔
+DYS391 	✔ 	✔
+DYS481 	- 	✔
+DYS549 	- 	✔
+DYS533 	- 	✔
+DYS438 	✔ 	✔
+DYS437 	✔ 	✔
+DYS570 	- 	✔
+DYS635 	- 	✔
+DYS390 	✔ 	✔
+DYS439 	✔ 	✔
+DYS392 	✔ 	✔
+DYS643 	- 	✔
+DYS393 	✔ 	✔
+DYS458 	- 	✔
+DYS385a/b 	✔ 	✔
+DYS456 	- 	✔
+YGATAH4 	- 	✔

@@ -1,0 +1,39 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and toolmarks - Suppressor classification
+
+Introduction
+
+The Criminal Code of Canada (CCC) does not provide a definition of a suppressor however Section 84 of the CCC provides the definition that pertains to suppressors as a prohibited device. A prohibited device is “a device or contrivance designed or intended to muffle or stop the sound or report of a firearm”.  It should be noted that the design element is the primary determining factor when evaluating whether or not a device is a prohibited device. The device’s ability to attenuate the sound of a gunshot merely provides additional supporting data.
+Examination
+
+Suspected Suppressor Examination
+
+    the examination may include the following:
+    identifying the make, model and calibre
+    documenting the construction/design
+    identifying the components and determining if these are typical of those used in the manufacturing of suppressors
+    determining whether there is a suitable firearm that the device may be attached to
+    determining the effectiveness of the suspected suppressor
+    classification of the item with respect to the Criminal Code of Canada
+
+Interpretation
+
+For classification of a suspected suppressor, possible conclusions are:
+
+    the Item X device is a “Prohibited Device” as defined in Section 84 of the Criminal Code of Canada
+    the Item X device is not a “Prohibited Device” as defined in Section 84 of the Criminal Code of Canada
+
+Glossary
+
+Baffles - Components used to restrain the flow of gas generated during the discharge of a firearm, or to prevent the spreading of sound in a particular direction.
+
+Bleed holes - Holes drilled in the barrel of a firearm which permit gases to escape into a chamber or chambers, thereby decreasing the ballistic pressure and reducing the velocity of a bullet to a subsonic speed. May also be referred to as port holes or gas ports.
+
+Expansion Chamber - A contained area for gases to be restrained and expand.
+
+Report - A combination of sounds produced by the discharge of a firearm, including but not limited to mechanical noise, sonic crack, and muzzle blast.
+
+Sound level meter - A device used for acoustic measurements.
+
+Suppressor - A device attached to or integral with the barrel of a firearm, that is designed to reduce the sound of discharge by decreasing the velocity of escaping gases but maintaining a bullet’s high velocity. May also be referred to as a “silencer” however this term is a misnomer as the device does not silence sound, but functions more to suppress the sound.

@@ -1,0 +1,76 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Examination of Fired Ammunition Components 
+
+Introduction
+
+Scientific research to date has shown that no two firearms will produce the same unique marks on projectiles and cartridge cases. These unique marks or individual characteristics are produced by randomly created flaws and imperfections that are produced during the firearm’s manufacturing processes as well as due to wear and tear. Based on this principle, a Firearms Examiner can identify ammunition components as having been chambered in, fired from, extracted, and ejected from a particular firearm (see note). The identification is based on a microscopic comparison of the submitted projectile(s) or cartridge case(s) to tests fired in the suspect firearm.
+
+Barrels of rifles and handguns are manufactured with alternating elevated lands and recessed grooves that are called ‘rifling’. The rifled barrel transfers its unique marks to the projectile when the projectile is fired from the firearm. The number, direction and width of these lands and grooves is class specific, and will vary from manufacturer to manufacturer. Once the class characteristics of the submitted projectile(s) and the suspect firearm are examined and found to be in agreement, the individual characteristics are then microscopically examined. If the individual characteristics are in agreement, the examiner may conclude that the projectile was fired from a particular firearm (see note).
+
+Cartridge cases come into contact with various parts of the firearm when the cartridge case is fired and/or cycled through the firearm. The cartridge case may possess magazine marks, and/or chamber marks, and/or extractor and ejector marks, and/or firing pin impressions, and/or breechface marks, as well as others. The individual characteristics left by the various firearm components on the surface of the cartridge case allows an Examiner to conduct a microscopic comparison of the marks, and potentially conclude that a cartridge case had been loaded in, chambered in, extracted from, ejected or fired in a particular firearm (see note).
+
+In the cases where a suspect firearm is not recovered, the class characteristics of the projectile(s) and/or cartridge case(s) can be searched according to manufacturer in the General Rifling Characteristics (GRC) database. This database was created by the F.B.I. and provides a list summarizing the possible firearms that may have fired the submitted projectile(s)/cartridge case(s). The GRC search can provide investigative leads and can be used as a screening tool. Although this database is continuously being updated, it has limitations in that it may not include every single firearm, including homemade firearms and some after-market alterations.
+Examination
+
+The laboratory examination may include the following steps:
+
+    Comparison to the ammunition reference collection and literature may help determine the manufacturer of the ammunition
+    If a suspect firearm is submitted
+
+    If class characteristics of both the firearm and the submitted projectile(s)/cartridge case(s) are in agreement, the firearm is test fired
+    Tests are microscopically compared to one another and then compared to the submitted projectile(s)/cartridge case(s) using a comparison microscope
+
+    If no suspect firearm is submitted
+
+    The class characteristics such as the calibre, as well as the number, direction and widths of the land and groove impressions of the projectile(s) are measured.
+    The class characteristics of the cartridge case(s) such as the calibre, the shape of the firing pin impression, the position of the extractor and ejector marks are noted.
+    The class characteristics can be used along with the GRC database and literature to assist in determining the make and model of the firearm
+
+    Submitted projectiles as well as cartridge cases are microscopically compared to determine whether or not they may have been fired from/in the same firearm
+    Submitted projectile(s)/cartridge(s) case are submitted to IBIS for upload. See the information sheet for IBIS.
+
+Interpretation
+
+For cases where no suspect firearm was submitted, possible conclusions are
+
+    A list of possible makes and/or models of firearms that could have fired the submitted projectile(s)/cartridge case(s) is provided
+    The firearm from/in which the submitted projectile(s)/cartridge(s) case was/were fired could not be determined
+
+For cases where a suspect firearm was submitted, possible conclusions are
+
+    The submitted projectile(s)/cartridge case(s) was/were identified within the limits of practical certainty, as having been fired from the submitted firearm
+    The submitted projectile(s)/cartridge case(s) could neither be identified nor eliminated as having been fired from/in the submitted firearm. This conclusion is drawn when the submitted projectiles(s)/cartridge case(s) and firearm possess the same class characteristics, however, there are insufficient individual characteristics in agreement or disagreement for an identification or elimination
+    The submitted projectile(s)/cartridge case(s) was/were not fired from/in the submitted firearm
+
+For cases with submitted projectiles and/or cartridge cases that are microscopically compared to determine whether or not they were fired from/in the same firearm
+
+    The submitted projectiles/cartridge cases were identified within the limits of practical certainty, as having been fired from/in the same firearm(s)
+    The submitted projectile(s)/cartridge case(s) could neither be identified nor eliminated as having been fired from/in the same firearm. This conclusion is drawn when the submitted projectiles(s)/cartridge case(s) possess the same class characteristics, however, there are insufficient individual characteristics in agreement or disagreement for an identification or elimination
+    The submitted projectiles/cartridge cases were not fired from/in the same firearm
+
+Glossary
+
+Ammunition : A cartridge case that contains a projectile that is designed to be fired in a firearm. It is usually comprised of the cartridge case, propellant, primer and projectile. This also includes caseless cartridges and shot shells.
+
+Breechface : The part of the breechblock or breech bolt which supports the base of the cartridge case or shotshell during firing.
+
+Cartridge : A single unit of ammunition.
+
+Class characteristics : Common feature(s) that is shared by a specific sub-group of the entire population. For example, the number of lands and grooves, the direction of twist, the widths of the lands and grooves, may be specific to one manufacturer but cannot identify an individual firearm.
+
+Comparison microscope : Two microscopes connected through an optical bridge, which allows the viewer to observe two objects simultaneously.
+
+GRC file : A searchable database created by the F.B.I. that lists various firearms makes and models according to their class characteristics. Certain characteristics may overlap between manufacturers and therefore the search may not yield specific results.
+
+Individual characteristics : Imperfections or irregularities that are produced accidentally and randomly during manufacture. They may also be caused by use, abuse, corrosion, rust, or damage to the firearm. The characteristics are unique to that firearm and distinguish it from all other known examples.
+
+Rifling :Helical spiral cut grooves in the interior surface (bore) of a firearm barrel that imparts rotary motion to a projectile.
+
+Image of grooves and rifling on a spent bullet
+
+Note: All identification/associations are made within the limits of practical certainty.
+
+Practical Certainty : Since it is not possible to collect and examine samples of all firearms, it is not possible to make an identification with absolute certainty. However all scientific research and testing to date and the continuous inability to disprove the principles of toolmark analysis have demonstrated that firearms produce unique, identifiable characteristics which allow examiners to reliably make identifications.
+
+Firearms/Toolmark Identification : is an empirical science that relies on objective observations and a subjective interpretation of microscopic marks of value.

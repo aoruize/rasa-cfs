@@ -1,0 +1,52 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Fire Debris Analysis Information
+
+Introduction
+
+Items collected in the investigation of a fire can be examined at the laboratory for the presence of ignitable liquids and/or hydrocarbon gases. When these liquids or gases are used to set, spread or increase the intensity of a fire, they are referred to as “accelerants.” Items related to a fire may include burnt debris, clothing, or samples of liquid. The identification of ignitable liquids and/or hydrocarbon gases in submitted items does not necessarily indicate that the crime of arson has been committed. All laboratory results must be evaluated in the context of the fire investigation.
+Packaging
+
+When packaging items suspected of containing ignitable liquids and/or hydrocarbon gases, it is vital that a protective barrier is provided against evaporation from the container and from external contamination. Recommended packaging includes glass Mason jars and specialty nylon bags. Common plastic bags are not acceptable. Samples of liquid should be submitted in glass vials with foil-lined lids.
+Examination
+Visual Examination
+
+All items are visually examined to check any seal numbers, the contents and the integrity of the packaging. Instrumental Analysis Samples of vapour or liquid are removed from the items, using a syringe, for analysis by Gas Chromatography-Mass Spectrometry (GC-MS). Gas chromatography is a standard analytical technique that separates the components of a sample and generates a chart known as a chromatogram. Ignitable liquids are identified by their distinctive patterns in these chromatograms. Mass spectrometry assists in classifying and identifying the components of the sample. This is a qualitative analysis and does not determine the quantity of an ignitable liquid identified in an item.
+Instrumental Analysis
+
+Samples of vapour or liquid are removed from the items, using a syringe, for analysis by Gas Chromatography-Mass Spectrometry (GC-MS). Gas chromatography is a standard analytical technique that separates the components of a sample and generates a chart known as a chromatogram. Ignitable liquids are identified by their distinctive patterns in these chromatograms. Mass spectrometry assists in classifying and identifying the components of the sample. This is a qualitative analysis and does not determine the quantity of an ignitable liquid identified in an item.
+Liquid Recovery
+
+Liquid recovery by steam distillation may be undertaken when the results of instrumental analysis indicate that liquid recovery may be possible. Quantities of liquid recovered by distillation cannot be correlated to the total volume of liquid originally present at a scene.
+Polymer Identification
+
+Polymer identification may be requested to identify the type of polymer (plastic) in an item. This may help to determine if the plastic could have originated from a fuel container.
+Oils Analysis
+
+Oils analysis may be requested to identify mineral or vegetable/cooking oils in an item.
+Interpretation
+
+An unused Mason jar should be submitted for comparison purposes. This comparison jar and the associated item jars should have an identical cleaning, storage, and handling history. Comparison jars may be analyzed to address the possibility that the identification of ignitable liquids in jarred items could have been contributed by contamination of the jars prior to use, or cross-transfer from other items during storage and handling.  Certain types of debris may contain background materials that can affect ignitable liquids analysis. The investigator may submit comparison samples to assist with identification and/or interpretation of any ignitable liquids identified in such types of debris. Some ignitable liquids, such as turpentine and styrene, may naturally originate from materials present in the debris, and will therefore not routinely be reported. Unless requested by the investigator or otherwise stated in the report, no attempt is made to specifically identify the debris in submitted items.
+Glossary
+
+Comparison Sample: A sample of the same material/debris selected for ignitable liquid analysis that is not suspected to contain any ignitable liquid.
+
+Control Sample: Material obtained directly from an uncontaminated source, such as a manufacturer or retail store.
+
+Debris: Materials collected at a fire scene. These materials may include carpet, underlay, concrete, wood, fabric, newspaper, cardboard, plastics, tile, plaster and liquids.
+
+Flash point: The lowest temperature at which an ignitable liquid produces sufficient vapours to support a momentary flame.
+
+Hydrocarbon gases: Petroleum products that are ignitable gases at normal temperatures and pressures. This includes natural gas, propane and butane. Propane and butane can be stored under pressure as liquefied petroleum gases.
+
+Ignitable liquid: Any liquid that is capable of fueling a fire.
+
+Petroleum products: A wide range of products derived from the processing of crude petroleum oil. The most commonly encountered can be classified as one of the following:
+
+    Gasoline – Includes all brands and grades of gasoline
+    Light petroleum distillates – Includes camping fuel and pocket lighter fuel
+    Medium petroleum distillates – Includes mineral spirits, some paint thinners, some charcoal starter fluids and some products marketed as kerosene
+    Heavy petroleum distillates – Includes fuel oil, diesel fuel and some products marketed as kerosene
+    Isoparaffinic, Aromatic, Naphthenic-Paraffinic, and Normal Alkane products – Includes lamp oils, fuel additives, adhesives, cleaning products, paint thinners, and charcoal starter fluids.
+
+Vapour: A gas produced by the evaporation of a liquid that may mix with air or other gases.

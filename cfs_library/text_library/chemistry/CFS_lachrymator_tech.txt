@@ -1,0 +1,27 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Chemistry - Lachrymator Analysis Information
+
+Introduction
+
+Lachrymators such as pepper spray, nonivamide, tear gas and mace are chemical substances that induce watering and involuntary closure of the eyes, and may also cause coughing and burning/redness of the skin. A lachrymator dispenser typically contains lachrymator, solvent and propellant (pressurized gas). When a lachrymator dispenser is activated, a spray or stream of liquid containing the lachrymator is ejected.
+Examination and interpretation
+
+Lachrymator examination involves chemical analysis of the contents from an aerosol dispenser or the identification of lachrymator(s) from staining on clothing or other items.
+
+The functionality of a dispenser is evaluated by depressing the trigger to determine if it is operational. The aerosol dispenser may be non-operational if any part of it is damaged, or if the solvent or propellant used in the dispenser is spent. The contents of an aerosol dispenser are analyzed using Gas Chromatography-Mass Spectrometry ( GC-MS ). The concentration of the lachrymator in an aerosol dispenser is not determined.
+
+Items such as clothing or swabs are examined visually for staining. Most commercially available pepper sprays leave orange-brown stains, however some lachrymators are colourless and therefore leave no visible staining. Suspected lachrymator staining is extracted using a solvent and the extracts are analyzed using GC-MS to identify any lachrymator present. It may also be possible to identify the lachrymator dispenser solvent ( e.g. butoxyethoxyethanol).
+Glossary
+
+Operational Lachrymator Dispenser: is any device capable of forcibly dispensing a lachrymator.
+
+Capsaicin ( CAP ) and Dihydrocapsaicin ( DHC ): lachrymator components of pepper spray. CAP and DHC are usually derived typically come from oleoresin capsicum, an extract of hot peppers. Condiment hot-sauces such as Tabasco may also contain CAP and DHC as minor ingredients.
+
+Chloroacetophenone: the lachrymator commonly referred to as mace.
+
+Nonivamide: the lachrymator also referred to as ‘synthetic capsaicin’ or N-vanillylnonamide.
+
+Ortho-chlorobenzalmalononitrile ( CS ): the lachrymator commonly referred to as tear gas. CS may also be referred to as ortho-chlorobenzylidenemalononitrile.
+
+Gas Chromatography-Mass Spectrometry: Gas chromatography is a technique used to separate the components of a mixture. Mass spectrometry is used to identify the components.

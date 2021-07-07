@@ -1,0 +1,290 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    - yeah
+    - perfect
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+    - that doesn't help
+    - i don't think so
+    - nope
+
+- intent: no_more_help
+  examples: |
+    - that's it, thanks!
+    - I don't need any more help
+    - that's it for me today
+    - nothing else
+    - thanks for your help
+
+- intent: thank
+  examples: |
+    - thank you!
+    - thanks
+    - ty
+    - Ty!
+    - ok thanks
+    - tyvm
+    - Thank you very much!
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: search_library
+  examples: |
+    - What is STRmix?
+    - What is probabilistic genotyping?
+    - How do I interpret DNA mixtures?
+    - What factors influence mixture interpretation test results?
+    - Which contributions to the DNA profiling result are potential by-products of the testing process itself, also known as artefacts? 
+    - How many different alleles are detected within the profile at each test site?
+    - What are the quantities of each allele observed in the mixture?
+    - hat is the overall quality of the DNA in the sample tested?
+    - What does STRmix do?
+    - How does STRmix work?
+    - How does probabilistic genotyping work?
+    - What is the scientist's role in STRmix?
+    - What is the likelihood ratio?
+    - What does LR stand for?
+    - When should LR be employed?
+    - When should the likelihood ratio be employed?
+    - How is LR defined?
+    - What are the applications of STRmix?
+    - What are the limitations of STRmix?
+    - Where can I find further information about STRmix?
+    - Who should I contact to learn more about STRmix?
+    - Can you tell me about STRmix?
+    - tell me a bit about strmix
+    - what's strmix
+    - how do i use strmix
+    - when should i use strix
+    - how do I do probabilistic genotyping
+    - how do I submit a biology report
+    - what is the purpose of examination in a biology report
+    - What is the Purpose of Examination?
+    - what should i write for purpose of examination?
+    - when should i write cannot be excluded?
+    - when should i write excluded?
+    - random match probability
+    - dna profile
+    - tell me about dna profile
+    - tell me about likelihood ratio
+    - likelihood ratio
+    - testing summary
+    - biology report conclusions
+    - biology report testing summary
+    - cfs item numbers
+    - how are CFS item numbers generated?
+    - bodily fluid screening results
+    - bodily fluid screening tests
+    - bodily fluid reported statement
+    - bodily fluid detected
+    - bodily fluid suggested
+    - bodily fluid inconclusive
+    - bodily fluid not detected
+    - how do I screen blood
+    - how do I screen semen
+    - how to fill in results for saliva
+    - when should i write detected for blood
+    - when should i write inconclusive biology report
+    - when should i write not detected semen report
+    - visible blood staining 
+    - Kastle-Meyer test
+    - phosphatase test
+    - positive p30 
+    - Phadebas press test
+    - positive phadebas press test result
+    - negative phadebas press test
+    - sexual assault examination kits
+    - dna test reesult
+    - dna profile suitable for comparison?
+    - number of contributors dna test results
+    - mixed dna profile
+    - naming unknown dna profiles
+    - str profile 
+    - STR profile
+    - dna testing limitations
+    - bodily fluid screening limitations
+    - eligible dna data bank uploads
+    - data bank hit
+    - coi hit
+    - dna warrant
+    - deletion of dna profiles
+    - KM test
+    - ABAcard HemaTrace test
+    - dna test methods
+    - p30 test
+    - microscopy
+    - differential dna extraction
+    - dna typing methods
+    - tell me about dna typing methods
+    - tell me about identifiler plus str system
+    - Identifiler Plus STR System
+    - powerplex y23
+    - PowerPlex Y23 Y- STR System
+    - how do I test for blood?
+    - tell me about phenolphthalin test
+    - kastle-meyer test
+    - tell me about abacard hematrace test
+    - limitations of blood tests
+    - limitations of semen tests
+    - how do I test for semen?
+    - limitations of acid phosphatase test
+    - ap test
+    - p30 test
+    - psa test
+    - limitations of PSA test
+    - limitations of p30 test
+    - microscopic examination semen
+    - enrichment of male dna in sperm fraction
+    - limitations of enrichment of male dna in sperm fraction
+    - saek processing
+    - SAEK
+    - sexual assault processing
+    - sexual assault examination kit processing
+    - saliva testing
+    - how do i test hairs
+    - how do i test saliva
+    - is amylase water-soluble?
+    - phadebas test
+    - limitations of phadebas press test
+    - vis+/km+
+    - vis/km/aba
+    - VIS+ / KM+ / ABA-
+    - AP + / p30+
+    - ap/p30/dna
+    - ap/p30/micro
+    - phad+ less than 5
+    - phad+ greater than 5
+    - phad-
+    - interpol search of dna profile
+    - national dna data bank 
+    - CODIS
+    - suitable for comparison dna profile
+    - national crime scene index 
+    - csi
+    - how to use CSI
+    - cfs local indices
+    - deceased index
+    - UHR index
+    - missing person index
+    - dna profiles from recovered remains
+    - quality assurance index
+    - keyboard search requests
+    - missing persons search request
+    - DRS
+    - direct reference samples
+    - CODIS
+    - deletion of dna profiles
+    - communication of databank hits
+    - confirming coi hits
+    - adventitious hits
+    - random match probability of dna profile
+    - Y-str testing
+    - touch testing
+    - handler testing
+    - wearer testing
+    - sperm fraction
+    - what are the stages of dna analysis?
+    - quantification dna analysis
+    - interpretation dna analysis
+    - amplification dna analysis
+    - statistical dna analysis
+    - y-str dna analysis
+    - interpretation of dna mixtures
+    - limitations of dna analysis
+    - allele
+    - amelogenin
+    - autosomal str analysis
+    - CODIS
+    - differential extraction
+    - epithelial fraction
+    - genotype
+    - haplotype
+    - multiplex systems
+    - not suitable for comparison
+    - population databases

@@ -1,0 +1,43 @@
+Centre of Forensic Sciences
+Technical Information Sheets
+Firearms and Toolmarks - Trajectory Analysis 
+
+Introduction
+
+Trajectory describes the curved path of the projectile from the muzzle to the target surface, however for examinations conducted at the laboratory, the trajectory may only reflect the travel of the projectile through the examined target surface. Trajectory involves determining a projectile’s directionality and may include measuring its angle of impact.
+
+Trajectory analysis is typically conducted at the laboratory however attendance at crime scenes may be required for those items that cannot be submitted to the Centre of Forensic Sciences.
+
+Changes to the target surface during the shooting or by the investigating agency subsequent to the shooting (opened/closed doors or windows, changes in car seat position, sun visor, steering wheel, tires, etc.) as well as the presence of intermediate targets could affect the interpretation of the trajectory analysis results. Additionally conclusions may include multiple possible scenarios.
+
+Target surfaces will not be accepted for the purpose of trajectory analysis where the projectile impact sites have been permanently damaged/altered by the investigating agency prior to submission to the laboratory (e.g. components of a vehicle are disassembled in order to retrieve the projectile).
+Examination
+
+A trajectory analysis includes some or all of the following:
+
+    Inspection of the target surface for projectile damage
+    Identify entrance versus exit
+    Identify corresponding (i.e. secondary) impact sites
+    Determine the directionality of the projectile path (front to back, right to left, etc.).
+    Measure vertical and horizontal angles of impact
+
+Conclusions
+
+The conclusions in the report will include where possible, the directionality of the projectile (front to back, right to left, etc.). Examples of possible conclusions include:
+
+    The defect located on the forward, passenger side of the hood was caused by a bullet traveling from the front passenger side towards the driver side and in an upward direction.
+    The two defects on the bottom of the front driver’s side window frame are not suitable for trajectory analysis.
+
+Glossary
+
+Intermediate target: The passage of a projectile(s) through an object before striking the primary target surface under examination
+
+Penetrate : To enter an object and stay in it
+
+Perforate : To pass all the way through an object
+
+Primary impact : The first impact made by the projectile
+
+Secondary /tertiary/ etc impact : The second, third etc impacts of a projectile after the first impact
+
+Trajectory: The curved path of the projectile from the muzzle to the target surface
