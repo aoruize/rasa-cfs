@@ -3,20 +3,21 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-- search_library
-- greet
-- goodbye
-- affirm
 - deny
+- search_library
+- affirm
 - no_more_help
+- greet
 - request_help
-- thank
+- goodbye
+- thank_you
 - mood_great
 - mood_unhappy
 - bot_challenge
+- request_human
 responses:
   utter_greet:
-  - text: Hey! How can I help you?
+  - text: Hello! How can I help you? 😊
   utter_ask_howcanhelp:
   - text: How can I help you?
   utter_ask_howelsecanhelp:
@@ -27,14 +28,24 @@ responses:
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
-  - text: Great!
+  - text: Great! 😄
+  utter_sorry:
+  - text: Sorry, my bad.
+  utter_specify_further:
+  - text: Could you please rephrase your query? It helps to elaborate and be specific! 🙂
   utter_speak_to_human:
   - text: Would you like to speak to a human assistant?
   utter_goodbye:
-  - text: Alright, thank you for your time. Have a great day!
+  - text: Alright, thank you for your time. Have a great day! 😊
   utter_iamabot:
-  - text: I am a bot, powered by Rasa.
+  - text: I am a bot, powered by Rasa. 🤖
+  utter_request_human:
+  - text: You have requested a human. We are working on that functionality and it will be available soon!
 actions:
 - action_search_library
+- utter_ask_howelsecanhelp
 - utter_did_that_help
-- utter_greet
+- utter_goodbye
+- utter_happy
+- utter_sorry
+- utter_specify_further

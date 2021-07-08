@@ -6,6 +6,7 @@
 
 
 # This is a simple example for a custom action which utters "Hello World!"
+from re import X
 from typing import Any, Text, Dict, List
 
 from rasa_sdk import Action, Tracker
@@ -36,15 +37,24 @@ class ActionSearchLibrary(Action):
     
         dispatcher.utter_message(text=searchingMessage)
 
-        # Send semantic search query to OpenAI API using Babbage engine
-        response = openai.Engine("babbage").search(
+        # Send semantic search query to OpenAI API using Babbage engine.
+        # Returns up to the max_rerank number of documents, along with their search scores.
+        # Read more on the API documentation: https://beta.openai.com/docs/api-reference/searches
+        apiResponse = openai.Engine("babbage").search(
             search_model="babbage", 
             query=inputQuestion, 
             max_rerank=5,
             file="file-THEa0jeIEul23nFUj1L8nlVu" # https://api.openai.com/v1/files
         )
 
-        return_message = "This is what I found:\n" + str(response)
+        # Sort the responses by their search scores in descending order
+        sortedResponse = sorted(apiResponse["data"], key=lambda x: x["score"], reverse=True)
+        
+        # Set the bot's return message to the highest scoring response
+        return_message = "This is the best search result I found:\n" + sortedResponse[0]["text"]
+        
+        # Bot sends the return message 
         dispatcher.utter_message(text=return_message)
 
+        # Returns ActionExecuted event to list of Events
         return [ActionExecuted("action_search_library", policy=None)]

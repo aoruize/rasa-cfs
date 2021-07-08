@@ -17,3 +17,14 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule: Search CFS library anytime the user sends a message with intent `search_library`
+  steps:
+  - intent: search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+
+- rule: Request a human anytime the user requests a human
+  steps:
+  - intent: request_human
+  - action: utter_request_human
