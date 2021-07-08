@@ -2,7 +2,7 @@ version: "2.0"
 
 stories:
 
-- story: search library
+- story: search_library
   steps:
   - intent: search_library
   - action: action_search_library
@@ -12,55 +12,13 @@ stories:
   - action: utter_ask_howelsecanhelp
   - intent: no_more_help
   - action: utter_goodbye
-  
-- story: interactive_story_1
-  steps:
-  - intent: search_library
-  - action: action_search_library
-  - action: utter_did_that_help
 
-- story: interactive_story_1
+- story: search_library_didnt_help
   steps:
   - intent: search_library
   - action: action_search_library
   - action: utter_did_that_help
-
-- story: interactive_story_1
-  steps:
-  - intent: search_library
-  - action: action_search_library
-  - action: utter_did_that_help
-
-- story: interactive_story_1
-  steps:
-  - intent: search_library
-  - action: action_search_library
-  - action: utter_did_that_help
-
-- story: interactive_story_1
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: search_library
-  - action: action_search_library
-  - action: utter_did_that_help
-
-- story: interactive_story_1
-  steps:
-  - intent: search_library
-  - action: action_search_library
-  - action: utter_did_that_help
-
-- story: interactive_story_1
-  steps:
-  - intent: search_library
-  - action: action_search_library
-  - action: action_search_library
-  - action: utter_did_that_help
-
-- story: interactive_story_1
-  steps:
-  - intent: search_library
-  - action: action_search_library
-  - action: action_search_library
-  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_speak_to_human
+  - intent: affirm
+  - action: utter_goodbye

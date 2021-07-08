@@ -25,6 +25,8 @@ responses:
   - text: Did that help you?
   utter_happy:
   - text: Great!
+  utter_speak_to_human:
+  - text: Would you like to speak to a human assistant?
   utter_goodbye:
   - text: Alright, thank you for your time. Have a great day!
   utter_iamabot:
