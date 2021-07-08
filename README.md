@@ -35,7 +35,8 @@
 
     rasa run actions
 
-### 7. Install Rasa X (https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script):
+### 7. Install Rasa X 
+Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script
 
     curl -s get-rasa-x.rasa.com | sudo bash
     
