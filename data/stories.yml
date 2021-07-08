@@ -4,8 +4,6 @@ stories:
 
 - story: search library
   steps:
-  - intent: greet
-  - action: utter_ask_howcanhelp
   - intent: search_library
   - action: action_search_library
   - action: utter_did_that_help
@@ -15,3 +13,17 @@ stories:
   - intent: no_more_help
   - action: utter_goodbye
 
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: interactive_story_1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: greet
+  - action: utter_greet
+  - intent: search_library
+  - action: action_search_library

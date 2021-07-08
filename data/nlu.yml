@@ -1,5 +1,4 @@
 version: "2.0"
-
 nlu:
 - intent: greet
   examples: |
@@ -16,7 +15,6 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
-
 - intent: goodbye
   examples: |
     - good afternoon
@@ -30,7 +28,6 @@ nlu:
     - see you around
     - bye bye
     - see you later
-
 - intent: affirm
   examples: |
     - yes
@@ -41,7 +38,6 @@ nlu:
     - correct
     - yeah
     - perfect
-
 - intent: deny
   examples: |
     - no
@@ -54,7 +50,6 @@ nlu:
     - that doesn't help
     - i don't think so
     - nope
-
 - intent: no_more_help
   examples: |
     - that's it, thanks!
@@ -62,7 +57,6 @@ nlu:
     - that's it for me today
     - nothing else
     - thanks for your help
-
 - intent: thank
   examples: |
     - thank you!
@@ -72,7 +66,6 @@ nlu:
     - ok thanks
     - tyvm
     - Thank you very much!
-
 - intent: mood_great
   examples: |
     - perfect
@@ -89,7 +82,6 @@ nlu:
     - so so perfect
     - so good
     - so perfect
-
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -106,21 +98,19 @@ nlu:
     - extremly sad
     - so saad
     - so sad
-
 - intent: bot_challenge
   examples: |
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
-
 - intent: search_library
   examples: |
     - What is STRmix?
     - What is probabilistic genotyping?
     - How do I interpret DNA mixtures?
     - What factors influence mixture interpretation test results?
-    - Which contributions to the DNA profiling result are potential by-products of the testing process itself, also known as artefacts? 
+    - Which contributions to the DNA profiling result are potential by-products of the testing process itself, also known as artefacts?
     - How many different alleles are detected within the profile at each test site?
     - What are the quantities of each allele observed in the mixture?
     - hat is the overall quality of the DNA in the sample tested?
@@ -172,10 +162,10 @@ nlu:
     - when should i write detected for blood
     - when should i write inconclusive biology report
     - when should i write not detected semen report
-    - visible blood staining 
+    - visible blood staining
     - Kastle-Meyer test
     - phosphatase test
-    - positive p30 
+    - positive p30
     - Phadebas press test
     - positive phadebas press test result
     - negative phadebas press test
@@ -185,7 +175,7 @@ nlu:
     - number of contributors dna test results
     - mixed dna profile
     - naming unknown dna profiles
-    - str profile 
+    - str profile
     - STR profile
     - dna testing limitations
     - bodily fluid screening limitations
@@ -215,7 +205,6 @@ nlu:
     - how do I test for semen?
     - limitations of acid phosphatase test
     - ap test
-    - p30 test
     - psa test
     - limitations of PSA test
     - limitations of p30 test
@@ -242,10 +231,10 @@ nlu:
     - phad+ greater than 5
     - phad-
     - interpol search of dna profile
-    - national dna data bank 
+    - national dna data bank
     - CODIS
     - suitable for comparison dna profile
-    - national crime scene index 
+    - national crime scene index
     - csi
     - how to use CSI
     - cfs local indices
@@ -258,8 +247,6 @@ nlu:
     - missing persons search request
     - DRS
     - direct reference samples
-    - CODIS
-    - deletion of dna profiles
     - communication of databank hits
     - confirming coi hits
     - adventitious hits
@@ -280,7 +267,6 @@ nlu:
     - allele
     - amelogenin
     - autosomal str analysis
-    - CODIS
     - differential extraction
     - epithelial fraction
     - genotype
@@ -288,3 +274,4 @@ nlu:
     - multiplex systems
     - not suitable for comparison
     - population databases
+    - dna databank

@@ -22,3 +22,4 @@ rules:
   steps:
   - intent: search_library
   - action: action_search_library
+  - action: utter_did_that_help

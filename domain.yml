@@ -1,46 +1,34 @@
-version: "2.0"
-
-intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - no_more_help
-  - thank
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
-  - search_library
-
-responses:
-  utter_greet:
-  - text: "Hey! How are you?"
-
-  utter_ask_howcanhelp:
-  - text: "How can I help you?"
-  
-  utter_ask_howelsecanhelp:
-  - text: "How else can I help you?"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great!"
-
-  utter_goodbye:
-  - text: "Alright, thank you for your time. Have a great day!"
-
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
-
-actions:
-  - action_search_library
-
+version: '2.0'
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
+intents:
+- greet
+- search_library
+- goodbye
+- affirm
+- deny
+- no_more_help
+- thank
+- mood_great
+- mood_unhappy
+- bot_challenge
+responses:
+  utter_greet:
+  - text: Hey! How can I help you?
+  utter_ask_howelsecanhelp:
+  - text: How else can I help you?
+  utter_cheer_up:
+  - text: 'Here is something to cheer you up:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great!
+  utter_goodbye:
+  - text: Alright, thank you for your time. Have a great day!
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+actions:
+- action_search_library
+- utter_greet
