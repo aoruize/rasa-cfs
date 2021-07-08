@@ -33,7 +33,7 @@ An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mc
 
 Ensure you have access to the OpenAI Beta API. Login to OpenAI and copy your API key from https://beta.openai.com/docs/developer-quickstart/your-api-keys. 
 
-To temporarily add the environment variable, run the following command in the terminal: 
+To temporarily add the environment variable, run the following command in the terminal, using your own API key: 
 
     export OPENAI_API_KEY='sk-...'
 
