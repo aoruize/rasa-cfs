@@ -33,7 +33,15 @@ An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mc
 
 Ensure you have access to the OpenAI Beta API. Login to OpenAI and copy your API key from https://beta.openai.com/docs/developer-quickstart/your-api-keys. 
 
+To temporarily add the environment variable, run the following command in the terminal: 
+
     export OPENAI_API_KEY='sk-...'
+
+To add the environment variable to the operating system permanently, add it to your shell configuration files. Add the above command to the end of the following files:
+
+    ~/.bashrc
+    ~/.profile
+
 
 ### 6. Run Rasa Action Server 
 

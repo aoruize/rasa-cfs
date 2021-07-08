@@ -16,6 +16,8 @@ intents:
 responses:
   utter_greet:
   - text: Hey! How can I help you?
+  utter_ask_howcanhelp:
+  - text: How can I help you?
   utter_ask_howelsecanhelp:
   - text: How else can I help you?
   utter_cheer_up:
