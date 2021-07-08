@@ -12,18 +12,48 @@ stories:
   - action: utter_ask_howelsecanhelp
   - intent: no_more_help
   - action: utter_goodbye
-
+  
+- story: interactive_story_1
+  steps:
+  - intent: search_library
+  - action: action_search_library
+  - action: utter_did_that_help
 
 - story: interactive_story_1
   steps:
-  - intent: greet
-  - action: utter_greet
+  - intent: search_library
+  - action: action_search_library
+  - action: utter_did_that_help
 
 - story: interactive_story_1
   steps:
-  - intent: greet
-  - action: utter_greet
+  - intent: search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+
+- story: interactive_story_1
+  steps:
+  - intent: search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+
+- story: interactive_story_1
+  steps:
   - intent: greet
   - action: utter_greet
   - intent: search_library
   - action: action_search_library
+  - action: utter_did_that_help
+
+- story: interactive_story_1
+  steps:
+  - intent: search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+
+- story: interactive_story_1
+  steps:
+  - intent: search_library
+  - action: action_search_library
+  - action: action_search_library
+  - action: utter_did_that_help

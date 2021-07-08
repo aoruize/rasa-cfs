@@ -31,24 +31,20 @@ class ActionSearchLibrary(Action):
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
         # Get user's message
-        inputQuestion = tracker.latest_message.text
+        inputQuestion = tracker.latest_message.get("text")
+        searchingMessage = "Searching through CFS Library for " + inputQuestion + "..."
     
-        dispatcher.utter_message(text="Searching through CFS Library...")
+        dispatcher.utter_message(text=searchingMessage)
 
-        try:
-            # Send semantic search query to OpenAI API using Babbage engine
-            response = openai.Engine("babbage").search(
-                search_model="babbage", 
-                query=inputQuestion, 
-                max_rerank=5,
-                file="file-THEa0jeIEul23nFUj1L8nlVu" # https://api.openai.com/v1/files
-            )
+        # Send semantic search query to OpenAI API using Babbage engine
+        response = openai.Engine("babbage").search(
+            search_model="babbage", 
+            query=inputQuestion, 
+            max_rerank=5,
+            file="file-THEa0jeIEul23nFUj1L8nlVu" # https://api.openai.com/v1/files
+        )
 
-            return_message = "This is what I found:\n" + response
-            dispatcher.utter_message(text=return_message)
+        return_message = "This is what I found:\n" + response
+        dispatcher.utter_message(text=return_message)
 
-        except:
-            dispatcher.utter_message("There was an error in requesting the OpenAI search, as the CFS file is being processed.")
-
-        
         return [ActionExecuted("action_search_library", policy=None)]

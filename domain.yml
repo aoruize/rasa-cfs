@@ -3,8 +3,8 @@ session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-- greet
 - search_library
+- greet
 - goodbye
 - affirm
 - deny
@@ -31,4 +31,5 @@ responses:
   - text: I am a bot, powered by Rasa.
 actions:
 - action_search_library
+- utter_did_that_help
 - utter_greet
