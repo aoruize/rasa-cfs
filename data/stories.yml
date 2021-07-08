@@ -6,7 +6,12 @@ stories:
   steps:
   - intent: request_help
   - action: utter_ask_howcanhelp
-  
+
+- story: ask_did_that_help
+  steps:
+  - action: action_search_library
+  - action: utter_did_that_help
+
 - story: that_helped
   steps:
   - action: utter_did_that_help
@@ -62,13 +67,11 @@ stories:
   steps:
   - intent: search_library
   - action: action_search_library
-  - action: action_search_library
   - action: utter_did_that_help
   - intent: deny
   - action: utter_sorry
   - action: utter_specify_further
   - intent: search_library
-  - action: action_search_library
   - action: action_search_library
   - action: utter_did_that_help
   - intent: affirm
