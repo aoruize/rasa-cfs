@@ -9,6 +9,7 @@ intents:
 - affirm
 - deny
 - no_more_help
+- request_help
 - thank
 - mood_great
 - mood_unhappy
