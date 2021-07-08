@@ -1,6 +1,6 @@
 # Rasa CFS Virtual Assistant
 
-An AI chatbot for the Ontario Centre of Forensic Sciences (CFS), developed using Rasa and OpenAI. Answers forensics investigators' questions by performing semantic search across a large library of CFS technical documents to find the most relevant search results.
+An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mcscs.jus.gov.on.ca/english/centre_forensic/CFS_intro.html), developed using Rasa and OpenAI. Answers forensics investigators' questions by performing semantic search across a large library of [CFS technical documents](https://www.mcscs.jus.gov.on.ca/english/centre_forensic/InformationforInvestigatorsSubmitters/TechnicalInformationSheets/CFS_tech_sheets.html) to find the most relevant search results.
 
 ## Setup Instructions
 
@@ -20,24 +20,24 @@ An AI chatbot for the Ontario Centre of Forensic Sciences (CFS), developed using
     cd /path/to/new/virtual/environment
     source ./bin/activate
 
-### 3. Clone repository
+### 3. Clone this repository into virtual environment
     
     git clone https://github.com/aoruize/rasa-cfs.git
 
-### 4. Install Python dependencies
+### 4. Install dependencies
 
     cd rasa-cfs
     pip install -r requirements.txt
 
-### 5. Add OpenAI API key to OS as environment variable 
+### 5. Add OpenAI API key to operating system as an environment variable 
 
     export OPENAI_API_KEY='sk-...'
 
-### 6. Run Action Server 
+### 6. Run Rasa Action Server 
 
     rasa run actions
 
-### 7. Install Rasa X 
+### 7. Install and run Rasa X 
 Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script
 
     curl -s get-rasa-x.rasa.com | sudo bash
