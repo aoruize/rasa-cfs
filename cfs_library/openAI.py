@@ -37,7 +37,7 @@ def apiScore(inputQuestion):
     response = openai.Engine("babbage").search(
         search_model="babbage", 
         query=inputQuestion, 
-        max_rerank=5,
+        max_rerank=50,
         file="file-THEa0jeIEul23nFUj1L8nlVu"
     )
 
@@ -52,6 +52,6 @@ def apiScore(inputQuestion):
 
 # Get response 
 question = "What are the different DNA typing methods?"
-answer = apiScore(question)
+answers = apiScore(question)
 
-print(answer)
+print(answers)
