@@ -57,3 +57,10 @@ stories:
   - action: action_search_library
   - action: action_search_library
   - action: utter_did_that_help
+
+- story: interactive_story_1
+  steps:
+  - intent: search_library
+  - action: action_search_library
+  - action: action_search_library
+  - action: utter_did_that_help

@@ -44,7 +44,7 @@ class ActionSearchLibrary(Action):
             file="file-THEa0jeIEul23nFUj1L8nlVu" # https://api.openai.com/v1/files
         )
 
-        return_message = "This is what I found:\n" + response
+        return_message = "This is what I found:\n" + str(response)
         dispatcher.utter_message(text=return_message)
 
         return [ActionExecuted("action_search_library", policy=None)]
