@@ -1,5 +1,7 @@
 # Rasa CFS Virtual Assistant
 
+An AI chatbot for the Ontario Centre of Forensic Sciences (CFS), developed using Rasa and OpenAI. Answers forensics investigators' questions by performing semantic search across a large library of CFS technical documents to find the most relevant search results.
+
 ## Setup Instructions
 
 ### 1. Environment requirements
