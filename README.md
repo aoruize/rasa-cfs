@@ -31,6 +31,8 @@ An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mc
 
 ### 5. Add OpenAI API key to operating system as an environment variable 
 
+Ensure you have access to the OpenAI Beta API. Login to OpenAI and copy your API key from https://beta.openai.com/docs/developer-quickstart/your-api-keys. 
+
     export OPENAI_API_KEY='sk-...'
 
 ### 6. Run Rasa Action Server 
