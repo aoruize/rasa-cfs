@@ -16,8 +16,8 @@ An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mc
 
 ### 2. Create and activate virtual environment
 
-    python3 -m venv /path/to/new/virtual/environment
-    cd /path/to/new/virtual/environment
+    python3 -m venv rasa-cfs-env
+    cd rasa-cfs-env
     source ./bin/activate
 
 ### 3. Clone this repository into virtual environment
