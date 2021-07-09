@@ -17,6 +17,7 @@ nlu:
     - good afternoon
     - help
     - hi!
+    - ahoy
 - intent: goodbye
   examples: |
     - good afternoon
@@ -55,6 +56,7 @@ nlu:
     - that doesn't help
     - i don't think so
     - nope
+    - eh
 - intent: request_help
   examples: |
     - help

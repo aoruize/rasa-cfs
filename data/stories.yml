@@ -102,3 +102,23 @@ stories:
   - intent: mood_great
   - action: utter_happy
   - action: utter_ask_howcanhelp
+- story: Story from Conversation ID 0c1b9a85f6a9436681f73e97f3fe2951
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: search_library
+  - action: action_search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_sorry
+  - action: utter_specify_further
+  - intent: search_library
+  - action: action_search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_sorry
+  - action: utter_specify_further
+  - intent: goodbye
+  - action: utter_goodbye
