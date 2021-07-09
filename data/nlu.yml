@@ -355,3 +355,4 @@ nlu:
 - intent: confused
   examples: |
     - WTF
+    - WHY

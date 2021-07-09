@@ -165,3 +165,7 @@ stories:
   - intent: insult
   - action: utter_sorry
   - action: utter_request_feedback
+- story: Story from Conversation ID 5d4fa025ffa14dfb894be2a79da060b0
+  steps:
+  - intent: confused
+  - action: utter_ask_howcanhelp
