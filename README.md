@@ -85,6 +85,8 @@ Navigate to the hostname or IP where your server is reachable and log in using y
 
 Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-compose
 
+### 8. Connect Custom Action Server
+
 
 ## Rasa Documentation
 
