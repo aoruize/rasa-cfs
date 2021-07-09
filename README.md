@@ -75,7 +75,11 @@ Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-c
 
 ### 8. Connect Custom Action Server
 
-1. If you don’t yet have an image for your custom action server, follow the instructions in [Building an Action Server Image](https://rasa.com/docs/rasa/how-to-deploy/#building-an-action-server-image) to build your image and push it to a container registry.
+1. This repository is set up with a GitHub Actions workflow, so that whenever a change is pushed to the `actions` directory, a new Docker image for the Custom Action Server will be built and pushed to a container registry.
+
+To specify which container registry and image name, open `.github/workflows/action_server.yml` and change `docker_image_name:` to your desired Docker registry and image name. 
+
+Also, follow the instructions in [Building an Action Server Image](https://rasa.com/docs/rasa/how-to-deploy/#building-an-action-server-image) to specify your `docker_registry_login: ` and `docker_registry_password: `. 
 
 2. Add OpenAI API key environment variable to .env file:
 
