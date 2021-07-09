@@ -77,16 +77,30 @@ Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-c
 
 1. If you don’t yet have an image for your custom action server, follow the instructions in [Building an Action Server Image](https://rasa.com/docs/rasa/how-to-deploy/#building-an-action-server-image) to build your image and push it to a container registry.
 
-2. Replace the default `app` image with the image of your custom action server:
+2. Add OpenAI API key environment variable to .env file:
+
+        cd /etc/rasa
+        vim .env
+    
+    Add your API key to the bottom of the file:
+
+        OPENAI_API_KEY=sk-...
+
+3. Replace the default `app` image with the image of your custom action server:
 
     To avoid your changes in the docker-compose file being overwritten when you update versions, you should not apply your changes to `docker-compose.yml`. Instead, create a new file called `docker-compose.override.yml` inside your `/etc/rasa` directory and apply your changes there. Docker will automatically take that file into account and override any attributes in `docker-compose.yml` with changes from the override file.
 
-    The contents of `docker-compose.override.yml` might look like this:
+    The contents of `docker-compose.override.yml` should look like this:
 
         version: '3.4'
         services:
             app:
+                restart: always
                 image: <image:tag>
+                expose:
+                    - "5055"
+                environment:
+                    OPENAI_API_KEY: "${OPENAI_API_KEY}"
 
 3. If your Docker containers are already running, take them down and then start Rasa X again:
 
