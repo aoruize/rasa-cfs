@@ -16,24 +16,20 @@ An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mc
 - `docker`
 - `docker-compose`
 
-
 ### 2. Create and activate virtual environment
 
     python3 -m venv ~/rasa-cfs-env
     cd ~/rasa-cfs-env
     source ./bin/activate
 
-
 ### 3. Clone this repository into virtual environment
     
     git clone https://github.com/aoruize/rasa-cfs.git
-
 
 ### 4. Install dependencies
 
     cd rasa-cfs
     pip install -r requirements.txt
-
 
 ### 5. Add OpenAI API key to operating system as an environment variable 
 
@@ -48,30 +44,25 @@ To add the environment variable to the operating system permanently, add it to y
     ~/.bashrc
     ~/.profile
 
-
 ### 6. Run Rasa Action Server 
 
     cd ~/rasa-cfs-env/rasa-cfs
     rasa run actions
-
 
 ### 7. Install and run Rasa X using Docker Compose
 
 1. Download
     
         curl -sSL -o install.sh https://storage.googleapis.com/rasa-x-releases/0.41.1/install.sh
-    
 
 2. Install all files into default folder, `/etc/rasa`:
 
         sudo bash ./install.sh 
 
-
 3. Start up Rasa X and wait until all containers are running (Using `-d` will run Rasa X in the background):
 
         cd /etc/rasa
         sudo docker-compose up -d
-
 
 4. Access and set admin password:
 
@@ -112,7 +103,6 @@ Rasa Open Source: https://rasa.com/docs/rasa/
 Rasa X: https://rasa.com/docs/rasa-x/
 
 Rasa Action Server: https://rasa.com/docs/action-server
-
 
 ## Next Steps
 
