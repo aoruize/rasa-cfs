@@ -169,3 +169,27 @@ stories:
   steps:
   - intent: confused
   - action: utter_ask_howcanhelp
+- story: Story from Conversation ID 532a14d0f05347228e27ec46a2b69e35
+  steps:
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
+  - intent: give_feedback
+  - action: utter_thank_you_for_feedback
+  - action: utter_ask_howelsecanhelp
+  - intent: goodbye
+  - action: utter_goodbye
+- story: Story from Conversation ID e5b15ccfa645480e8647b0ffc5c334fe
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: search_library
+  - action: action_search_library
+  - action: action_search_library
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+  - action: utter_ask_howelsecanhelp
+  - intent: give_feedback
+  - action: utter_thank_you_for_feedback
+  - action: utter_ask_howelsecanhelp

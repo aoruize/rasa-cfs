@@ -352,6 +352,8 @@ nlu:
 - intent: give_feedback
   examples: |
     - that wasn't what i wanted
+    - this and that
+    - can you improve on "this and that"
 - intent: confused
   examples: |
     - WTF
