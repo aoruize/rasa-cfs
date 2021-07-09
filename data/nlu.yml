@@ -348,6 +348,10 @@ nlu:
     - you are so stupid
     - I hate u
     - f u
+    - I hate u so much
 - intent: give_feedback
   examples: |
     - that wasn't what i wanted
+- intent: confused
+  examples: |
+    - WTF

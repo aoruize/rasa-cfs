@@ -156,3 +156,12 @@ stories:
   - intent: insult
   - action: utter_sorry
   - action: utter_request_feedback
+- story: Story from Conversation ID 2735c561afcc4e2b8163d475d927fe61
+  steps:
+  - intent: confused
+  - action: utter_ask_howcanhelp
+- story: Story from Conversation ID 91bba153ffd9418298405da0d86e312f
+  steps:
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
