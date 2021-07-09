@@ -46,12 +46,13 @@ To add the environment variable to the operating system permanently, add it to y
 
 ### 6. Run Rasa Action Server 
 
+    cd ~/rasa-cfs-env/rasa-cfs
     rasa run actions
 
 ### 7. Install and run Rasa X using Docker Compose
 
 Download:
-
+    
     curl -sSL -o install.sh https://storage.googleapis.com/rasa-x-releases/0.41.1/install.sh
     
 Install all files into default folder, `/etc/rasa`:
