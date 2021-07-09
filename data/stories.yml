@@ -77,3 +77,8 @@ stories:
   - intent: insult
   - action: utter_sorry
   - action: utter_request_feedback
+- story: Story from Conversation ID e50f71616f7643e8a93c30674f9d8bfb
+  steps:
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback

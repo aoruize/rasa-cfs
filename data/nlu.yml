@@ -337,3 +337,4 @@ nlu:
 - intent: insult
   examples: |
     - ur dumb
+    - you are so stupid
