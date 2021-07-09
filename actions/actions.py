@@ -43,7 +43,7 @@ class ActionSearchLibrary(Action):
         apiResponse = openai.Engine("babbage").search(
             search_model="babbage", 
             query=inputQuestion, 
-            max_rerank=50,
+            max_rerank=200,
             file="file-THEa0jeIEul23nFUj1L8nlVu" # https://api.openai.com/v1/files
         )
 
