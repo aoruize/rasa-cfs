@@ -13,12 +13,12 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import ActionExecuted
 
-#import os
+import os
 import openai
 
 # OpenAI authorization
 openai.organization = "org-MVRMhL527YpFJrqDkAP9ivu5"
-#openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class ActionSearchLibrary(Action):
 
@@ -33,9 +33,14 @@ class ActionSearchLibrary(Action):
         # Get user's message
         inputQuestion = tracker.latest_message.get("text")
         searchingMessage = "Searching through CFS Library for " + inputQuestion + "..."
-    
+
         dispatcher.utter_message(text=searchingMessage)
 
+        if "sk-" in openai.api_key:
+            dispatcher.utter_message(text="OpenAI Api key found")
+        else:
+            dispatcher.utter_message(text="ERROR no api key")
+        
         # Send semantic search query to OpenAI API using Babbage engine.
         # Returns up to the max_rerank number of documents, along with their search scores.
         # Read more on the API documentation: https://beta.openai.com/docs/api-reference/searches
