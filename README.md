@@ -11,7 +11,7 @@ An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mc
     - Debian 9 / 10
     - Red Hat 7 / 8
     - CentOS 7 / 8
-- Python 3.8
+- `Python 3.8`
 - `pip 21.1.3`
 - `docker`
 - `docker-compose`
