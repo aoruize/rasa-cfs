@@ -13,12 +13,12 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import ActionExecuted
 
-import os
-import openai
+#import os
+#import openai
 
 # OpenAI authorization
-openai.organization = "org-MVRMhL527YpFJrqDkAP9ivu5"
-openai.api_key = os.getenv("OPENAI_API_KEY")
+#openai.organization = "org-MVRMhL527YpFJrqDkAP9ivu5"
+#openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class ActionSearchLibrary(Action):
 
@@ -39,7 +39,7 @@ class ActionSearchLibrary(Action):
         # Send semantic search query to OpenAI API using Babbage engine.
         # Returns up to the max_rerank number of documents, along with their search scores.
         # Read more on the API documentation: https://beta.openai.com/docs/api-reference/searches
-        apiResponse = openai.Engine("babbage").search(
+        """ apiResponse = openai.Engine("babbage").search(
             search_model="babbage", 
             query=inputQuestion, 
             max_rerank=20,
@@ -54,6 +54,6 @@ class ActionSearchLibrary(Action):
         
         # Bot sends the return message 
         dispatcher.utter_message(text=return_message)
-
+ """
         # Returns ActionExecuted event to list of Events
         return [ActionExecuted("action_search_library", policy=None)]
