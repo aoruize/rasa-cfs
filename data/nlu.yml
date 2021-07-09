@@ -44,6 +44,7 @@ nlu:
     - yeah
     - perfect
     - ok
+    - yay!!
 - intent: deny
   examples: |
     - no
@@ -345,6 +346,8 @@ nlu:
   examples: |
     - ur dumb
     - you are so stupid
+    - I hate u
+    - f u
 - intent: give_feedback
   examples: |
     - that wasn't what i wanted

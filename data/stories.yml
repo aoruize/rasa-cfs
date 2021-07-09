@@ -132,3 +132,13 @@ stories:
   - intent: mood_great
   - action: utter_happy
   - action: utter_ask_howcanhelp
+- story: Story from Conversation ID 7201a50d66ff44e99d3d066659d95212
+  steps:
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
+- story: Story from Conversation ID 218dde73b39745a8b8697430aa4f340a
+  steps:
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
