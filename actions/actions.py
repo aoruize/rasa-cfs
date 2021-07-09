@@ -43,7 +43,7 @@ class ActionSearchLibrary(Action):
         apiResponse = openai.Engine("babbage").search(
             search_model="babbage", 
             query=inputQuestion, 
-            max_rerank=5,
+            max_rerank=50,
             file="file-THEa0jeIEul23nFUj1L8nlVu" # https://api.openai.com/v1/files
         )
 
@@ -51,7 +51,7 @@ class ActionSearchLibrary(Action):
         sortedResponse = sorted(apiResponse["data"], key=lambda x: x["score"], reverse=True)
         
         # Set the bot's return message to the highest scoring response
-        return_message = "This is the best search result I found:\n" + sortedResponse[0]["text"]
+        return_message = "Here's the most relevant result:\n\n" + sortedResponse[0]["text"]
         
         # Bot sends the return message 
         dispatcher.utter_message(text=return_message)
