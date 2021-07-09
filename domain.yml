@@ -1,20 +1,38 @@
 version: '2.0'
+config:
+  store_entities_as_slots: true
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
 intents:
-- deny
-- search_library
-- affirm
-- no_more_help
-- greet
-- request_help
-- goodbye
-- thank_you
-- mood_great
-- mood_unhappy
-- bot_challenge
-- request_human
+- deny:
+    use_entities: true
+- search_library:
+    use_entities: true
+- affirm:
+    use_entities: true
+- no_more_help:
+    use_entities: true
+- greet:
+    use_entities: true
+- request_help:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- thank_you:
+    use_entities: true
+- mood_great:
+    use_entities: true
+- mood_unhappy:
+    use_entities: true
+- bot_challenge:
+    use_entities: true
+- request_human:
+    use_entities: true
+- insult:
+    use_entities: true
+entities: []
+slots: {}
 responses:
   utter_greet:
   - text: Hello! How can I help you? 😊
@@ -23,8 +41,8 @@ responses:
   utter_ask_howelsecanhelp:
   - text: How else can I help you?
   utter_cheer_up:
-  - text: 'Here is something to cheer you up:'
-    image: https://i.imgur.com/nGF1K8f.jpg
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
@@ -41,6 +59,8 @@ responses:
   - text: I am a bot, powered by Rasa. 🤖
   utter_request_human:
   - text: You have requested a human. We are working on that functionality and it will be available soon!
+  utter_request_feedback:
+  - text: How can I improve?
 actions:
 - action_search_library
 - utter_ask_howelsecanhelp
@@ -49,3 +69,6 @@ actions:
 - utter_happy
 - utter_sorry
 - utter_specify_further
+- utter_request_feedback
+forms: {}
+e2e_actions: []

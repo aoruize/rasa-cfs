@@ -16,6 +16,7 @@ nlu:
     - goodevening
     - good afternoon
     - help
+    - hi!
 - intent: goodbye
   examples: |
     - good afternoon
@@ -29,6 +30,8 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - you too
+    - you too!
 - intent: affirm
   examples: |
     - yes
@@ -39,6 +42,7 @@ nlu:
     - correct
     - yeah
     - perfect
+    - ok
 - intent: deny
   examples: |
     - no
@@ -63,6 +67,7 @@ nlu:
     - halp
     - i need halp
     - help??
+    - helpp
 - intent: request_human
   examples: |
     - can I talk to a person
@@ -83,6 +88,7 @@ nlu:
     - no help needed
     - i dont need anymore help
     - no more
+    - thats it
 - intent: thank_you
   examples: |
     - thank you!
@@ -132,6 +138,7 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - r u human
 - intent: search_library
   examples: |
     - What is STRmix?
@@ -307,3 +314,26 @@ nlu:
     - dna databnk
     - submission
     - databank
+    - hair test
+    - how do i do a dna test
+    - new submissions
+    - submit DNA test
+    - dna test
+    - dna
+    - test for semen
+    - test for hair
+    - semen
+    - what is dna databank
+    - what is probabilistic genotyping
+    - how does strmix work
+    - what are the steps to using strmix
+    - what is strmix
+    - what is dna?
+    - gun
+    - phenolthaln
+    - how do i test for semen
+    - dna database
+    - database
+- intent: insult
+  examples: |
+    - ur dumb
