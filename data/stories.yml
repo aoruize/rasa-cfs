@@ -1,17 +1,13 @@
 version: "2.0"
-
 stories:
-
 - story: need_help
   steps:
   - intent: request_help
   - action: utter_ask_howcanhelp
-
 - story: ask_did_that_help
   steps:
   - action: action_search_library
   - action: utter_did_that_help
-
 - story: that_helped
   steps:
   - action: utter_did_that_help
@@ -20,7 +16,6 @@ stories:
     - intent: thank_you
   - action: utter_happy
   - action: utter_ask_howelsecanhelp
-  
 - story: specify_further
   steps:
   - action: utter_did_that_help
@@ -30,12 +25,11 @@ stories:
   - intent: search_library
   - action: action_search_library
   - action: utter_did_that_help
-  - or: 
+  - or:
     - intent: affirm
     - intent: thank_you
   - action: utter_happy
   - action: utter_ask_howelsecanhelp
-  
 - story: no_help_needed
   steps:
   - action: utter_ask_howcanhelp
@@ -48,7 +42,6 @@ stories:
     - intent: no_more_help
     - intent: thank_you
   - action: utter_goodbye
-
 - story: search_library_still_didnt_help
   steps:
   - action: utter_did_that_help
@@ -79,3 +72,8 @@ stories:
   - action: utter_ask_howelsecanhelp
   - intent: no_more_help
   - action: utter_goodbye
+- story: Story from Conversation ID 26b2adabc1bb45e1b2e2cc6c6b6642a5
+  steps:
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
