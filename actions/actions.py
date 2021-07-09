@@ -8,7 +8,6 @@
 # This is a simple example for a custom action which utters "Hello World!"
 from re import X
 from typing import Any, Text, Dict, List
-from threading import Timer
 
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
@@ -56,8 +55,7 @@ class ActionSearchLibrary(Action):
 
         # Send return messages to the user
         for returnMessage in returnMessages:
-            t = Timer(0.5, dispatcher.utter_message(text=returnMessage))
-            t.start() # after 0.5 seconds, the returnMessage will be sent
+            dispatcher.utter_message(text=returnMessage)
 
         # Returns ActionExecuted event to list of Events
         return [ActionExecuted("action_search_library", policy=None)]
