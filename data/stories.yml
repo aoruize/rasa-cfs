@@ -142,3 +142,17 @@ stories:
   - intent: insult
   - action: utter_sorry
   - action: utter_request_feedback
+- story: Story from Conversation ID 989369a1817b4e5ba8f723beacd4e1f2
+  steps:
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
+  - intent: insult
+  - action: utter_sorry
+  - action: utter_request_feedback
