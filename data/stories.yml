@@ -122,3 +122,13 @@ stories:
   - action: utter_specify_further
   - intent: goodbye
   - action: utter_goodbye
+- story: Story from Conversation ID 4d19e9ae37334eee9c6afe003d3e84a5
+  steps:
+  - intent: mood_great
+  - action: utter_happy
+  - action: utter_ask_howcanhelp
+- story: Story from Conversation ID 579daea9ea8b48fc87f6d89d987ce6bd
+  steps:
+  - intent: mood_great
+  - action: utter_happy
+  - action: utter_ask_howcanhelp

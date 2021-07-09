@@ -120,6 +120,8 @@ nlu:
     - so perfect
     - I'm so happy!
     - :D
+    - feelin awesome today
+    - woohoo!!
 - intent: mood_unhappy
   examples: |
     - my day was horrible
