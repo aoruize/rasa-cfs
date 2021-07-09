@@ -14,10 +14,10 @@ from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import ActionExecuted
 
 #import os
-#import openai
+import openai
 
 # OpenAI authorization
-#openai.organization = "org-MVRMhL527YpFJrqDkAP9ivu5"
+openai.organization = "org-MVRMhL527YpFJrqDkAP9ivu5"
 #openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class ActionSearchLibrary(Action):
