@@ -15,7 +15,6 @@ from rasa_sdk.events import ActionExecuted
 
 import os
 import openai
-import jsonlines
 
 # OpenAI authorization
 openai.organization = "org-MVRMhL527YpFJrqDkAP9ivu5"
