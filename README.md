@@ -51,19 +51,22 @@ To add the environment variable to the operating system permanently, add it to y
 
 ### 7. Install and run Rasa X using Docker Compose
 
-Download:
+#### Download
     
     curl -sSL -o install.sh https://storage.googleapis.com/rasa-x-releases/0.41.1/install.sh
     
+#### Install
 Install all files into default folder, `/etc/rasa`:
 
     sudo bash ./install.sh 
 
-Start:
+#### Start
+Start up Rasa X and wait until all containers are running (Using `-d` will run Rasa X in the background):
 
     cd /etc/rasa
     sudo docker-compose up -d
 
+#### Access
 Access and set admin password:
 
     cd /etc/rasa
