@@ -36,15 +36,11 @@ class ActionSearchLibrary(Action):
 
         dispatcher.utter_message(text=searchingMessage)
 
-        if "sk-" in openai.api_key:
-            dispatcher.utter_message(text="OpenAI Api key found")
-        else:
-            dispatcher.utter_message(text="ERROR no api key")
         
         # Send semantic search query to OpenAI API using Babbage engine.
         # Returns up to the max_rerank number of documents, along with their search scores.
         # Read more on the API documentation: https://beta.openai.com/docs/api-reference/searches
-        """ apiResponse = openai.Engine("babbage").search(
+        apiResponse = openai.Engine("babbage").search(
             search_model="babbage", 
             query=inputQuestion, 
             max_rerank=20,
@@ -59,6 +55,6 @@ class ActionSearchLibrary(Action):
         
         # Bot sends the return message 
         dispatcher.utter_message(text=return_message)
- """
+
         # Returns ActionExecuted event to list of Events
         return [ActionExecuted("action_search_library", policy=None)]
