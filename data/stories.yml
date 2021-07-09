@@ -92,3 +92,8 @@ stories:
   - intent: mood_great
   - action: utter_happy
   - action: utter_ask_howcanhelp
+- story: Story from Conversation ID ddd8a3b1b03d4d4c8bfadbf627eaa50d
+  steps:
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_ask_howcanhelp
