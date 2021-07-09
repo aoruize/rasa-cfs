@@ -12,12 +12,14 @@ An AI chatbot for the [Ontario Centre of Forensic Sciences (CFS)](https://www.mc
     - Red Hat 7 / 8
     - CentOS 7 / 8
 - Python 3.8
-- Pip 21.1.3
+- `pip 21.1.3`
+- `docker`
+- `docker-compose`
 
 ### 2. Create and activate virtual environment
 
-    python3 -m venv rasa-cfs-env
-    cd rasa-cfs-env
+    python3 -m venv ~/rasa-cfs-env
+    cd ~/rasa-cfs-env
     source ./bin/activate
 
 ### 3. Clone this repository into virtual environment
@@ -42,19 +44,33 @@ To add the environment variable to the operating system permanently, add it to y
     ~/.bashrc
     ~/.profile
 
-
 ### 6. Run Rasa Action Server 
 
     rasa run actions
 
-### 7. Install and run Rasa X 
-Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script
+### 7. Install and run Rasa X using Docker Compose
 
-    curl -s get-rasa-x.rasa.com | sudo bash
+Download:
 
-When done, the script will print the URL to access Rasa X:
+    curl -sSL -o install.sh https://storage.googleapis.com/rasa-x-releases/0.41.1/install.sh
+    
+Install all files into default folder, `/etc/rasa`:
 
-    You can now access Rasa X on this URL: <--URL-->
+    sudo bash ./install.sh 
+
+Start:
+
+    cd /etc/rasa
+    sudo docker-compose up -d
+
+Access and set admin password:
+
+    cd /etc/rasa
+    sudo python3 rasa_x_commands.py create --update admin me <PASSWORD>
+
+Navigate to the hostname or IP where your server is reachable and log in using your newly created password.
+
+Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-compose
 
 ## Rasa Documentation
 
@@ -63,3 +79,11 @@ Rasa Open Source: https://rasa.com/docs/rasa/
 Rasa X: https://rasa.com/docs/rasa-x/
 
 Rasa Action Server: https://rasa.com/docs/action-server
+
+## Next Steps
+
+Implement in-house semantic search instead of using OpenAI by following this guide:
+
+- Part 1: https://medium.com/mlearning-ai/semantic-search-with-s-bert-is-all-you-need-951bc710e160
+- Part 2: https://medium.com/mlearning-ai/search-rank-and-recommendations-35cc717772cb
+- Code: https://github.com/99sbr/semantic-search-with-sbert 
