@@ -116,6 +116,7 @@ nlu:
     - so so perfect
     - so good
     - so perfect
+    - I'm so happy!
 - intent: mood_unhappy
   examples: |
     - my day was horrible

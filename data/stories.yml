@@ -87,3 +87,8 @@ stories:
   - action: utter_request_feedback
   - intent: give_feedback
   - action: utter_thank_you_for_feedback
+- story: Story from Conversation ID 5514b38ab0da4736a24ef694cddee8c7
+  steps:
+  - intent: mood_great
+  - action: utter_happy
+  - action: utter_ask_howcanhelp
