@@ -85,8 +85,8 @@ Learn more: https://rasa.com/docs/rasa-x/installation-and-setup/install/docker-c
 
         version: '3.4'
         services:
-        app:
-            image: <image:tag>
+            app:
+                image: <image:tag>
 
 3. If your Docker containers are already running, take them down and then start Rasa X again:
 
