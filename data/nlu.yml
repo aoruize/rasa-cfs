@@ -338,3 +338,6 @@ nlu:
   examples: |
     - ur dumb
     - you are so stupid
+- intent: give_feedback
+  examples: |
+    - that wasn't what i wanted
