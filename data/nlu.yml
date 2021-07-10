@@ -18,6 +18,9 @@ nlu:
     - help
     - hi!
     - ahoy
+    - hello!
+    - hi!!
+    - hiiii
 - intent: goodbye
   examples: |
     - good afternoon
@@ -45,6 +48,7 @@ nlu:
     - perfect
     - ok
     - yay!!
+    - yay!
 - intent: deny
   examples: |
     - no
@@ -58,6 +62,7 @@ nlu:
     - i don't think so
     - nope
     - eh
+    - you can't
 - intent: request_help
   examples: |
     - help
@@ -92,6 +97,7 @@ nlu:
     - i dont need anymore help
     - no more
     - thats it
+    - nevermind
 - intent: thank_you
   examples: |
     - thank you!
@@ -123,6 +129,10 @@ nlu:
     - :D
     - feelin awesome today
     - woohoo!!
+    - woohoo!!!!!!!
+    - woohoo!!!
+    - woohoo!
+    - wooohoooo
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -342,6 +352,8 @@ nlu:
     - how do i test for semen
     - dna database
     - database
+    - how to study hair
+    - how does dna work
 - intent: insult
   examples: |
     - ur dumb
@@ -349,6 +361,9 @@ nlu:
     - I hate u
     - f u
     - I hate u so much
+    - you are stupid
+    - why are you so stupid
+    - you are dumb
 - intent: give_feedback
   examples: |
     - that wasn't what i wanted
